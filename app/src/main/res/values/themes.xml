@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.NaijaBible" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:windowBackground">@color/brand_green</item>
+
+    <!-- Shown by the system while the app starts, then swapped for Theme.NaijaBible.Main. -->
+    <style name="Theme.NaijaBible" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.NaijaBible.Main</item>
     </style>
+
+    <style name="Theme.NaijaBible.Main" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+    </style>
+
 </resources>

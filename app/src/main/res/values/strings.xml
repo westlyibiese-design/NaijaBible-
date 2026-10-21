@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NaijaBible</string>
+    <string name="app_title">Naija Bible</string>
+    <string name="app_tagline">Holy Bible in Nigerian Pidgin</string>
+    <string name="copyright">© Neribo Group</string>
+
+    <string name="nav_books">Books</string>
+    <string name="nav_bookmarks">Bookmarks</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="books_search_hint">Search a book</string>
+    <string name="bookmarks_title">Bookmarks</string>
+    <string name="bookmarks_empty">No bookmarks yet. Tap a verse while reading to bookmark it.</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_text_size">Text size</string>
+    <string name="cd_bookmark">Bookmark</string>
+    <string name="cd_search">Search</string>
 </resources>
