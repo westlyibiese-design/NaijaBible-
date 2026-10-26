@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bookmarks -->
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="bookmark_undo">Undo</string>
+    <string name="cd_remove_bookmark">Remove bookmark %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_display">Display</string>
+    <string name="settings_dark_mode">Dark mode</string>
+    <string name="settings_dark_mode_sub">Switch to dark theme</string>
+    <string name="settings_text_size_sub">Adjust the verse text size</string>
+    <string name="settings_about_section">About</string>
+    <string name="settings_about_app">About Naija Bible</string>
+    <string name="settings_about_app_sub">Learn more about the app</string>
+    <string name="settings_rate">Rate this app</string>
+    <string name="settings_rate_sub">If you like it, give us a rating</string>
+    <string name="settings_share">Share this app</string>
+    <string name="settings_share_sub">Tell your friends</string>
+    <string name="settings_report">Report a mistake</string>
+    <string name="settings_report_sub">Found an error in a verse? Let us know</string>
+    <string name="settings_footer_version">Naija Bible v%1$s</string>
+    <string name="settings_no_email_app">No email app found.</string>
+
+    <!-- About page -->
+    <string name="about_text_1">Naija Bible is the Holy Bible in everyday Nigerian Pidgin, arranged book by book and chapter by chapter. It works fully offline.</string>
+    <string name="about_text_2">The text is rendered into Pidgin from the World English Bible, which is in the public domain. Books are added with each update.</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_contact">Contact: westlyibiese@gmail.com</string>
+</resources>

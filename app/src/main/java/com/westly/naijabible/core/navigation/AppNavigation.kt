@@ -48,6 +48,7 @@ import com.westly.naijabible.feature.bookmarks.BookmarksScreen
 import com.westly.naijabible.feature.books.BooksScreen
 import com.westly.naijabible.feature.chapters.ChaptersScreen
 import com.westly.naijabible.feature.reading.ReadingScreen
+import com.westly.naijabible.feature.settings.AboutScreen
 import com.westly.naijabible.feature.settings.SettingsScreen
 import kotlinx.coroutines.launch
 
@@ -60,11 +61,14 @@ enum class TopDestination(val route: String, @StringRes val labelRes: Int) {
 
 private const val ARG_BOOK = "book"
 private const val ARG_CHAPTER = "chapter"
+private const val ARG_VERSE = "verse"
 private const val ROUTE_CHAPTERS = "chapters/{$ARG_BOOK}"
-private const val ROUTE_READING = "reading/{$ARG_BOOK}/{$ARG_CHAPTER}"
+private const val ROUTE_READING = "reading/{$ARG_BOOK}/{$ARG_CHAPTER}?$ARG_VERSE={$ARG_VERSE}"
+private const val ROUTE_ABOUT = "about"
 
 private fun chaptersRoute(book: Int) = "chapters/$book"
-private fun readingRoute(book: Int, chapter: Int) = "reading/$book/$chapter"
+private fun readingRoute(book: Int, chapter: Int, verse: Int = 0) =
+    if (verse > 0) "reading/$book/$chapter?$ARG_VERSE=$verse" else "reading/$book/$chapter"
 
 @Composable
 fun NaijaBibleApp(bibleIndex: BibleIndex) {
@@ -85,12 +89,21 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
     val settings by preferences.settings.collectAsState(initial = AppSettings())
 
     val isReading = currentRoute == ROUTE_READING
-    // The chapter picker belongs to the Books tab, so the Books tab is selected there.
-    val selectedRoute = if (currentRoute == ROUTE_CHAPTERS) TopDestination.Books.route else currentRoute
+    // The chapter picker belongs to the Books tab, and the About page to the Settings tab.
+    val selectedRoute = when (currentRoute) {
+        ROUTE_CHAPTERS -> TopDestination.Books.route
+        ROUTE_ABOUT -> TopDestination.Settings.route
+        else -> currentRoute
+    }
 
     // Back from the reading screen always goes to the chapter picker of the book on screen now.
     fun leaveReading(currentBook: Int) {
         val previous = navController.previousBackStackEntry
+        // Opened from the Bookmarks screen: Back returns there.
+        if (previous?.destination?.route == TopDestination.Bookmarks.route) {
+            navController.popBackStack()
+            return
+        }
         val pickerIsBelow = previous != null &&
             previous.destination.route == ROUTE_CHAPTERS &&
             previous.arguments?.getInt(ARG_BOOK) == currentBook
@@ -106,6 +119,10 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
     fun goTo(destination: TopDestination) {
         if (destination == TopDestination.Books && currentRoute == ROUTE_CHAPTERS) {
             navController.popBackStack(TopDestination.Books.route, inclusive = false)
+            return
+        }
+        if (destination == TopDestination.Settings && currentRoute == ROUTE_ABOUT) {
+            navController.popBackStack(TopDestination.Settings.route, inclusive = false)
             return
         }
         navController.navigate(destination.route) {
@@ -161,12 +178,17 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
                 route = ROUTE_READING,
                 arguments = listOf(
                     navArgument(ARG_BOOK) { type = NavType.IntType },
-                    navArgument(ARG_CHAPTER) { type = NavType.IntType }
+                    navArgument(ARG_CHAPTER) { type = NavType.IntType },
+                    navArgument(ARG_VERSE) {
+                        type = NavType.IntType
+                        defaultValue = 0
+                    }
                 )
             ) { entry ->
                 ReadingScreen(
                     initialBook = entry.arguments?.getInt(ARG_BOOK) ?: 1,
                     initialChapter = entry.arguments?.getInt(ARG_CHAPTER) ?: 1,
+                    initialVerse = entry.arguments?.getInt(ARG_VERSE) ?: 0,
                     index = bibleIndex,
                     repository = repository,
                     bookmarks = bookmarks,
@@ -185,10 +207,33 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
                 )
             }
             composable(TopDestination.Bookmarks.route) {
-                BookmarksScreen()
+                BookmarksScreen(
+                    bookmarks = bookmarks,
+                    repository = repository,
+                    onOpenBookmark = { bookmark: BookmarkKey ->
+                        navController.navigate(
+                            readingRoute(bookmark.bookNumber, bookmark.chapter, bookmark.verse)
+                        )
+                    },
+                    onToggleBookmark = { bookmark: BookmarkKey ->
+                        scope.launch { readerStore.toggleBookmark(bookmark) }
+                    }
+                )
             }
             composable(TopDestination.Settings.route) {
-                SettingsScreen()
+                SettingsScreen(
+                    textSizeStep = settings.textSizeStep,
+                    onTextSizeStepChange = { step ->
+                        scope.launch { preferences.setTextSizeStep(step) }
+                    },
+                    onDarkModeChange = { dark ->
+                        scope.launch { preferences.setDarkMode(dark) }
+                    },
+                    onOpenAbout = { navController.navigate(ROUTE_ABOUT) }
+                )
+            }
+            composable(ROUTE_ABOUT) {
+                AboutScreen(onBack = { navController.popBackStack() })
             }
         }
     }

@@ -56,7 +56,18 @@ class NaijaColors(
     // Bottom bar
     val navBar: Color,
     val navBarBorder: Color,
-    val navInactive: Color
+    val navInactive: Color,
+    // Settings and About (used from Phase 5)
+    val settingsIcon: Color,
+    val switchTrackOff: Color,
+    val switchBorderOff: Color,
+    val switchThumbOff: Color,
+    val switchTrackOn: Color,
+    val switchThumbOn: Color,
+    // "Bookmark removed" message with the Undo action
+    val snackbar: Color,
+    val snackbarText: Color,
+    val snackbarAction: Color
 )
 
 val LightNaijaColors = NaijaColors(
@@ -96,7 +107,16 @@ val LightNaijaColors = NaijaColors(
     buttonPreviousText = Color(0xFF444340),
     navBar = Color(0xFFFFFFFF),
     navBarBorder = Color(0xFFEEEBE4),
-    navInactive = Color(0xFF6E6E6F)
+    navInactive = Color(0xFF6E6E6F),
+    settingsIcon = Color(0xFF025F2F),
+    switchTrackOff = Color(0xFFE6E6E6),
+    switchBorderOff = Color(0xFFC9C9C9),
+    switchThumbOff = Color(0xFFFFFFFF),
+    switchTrackOn = Color(0xFF036530),
+    switchThumbOn = Color(0xFFFFFFFF),
+    snackbar = Color(0xFF1F2321),
+    snackbarText = Color(0xFFF4F4F4),
+    snackbarAction = Color(0xFFF0B323)
 )
 
 val DarkNaijaColors = NaijaColors(
@@ -138,7 +158,17 @@ val DarkNaijaColors = NaijaColors(
     buttonPreviousText = Color(0xFFC5C8D1),
     navBar = Color(0xFF161B21),
     navBarBorder = Color(0xFF1F252C),
-    navInactive = Color(0xFFABAAAD)
+    navInactive = Color(0xFFABAAAD),
+    // Sampled icon green #018839 gives 3.8:1 on the dark card (icons need 3:1).
+    settingsIcon = Color(0xFF018839),
+    switchTrackOff = Color(0xFF282F38),
+    switchBorderOff = Color(0xFF3B434D),
+    switchThumbOff = Color(0xFFF8F8F8),
+    switchTrackOn = Color(0xFF0F8A45),
+    switchThumbOn = Color(0xFFFFFFFF),
+    snackbar = Color(0xFF262B33),
+    snackbarText = Color(0xFFEAECEF),
+    snackbarAction = Color(0xFFF0B323)
 )
 
 val LocalNaijaColors = staticCompositionLocalOf { LightNaijaColors }

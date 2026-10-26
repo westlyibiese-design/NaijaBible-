@@ -75,6 +75,7 @@ import com.westly.naijabible.core.ui.TextSizeControl
 fun ReadingScreen(
     initialBook: Int,
     initialChapter: Int,
+    initialVerse: Int = 0,
     index: BibleIndex,
     repository: BibleRepository,
     bookmarks: Set<BookmarkKey>,
@@ -92,6 +93,8 @@ fun ReadingScreen(
     var book by rememberSaveable { mutableStateOf(initialBook) }
     var chapter by rememberSaveable { mutableStateOf(initialChapter) }
     var showSizeSheet by rememberSaveable { mutableStateOf(false) }
+    // Set when the screen is opened from a bookmark: the verse to scroll to once its chapter is on screen.
+    var pendingVerse by rememberSaveable { mutableStateOf(initialVerse) }
 
     var loaded by remember { mutableStateOf<ChapterText?>(null) }
     var failed by remember { mutableStateOf(false) }
@@ -114,6 +117,18 @@ fun ReadingScreen(
 
     // One scroll state per chapter: a new chapter starts at the top, a rotation keeps the position.
     val listState = rememberSaveable(book, chapter, saver = LazyListState.Saver) { LazyListState() }
+
+    // Opened from a bookmark: scroll so that the verse is visible (the item before it stays in view, item 0 is the title).
+    val shownChapter = loaded
+    LaunchedEffect(shownChapter) {
+        if (pendingVerse > 0 && shownChapter != null &&
+            shownChapter.bookNumber == initialBook && shownChapter.chapter == initialChapter
+        ) {
+            val position = shownChapter.verses.indexOfFirst { it.number == pendingVerse }
+            if (position >= 0) listState.scrollToItem(position)
+            pendingVerse = 0
+        }
+    }
 
     val bookmarkedVerses = remember(bookmarks, book, chapter) {
         bookmarks.filter { it.bookNumber == book && it.chapter == chapter }.map { it.verse }.toSet()
