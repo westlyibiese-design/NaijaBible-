@@ -1,0 +1,841 @@
+{
+  "book": "1 Chronicles",
+  "bookNumber": 13,
+  "testament": "OT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Adam, Seth, Enosh,"
+        },
+        {
+          "verse": 2,
+          "text": "Kenan, Mahalalel, Jared,"
+        },
+        {
+          "verse": 3,
+          "text": "Enoch, Methuselah, Lamech,"
+        },
+        {
+          "verse": 4,
+          "text": "Noah, Shem, Ham and Japheth."
+        },
+        {
+          "verse": 5,
+          "text": "Japheth pikin dem na Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras."
+        },
+        {
+          "verse": 6,
+          "text": "Gomer pikin dem na Ashkenaz, Diphath and Togarmah."
+        },
+        {
+          "verse": 7,
+          "text": "Javan pikin dem na Elishah, Tarshish, Kittim and Dodanim."
+        },
+        {
+          "verse": 8,
+          "text": "Ham pikin dem na Cush, Mizraim, Put and Canaan."
+        },
+        {
+          "verse": 9,
+          "text": "Cush pikin dem na Seba, Havilah, Sabta, Raamah and Sabteca. Raamah pikin dem na Sheba and Dedan."
+        },
+        {
+          "verse": 10,
+          "text": "Cush born Nimrod. E begin to be mighty man for di earth."
+        },
+        {
+          "verse": 11,
+          "text": "Mizraim born Ludim, Anamim, Lehabim, Naphtuhim,"
+        },
+        {
+          "verse": 12,
+          "text": "Pathrusim, Casluhim, wey di Philistines come from, and Caphtorim."
+        },
+        {
+          "verse": 13,
+          "text": "Canaan born Sidon im firstborn, and Heth,"
+        },
+        {
+          "verse": 14,
+          "text": "and di Jebusites, di Amorites, di Girgashites,"
+        },
+        {
+          "verse": 15,
+          "text": "di Hivites, di Arkites, di Sinites,"
+        },
+        {
+          "verse": 16,
+          "text": "di Arvadites, di Zemarites and di Hamathites."
+        },
+        {
+          "verse": 17,
+          "text": "Shem pikin dem na Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether and Meshech."
+        },
+        {
+          "verse": 18,
+          "text": "Arpachshad born Shelah, and Shelah born Eber."
+        },
+        {
+          "verse": 19,
+          "text": "Dem born two sons to Eber. Di name of one na Peleg, because for im days dem divide di earth, and im brother name na Joktan."
+        },
+        {
+          "verse": 20,
+          "text": "Joktan born Almodad, Sheleph, Hazarmaveth, Jerah,"
+        },
+        {
+          "verse": 21,
+          "text": "Hadoram, Uzal, Diklah,"
+        },
+        {
+          "verse": 22,
+          "text": "Ebal, Abimael, Sheba,"
+        },
+        {
+          "verse": 23,
+          "text": "Ophir, Havilah and Jobab. All dis ones na Joktan pikin dem."
+        },
+        {
+          "verse": 24,
+          "text": "Shem, Arpachshad, Shelah,"
+        },
+        {
+          "verse": 25,
+          "text": "Eber, Peleg, Reu,"
+        },
+        {
+          "verse": 26,
+          "text": "Serug, Nahor, Terah,"
+        },
+        {
+          "verse": 27,
+          "text": "Abram, wey be Abraham."
+        },
+        {
+          "verse": 28,
+          "text": "Abraham pikin dem na Isaac and Ishmael."
+        },
+        {
+          "verse": 29,
+          "text": "Dis na dem generations: Ishmael firstborn na Nebaioth, den Kedar, Adbeel, Mibsam,"
+        },
+        {
+          "verse": 30,
+          "text": "Mishma, Dumah, Massa, Hadad, Tema,"
+        },
+        {
+          "verse": 31,
+          "text": "Jetur, Naphish and Kedemah. Dis ones na Ishmael pikin dem."
+        },
+        {
+          "verse": 32,
+          "text": "Keturah, Abraham concubine, born Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. Jokshan pikin dem na Sheba and Dedan."
+        },
+        {
+          "verse": 33,
+          "text": "Midian pikin dem na Ephah, Epher, Hanoch, Abida and Eldaah. All dis ones na Keturah pikin dem."
+        },
+        {
+          "verse": 34,
+          "text": "Abraham born Isaac. Isaac pikin dem na Esau and Israel."
+        },
+        {
+          "verse": 35,
+          "text": "Esau pikin dem na Eliphaz, Reuel, Jeush, Jalam and Korah."
+        },
+        {
+          "verse": 36,
+          "text": "Eliphaz pikin dem na Teman, Omar, Zephi, Gatam, Kenaz, Timna and Amalek."
+        },
+        {
+          "verse": 37,
+          "text": "Reuel pikin dem na Nahath, Zerah, Shammah and Mizzah."
+        },
+        {
+          "verse": 38,
+          "text": "Seir pikin dem na Lotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan."
+        },
+        {
+          "verse": 39,
+          "text": "Lotan pikin dem na Hori and Homam. Timna na Lotan sister."
+        },
+        {
+          "verse": 40,
+          "text": "Shobal pikin dem na Alian, Manahath, Ebal, Shephi and Onam. Zibeon pikin dem na Aiah and Anah."
+        },
+        {
+          "verse": 41,
+          "text": "Anah pikin na Dishon. Dishon pikin dem na Hamran, Eshban, Ithran and Cheran."
+        },
+        {
+          "verse": 42,
+          "text": "Ezer pikin dem na Bilhan, Zaavan and Jaakan. Dishan pikin dem na Uz and Aran."
+        },
+        {
+          "verse": 43,
+          "text": "Dis na di kings wey rule for Edom land before any king rule over Israel pikin dem: Bela, Beor pikin. Di name of im city na Dinhabah."
+        },
+        {
+          "verse": 44,
+          "text": "Bela die, and Jobab, Zerah pikin, from Bozrah, rule for im place."
+        },
+        {
+          "verse": 45,
+          "text": "Jobab die, and Husham from di land of di Temanites rule for im place."
+        },
+        {
+          "verse": 46,
+          "text": "Husham die, and Hadad, Bedad pikin, wey strike Midian for di field of Moab, rule for im place. Di name of im city na Avith."
+        },
+        {
+          "verse": 47,
+          "text": "Hadad die, and Samlah from Masrekah rule for im place."
+        },
+        {
+          "verse": 48,
+          "text": "Samlah die, and Shaul from Rehoboth by di river rule for im place."
+        },
+        {
+          "verse": 49,
+          "text": "Shaul die, and Baal Hanan, Achbor pikin, rule for im place."
+        },
+        {
+          "verse": 50,
+          "text": "Baal Hanan die, and Hadad rule for im place. Di name of im city na Pai, and im wife name na Mehetabel, Matred daughter, Mezahab daughter."
+        },
+        {
+          "verse": 51,
+          "text": "Hadad die too. Di chiefs of Edom na chief Timna, chief Aliah, chief Jetheth,"
+        },
+        {
+          "verse": 52,
+          "text": "chief Oholibamah, chief Elah, chief Pinon,"
+        },
+        {
+          "verse": 53,
+          "text": "chief Kenaz, chief Teman, chief Mibzar,"
+        },
+        {
+          "verse": 54,
+          "text": "chief Magdiel and chief Iram. Dis ones na di chiefs of Edom."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Israel pikin dem na Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+        },
+        {
+          "verse": 2,
+          "text": "Dan, Joseph, Benjamin, Naphtali, Gad and Asher."
+        },
+        {
+          "verse": 3,
+          "text": "Judah pikin dem na Er, Onan and Shelah. Dis three na Bathshua, di Canaanite woman, born for am. Er, Judah firstborn, bad for di Lord eyes, and di Lord kill am."
+        },
+        {
+          "verse": 4,
+          "text": "Tamar, im pikin wife, born Perez and Zerah for am. All Judah pikin dem na five."
+        },
+        {
+          "verse": 5,
+          "text": "Perez pikin dem na Hezron and Hamul."
+        },
+        {
+          "verse": 6,
+          "text": "Zerah pikin dem na Zimri, Ethan, Heman, Calcol and Dara, five in all."
+        },
+        {
+          "verse": 7,
+          "text": "Carmi pikin na Achar, di one wey trouble Israel, wey sin about di thing wey dem don give to God."
+        },
+        {
+          "verse": 8,
+          "text": "Ethan pikin na Azariah."
+        },
+        {
+          "verse": 9,
+          "text": "Di pikin dem wey dem born for Hezron na Jerahmeel, Ram and Chelubai."
+        },
+        {
+          "verse": 10,
+          "text": "Ram born Amminadab, and Amminadab born Nahshon, prince of Judah pikin dem."
+        },
+        {
+          "verse": 11,
+          "text": "Nahshon born Salma, and Salma born Boaz."
+        },
+        {
+          "verse": 12,
+          "text": "Boaz born Obed, and Obed born Jesse."
+        },
+        {
+          "verse": 13,
+          "text": "Jesse born Eliab im firstborn, Abinadab di second, Shimea di third,"
+        },
+        {
+          "verse": 14,
+          "text": "Nethanel di fourth, Raddai di fifth,"
+        },
+        {
+          "verse": 15,
+          "text": "Ozem di sixth, David di seventh."
+        },
+        {
+          "verse": 16,
+          "text": "Dem sisters na Zeruiah and Abigail. Zeruiah pikin dem na Abishai, Joab and Asahel, three."
+        },
+        {
+          "verse": 17,
+          "text": "Abigail born Amasa. Amasa papa na Jether di Ishmaelite."
+        },
+        {
+          "verse": 18,
+          "text": "Caleb, Hezron pikin, born pikin dem with Azubah im wife, and with Jerioth. Im pikin dem na Jesher, Shobab and Ardon."
+        },
+        {
+          "verse": 19,
+          "text": "As Azubah die, Caleb marry Ephrath, wey born Hur for am."
+        },
+        {
+          "verse": 20,
+          "text": "Hur born Uri, and Uri born Bezalel."
+        },
+        {
+          "verse": 21,
+          "text": "After dat Hezron go meet Machir daughter, Gilead papa, wey e marry as e be 60 years old, and e born Segub for am."
+        },
+        {
+          "verse": 22,
+          "text": "Segub born Jair, wey get 23 cities for Gilead land."
+        },
+        {
+          "verse": 23,
+          "text": "Geshur and Aram take Havvoth Jair from dem, with Kenath and im villages, even 60 towns. All dis ones na Machir pikin dem, Gilead papa."
+        },
+        {
+          "verse": 24,
+          "text": "After Hezron die for Caleb Ephrathah, Abijah, Hezron wife, born Ashhur for am, Tekoa papa."
+        },
+        {
+          "verse": 25,
+          "text": "Jerahmeel, Hezron firstborn, pikin dem na Ram im firstborn, Bunah, Oren, Ozem and Ahijah."
+        },
+        {
+          "verse": 26,
+          "text": "Jerahmeel get another wife, wey im name na Atarah. Na Onam mama."
+        },
+        {
+          "verse": 27,
+          "text": "Ram, Jerahmeel firstborn, pikin dem na Maaz, Jamin and Eker."
+        },
+        {
+          "verse": 28,
+          "text": "Onam pikin dem na Shammai and Jada. Shammai pikin dem na Nadab and Abishur."
+        },
+        {
+          "verse": 29,
+          "text": "Abishur wife name na Abihail, and e born Ahban and Molid for am."
+        },
+        {
+          "verse": 30,
+          "text": "Nadab pikin dem na Seled and Appaim, but Seled die without pikin."
+        },
+        {
+          "verse": 31,
+          "text": "Appaim pikin na Ishi. Ishi pikin na Sheshan. Sheshan pikin na Ahlai."
+        },
+        {
+          "verse": 32,
+          "text": "Jada, Shammai brother, pikin dem na Jether and Jonathan. Jether die without pikin."
+        },
+        {
+          "verse": 33,
+          "text": "Jonathan pikin dem na Peleth and Zaza. Dis ones na Jerahmeel pikin dem."
+        },
+        {
+          "verse": 34,
+          "text": "Sheshan no get sons, only daughters. Sheshan get one servant, one Egyptian, wey im name na Jarha."
+        },
+        {
+          "verse": 35,
+          "text": "Sheshan give im daughter to Jarha im servant as wife, and e born Attai for am."
+        },
+        {
+          "verse": 36,
+          "text": "Attai born Nathan, and Nathan born Zabad,"
+        },
+        {
+          "verse": 37,
+          "text": "Zabad born Ephlal, and Ephlal born Obed,"
+        },
+        {
+          "verse": 38,
+          "text": "Obed born Jehu, and Jehu born Azariah,"
+        },
+        {
+          "verse": 39,
+          "text": "Azariah born Helez, and Helez born Eleasah,"
+        },
+        {
+          "verse": 40,
+          "text": "Eleasah born Sismai, and Sismai born Shallum,"
+        },
+        {
+          "verse": 41,
+          "text": "Shallum born Jekamiah, and Jekamiah born Elishama."
+        },
+        {
+          "verse": 42,
+          "text": "Caleb, Jerahmeel brother, pikin dem na Mesha im firstborn, wey be Ziph papa, and Mareshah pikin dem, Hebron papa."
+        },
+        {
+          "verse": 43,
+          "text": "Hebron pikin dem na Korah, Tappuah, Rekem and Shema."
+        },
+        {
+          "verse": 44,
+          "text": "Shema born Raham, Jorkeam papa, and Rekem born Shammai."
+        },
+        {
+          "verse": 45,
+          "text": "Shammai pikin na Maon, and Maon na Beth Zur papa."
+        },
+        {
+          "verse": 46,
+          "text": "Ephah, Caleb concubine, born Haran, Moza and Gazez. Haran born Gazez."
+        },
+        {
+          "verse": 47,
+          "text": "Jahdai pikin dem na Regem, Jotham, Geshan, Pelet, Ephah and Shaaph."
+        },
+        {
+          "verse": 48,
+          "text": "Maacah, Caleb concubine, born Sheber and Tirhanah."
+        },
+        {
+          "verse": 49,
+          "text": "E born Shaaph too, Madmannah papa, Sheva, Machbenah papa and Gibea papa. Caleb daughter na Achsah."
+        },
+        {
+          "verse": 50,
+          "text": "Dis ones na Caleb pikin dem. Hur pikin dem, Ephrathah firstborn, na Shobal, Kiriath Jearim papa,"
+        },
+        {
+          "verse": 51,
+          "text": "Salma, Bethlehem papa, and Hareph, Beth Gader papa."
+        },
+        {
+          "verse": 52,
+          "text": "Shobal, Kiriath Jearim papa, get pikin dem: Haroeh and half of di Menuhoth."
+        },
+        {
+          "verse": 53,
+          "text": "Di families of Kiriath Jearim na di Ithrites, di Puthites, di Shumathites and di Mishraites. From dem di Zorathites and di Eshtaolites come."
+        },
+        {
+          "verse": 54,
+          "text": "Salma pikin dem na Bethlehem, di Netophathites, Atroth Beth Joab, half of di Manahathites and di Zorites."
+        },
+        {
+          "verse": 55,
+          "text": "Di families of di scribes wey dey stay for Jabez na di Tirathites, di Shimeathites and di Sucathites. Dis ones na di Kenites wey come from Hammath, wey be papa of Rechab house."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dis na David pikin dem wey dem born for am for Hebron: di firstborn na Amnon, from Ahinoam di Jezreelite woman, di second na Daniel, from Abigail di Carmelite woman,"
+        },
+        {
+          "verse": 2,
+          "text": "di third na Absalom, Maacah pikin, Talmai daughter, king of Geshur, di fourth na Adonijah, Haggith pikin,"
+        },
+        {
+          "verse": 3,
+          "text": "di fifth na Shephatiah, from Abital, di sixth na Ithream, from im wife Eglah."
+        },
+        {
+          "verse": 4,
+          "text": "Six dem born for am for Hebron, and e rule there seven years and six months. For Jerusalem e rule 33 years."
+        },
+        {
+          "verse": 5,
+          "text": "Dem born dis ones for am for Jerusalem: Shimea, Shobab, Nathan and Solomon, four, from Bathshua, Ammiel daughter,"
+        },
+        {
+          "verse": 6,
+          "text": "and Ibhar, Elishama, Eliphelet,"
+        },
+        {
+          "verse": 7,
+          "text": "Nogah, Nepheg, Japhia,"
+        },
+        {
+          "verse": 8,
+          "text": "Elishama, Eliada and Eliphelet, nine."
+        },
+        {
+          "verse": 9,
+          "text": "All dis ones na David pikin dem, apart from di pikin dem of di concubines. Tamar na dem sister."
+        },
+        {
+          "verse": 10,
+          "text": "Solomon pikin na Rehoboam. Abijah im pikin, Asa im pikin, Jehoshaphat im pikin,"
+        },
+        {
+          "verse": 11,
+          "text": "Joram im pikin, Ahaziah im pikin, Joash im pikin,"
+        },
+        {
+          "verse": 12,
+          "text": "Amaziah im pikin, Azariah im pikin, Jotham im pikin,"
+        },
+        {
+          "verse": 13,
+          "text": "Ahaz im pikin, Hezekiah im pikin, Manasseh im pikin,"
+        },
+        {
+          "verse": 14,
+          "text": "Amon im pikin, Josiah im pikin."
+        },
+        {
+          "verse": 15,
+          "text": "Josiah pikin dem na Johanan di firstborn, Jehoiakim di second, Zedekiah di third, Shallum di fourth."
+        },
+        {
+          "verse": 16,
+          "text": "Jehoiakim pikin dem na Jeconiah im pikin and Zedekiah im pikin."
+        },
+        {
+          "verse": 17,
+          "text": "Jeconiah, wey dem carry go as prisoner, pikin dem na Shealtiel im pikin,"
+        },
+        {
+          "verse": 18,
+          "text": "Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah."
+        },
+        {
+          "verse": 19,
+          "text": "Pedaiah pikin dem na Zerubbabel and Shimei. Zerubbabel pikin dem na Meshullam and Hananiah, and Shelomith na dem sister,"
+        },
+        {
+          "verse": 20,
+          "text": "and Hashubah, Ohel, Berechiah, Hasadiah and Jushab Hesed, five."
+        },
+        {
+          "verse": 21,
+          "text": "Hananiah pikin dem na Pelatiah and Jeshaiah, and Rephaiah pikin dem, Arnan pikin dem, Obadiah pikin dem and Shecaniah pikin dem."
+        },
+        {
+          "verse": 22,
+          "text": "Shecaniah pikin na Shemaiah. Shemaiah pikin dem na Hattush, Igal, Bariah, Neariah and Shaphat, six."
+        },
+        {
+          "verse": 23,
+          "text": "Neariah pikin dem na Elioenai, Hizkiah and Azrikam, three."
+        },
+        {
+          "verse": 24,
+          "text": "Elioenai pikin dem na Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani, seven."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Judah pikin dem na Perez, Hezron, Carmi, Hur and Shobal."
+        },
+        {
+          "verse": 2,
+          "text": "Reaiah, Shobal pikin, born Jahath, and Jahath born Ahumai and Lahad. Dis ones na di families of di Zorathites."
+        },
+        {
+          "verse": 3,
+          "text": "Dis na di pikin dem of Etam papa: Jezreel, Ishma and Idbash, and dem sister name na Hazzelelponi,"
+        },
+        {
+          "verse": 4,
+          "text": "and Penuel, Gedor papa, and Ezer, Hushah papa. Dis ones na Hur pikin dem, Ephrathah firstborn, Bethlehem papa."
+        },
+        {
+          "verse": 5,
+          "text": "Ashhur, Tekoa papa, get two wives, Helah and Naarah."
+        },
+        {
+          "verse": 6,
+          "text": "Naarah born Ahuzzam, Hepher, Temeni and Haahashtari for am. Dis ones na Naarah pikin dem."
+        },
+        {
+          "verse": 7,
+          "text": "Helah pikin dem na Zereth, Izhar and Ethnan."
+        },
+        {
+          "verse": 8,
+          "text": "Koz born Anub, Zobebah and di families of Aharhel, Harum pikin."
+        },
+        {
+          "verse": 9,
+          "text": "Jabez honorable pass im brothers, and im mama call im name Jabez, say, “Because I born am with sorrow.”"
+        },
+        {
+          "verse": 10,
+          "text": "Jabez call di God of Israel say, “Oh, make you bless me well well, and make my border big, and make your hand dey with me, and make you keep me from evil, so that e no go give me pain!” God give am wetin e ask."
+        },
+        {
+          "verse": 11,
+          "text": "Chelub, Shuah brother, born Mehir, wey be Eshton papa."
+        },
+        {
+          "verse": 12,
+          "text": "Eshton born Beth Rapha, Paseah and Tehinnah, Ir Nahash papa. Dis ones na di men of Recah."
+        },
+        {
+          "verse": 13,
+          "text": "Kenaz pikin dem na Othniel and Seraiah. Othniel pikin dem na Hathath."
+        },
+        {
+          "verse": 14,
+          "text": "Meonothai born Ophrah, and Seraiah born Joab, Ge Harashim papa, because dem be craftsmen."
+        },
+        {
+          "verse": 15,
+          "text": "Caleb, Jephunneh pikin, pikin dem na Iru, Elah and Naam, and Elah pikin dem na Kenaz."
+        },
+        {
+          "verse": 16,
+          "text": "Jehallelel pikin dem na Ziph, Ziphah, Tiria and Asarel."
+        },
+        {
+          "verse": 17,
+          "text": "Ezrah pikin dem na Jether, Mered, Epher and Jalon. E born Miriam, Shammai and Ishbah, Eshtemoa papa."
+        },
+        {
+          "verse": 18,
+          "text": "Im wife, di Jewish woman, born Jered, Gedor papa, Heber, Soco papa, and Jekuthiel, Zanoah papa. Dis ones na di pikin dem of Bithiah, Pharaoh daughter, wey Mered marry."
+        },
+        {
+          "verse": 19,
+          "text": "Di pikin dem of di wife of Hodiah, Naham sister, na Keilah papa, di Garmite, and Eshtemoa di Maacathite."
+        },
+        {
+          "verse": 20,
+          "text": "Shimon pikin dem na Amnon, Rinnah, Ben Hanan and Tilon. Ishi pikin dem na Zoheth and Ben Zoheth."
+        },
+        {
+          "verse": 21,
+          "text": "Shelah, Judah pikin, pikin dem na Er, Lecah papa, Laadah, Mareshah papa, and di families of di house of di linen workers for Beth Ashbea,"
+        },
+        {
+          "verse": 22,
+          "text": "and Jokim, and di men of Cozeba, and Joash, and Saraph, wey rule for Moab, and Jashubi Lehem. Dis records na old records."
+        },
+        {
+          "verse": 23,
+          "text": "Dis ones na potters and dem wey dey stay among plants and hedges. Dem dey stay there for di king work."
+        },
+        {
+          "verse": 24,
+          "text": "Simeon pikin dem na Nemuel, Jamin, Jarib, Zerah and Shaul,"
+        },
+        {
+          "verse": 25,
+          "text": "Shallum im pikin, Mibsam im pikin, Mishma im pikin."
+        },
+        {
+          "verse": 26,
+          "text": "Mishma pikin dem na Hammuel im pikin, Zaccur im pikin and Shimei im pikin."
+        },
+        {
+          "verse": 27,
+          "text": "Shimei get 16 sons and six daughters, but im brothers no get plenty pikin, and all dem family no plenty like Judah pikin dem."
+        },
+        {
+          "verse": 28,
+          "text": "Dem dey stay for Beersheba, Moladah, Hazar Shual,"
+        },
+        {
+          "verse": 29,
+          "text": "Bilhah, Ezem, Tolad,"
+        },
+        {
+          "verse": 30,
+          "text": "Bethuel, Hormah, Ziklag,"
+        },
+        {
+          "verse": 31,
+          "text": "Beth Marcaboth, Hazar Susim, Beth Biri and Shaaraim. Dis na dem cities until David become king."
+        },
+        {
+          "verse": 32,
+          "text": "Dem villages na Etam, Ain, Rimmon, Tochen and Ashan, five cities,"
+        },
+        {
+          "verse": 33,
+          "text": "and all dem villages wey dey round di same cities, reach Baal. Dis na dem places to stay, and dem get dem genealogy."
+        },
+        {
+          "verse": 34,
+          "text": "Meshobab, Jamlech, Joshah, Amaziah pikin,"
+        },
+        {
+          "verse": 35,
+          "text": "Joel, Jehu, Joshibiah pikin, Seraiah pikin, Asiel pikin,"
+        },
+        {
+          "verse": 36,
+          "text": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,"
+        },
+        {
+          "verse": 37,
+          "text": "Ziza, Shiphi pikin, Allon pikin, Jedaiah pikin, Shimri pikin, Shemaiah pikin."
+        },
+        {
+          "verse": 38,
+          "text": "Dis ones wey dem mention by name na princes for dem families, and dem papa dem house increase well well."
+        },
+        {
+          "verse": 39,
+          "text": "Dem go reach di entrance of Gedor, to di east side of di valley, to look for pasture for dem flocks."
+        },
+        {
+          "verse": 40,
+          "text": "Dem find fat and good pasture, and di land wide, quiet and peaceful, because Ham pikin dem dey stay there before."
+        },
+        {
+          "verse": 41,
+          "text": "Dis ones wey dem write by name come for di days of Hezekiah king of Judah, strike dem tents and di Meunim wey dem find there, destroy dem completely till today, and dey stay for dem place, because pasture dey there for dem flocks."
+        },
+        {
+          "verse": 42,
+          "text": "Some of dem, wey be Simeon pikin dem, 500 men, go Mount Seir, and dem captains na Pelatiah, Neariah, Rephaiah and Uzziel, Ishi pikin dem."
+        },
+        {
+          "verse": 43,
+          "text": "Dem strike di remnant of di Amalekites wey escape, and dem dey stay there till today."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Reuben pikin dem, di firstborn of Israel, because na im be di firstborn, but because e dirty im papa bed, dem give im birthright to Joseph pikin dem, Israel pikin, so dem no go list am for di genealogy as di firstborn,"
+        },
+        {
+          "verse": 2,
+          "text": "because Judah win im brothers, and from am di ruler come, but di birthright na Joseph own,"
+        },
+        {
+          "verse": 3,
+          "text": "Reuben pikin dem, Israel firstborn, na Hanoch, Pallu, Hezron and Carmi."
+        },
+        {
+          "verse": 4,
+          "text": "Joel pikin dem na Shemaiah im pikin, Gog im pikin, Shimei im pikin,"
+        },
+        {
+          "verse": 5,
+          "text": "Micah im pikin, Reaia im pikin, Baal im pikin,"
+        },
+        {
+          "verse": 6,
+          "text": "Beerah im pikin, wey Tilgath Pilneser king of Assyria carry go as prisoner. E be prince of di Reubenites."
+        },
+        {
+          "verse": 7,
+          "text": "Im brothers by dem families, as dem write dem for di genealogy of dem generations: di chief Jeiel and Zechariah,"
+        },
+        {
+          "verse": 8,
+          "text": "and Bela, Azaz pikin, Shema pikin, Joel pikin, wey dey stay for Aroer, reach Nebo and Baal Meon."
+        },
+        {
+          "verse": 9,
+          "text": "For east e dey stay reach di entrance of di wilderness from di River Euphrates, because dem cattle plenty for Gilead land."
+        },
+        {
+          "verse": 10,
+          "text": "For di days of Saul dem fight war with di Hagrites, wey fall by dem hand, and dem dey stay for dem tents all over di east of Gilead."
+        },
+        {
+          "verse": 11,
+          "text": "Gad pikin dem dey stay opposite dem for Bashan land reach Salecah:"
+        },
+        {
+          "verse": 12,
+          "text": "Joel di chief, Shapham di next, Janai and Shaphat for Bashan."
+        },
+        {
+          "verse": 13,
+          "text": "Dem brothers for dem papa dem house na Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven."
+        },
+        {
+          "verse": 14,
+          "text": "Dis ones na Abihail pikin dem, Huri pikin, Jaroah pikin, Gilead pikin, Michael pikin, Jeshishai pikin, Jahdo pikin, Buz pikin."
+        },
+        {
+          "verse": 15,
+          "text": "Ahi, Abdiel pikin, Guni pikin, na chief of dem papa dem house."
+        },
+        {
+          "verse": 16,
+          "text": "Dem dey stay for Gilead, for Bashan and im towns, and for all di pasture lands of Sharon, reach dem borders."
+        },
+        {
+          "verse": 17,
+          "text": "Dem count all dem for genealogies for di days of Jotham king of Judah and for di days of Jeroboam king of Israel."
+        },
+        {
+          "verse": 18,
+          "text": "Reuben pikin dem, di Gadites and half of Manasseh tribe, wey get brave men, men wey fit carry shield and sword, shoot bow and know war well, na 44,760, wey fit go to war."
+        },
+        {
+          "verse": 19,
+          "text": "Dem fight war with di Hagrites, with Jetur, Naphish and Nodab."
+        },
+        {
+          "verse": 20,
+          "text": "Dem receive help against dem, and dem give di Hagrites and all wey dey with dem into dem hand, because dem cry to God for battle, and e answer dem, because dem trust am."
+        },
+        {
+          "verse": 21,
+          "text": "Dem carry away dem cattle: 50,000 camels, 250,000 sheep, 2,000 donkeys, and 100,000 men."
+        },
+        {
+          "verse": 22,
+          "text": "Plenty fall dead, because di war na from God. Dem dey stay for dem place until dem carry dem go as prisoners."
+        },
+        {
+          "verse": 23,
+          "text": "Di pikin dem of half of Manasseh tribe dey stay for di land from Bashan to Baal Hermon, and Senir, and Mount Hermon. Dem increase."
+        },
+        {
+          "verse": 24,
+          "text": "Dis na di heads of dem papa dem houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah and Jahdiel, brave and mighty men, famous men, heads of dem papa dem houses."
+        },
+        {
+          "verse": 25,
+          "text": "But dem sin against di God of dem papa dem, and dem follow di gods of di people of di land like prostitutes, wey God destroy before dem."
+        },
+        {
+          "verse": 26,
+          "text": "Di God of Israel stir up di spirit of Pul king of Assyria, even di spirit of Tilgath Pilneser king of Assyria, and e carry dem go, di Reubenites, di Gadites and half of Manasseh tribe, and bring dem to Halah, Habor, Hara and di river of Gozan, till today."
+        }
+      ]
+    }
+  ]
+}

@@ -28,6 +28,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.westly.naijabible.R
+import com.westly.naijabible.core.data.BibleIndex
 import com.westly.naijabible.core.theme.NaijaTheme
 import com.westly.naijabible.core.ui.BookmarkIcon
 import com.westly.naijabible.core.ui.OpenBookIcon
@@ -43,7 +44,7 @@ enum class TopDestination(val route: String, @StringRes val labelRes: Int) {
 }
 
 @Composable
-fun NaijaBibleApp() {
+fun NaijaBibleApp(bibleIndex: BibleIndex) {
     val navController = rememberNavController()
     val backStackEntry by navController.currentBackStackEntryAsState()
     val currentRoute = backStackEntry?.destination?.route
@@ -73,7 +74,10 @@ fun NaijaBibleApp() {
             modifier = Modifier.padding(innerPadding)
         ) {
             composable(TopDestination.Books.route) {
-                BooksScreen(onOpenSettings = { goTo(TopDestination.Settings) })
+                BooksScreen(
+                    index = bibleIndex,
+                    onOpenSettings = { goTo(TopDestination.Settings) }
+                )
             }
             composable(TopDestination.Bookmarks.route) {
                 BookmarksScreen()

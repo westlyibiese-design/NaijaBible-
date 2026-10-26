@@ -1,0 +1,754 @@
+{
+  "book": "Joshua",
+  "bookNumber": 6,
+  "testament": "OT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dis na di lot of di tribe of di pikin dem of Judah according to dem families: reach di border of Edom, di wilderness of Zin for di south, for di farthest part of di south."
+        },
+        {
+          "verse": 2,
+          "text": "Dem south border na from di end of di Salt Sea, from di bay wey face di south,"
+        },
+        {
+          "verse": 3,
+          "text": "and di border go out for di south of di ascent of Akrabbim, and pass go Zin, and go up by di south of Kadesh Barnea, and pass by Hezron, and go up to Addar, and turn go Karka,"
+        },
+        {
+          "verse": 4,
+          "text": "and pass go Azmon, and go out for di brook of Egypt. Di border end for di sea. Dis go be your south border."
+        },
+        {
+          "verse": 5,
+          "text": "Di east border na di Salt Sea, reach di end of Jordan. Di border of di north side na from di bay of di sea for di end of Jordan,"
+        },
+        {
+          "verse": 6,
+          "text": "and di border go up to Beth Hoglah, and pass by di north of Beth Arabah. Di border go up to di stone of Bohan di pikin of Reuben,"
+        },
+        {
+          "verse": 7,
+          "text": "and di border go up to Debir from di valley of Achor, and so toward di north, dey face Gilgal, wey dey before di ascent of Adummim, wey dey for di south side of di river. Di border pass go di waters of En Shemesh, and e end for En Rogel."
+        },
+        {
+          "verse": 8,
+          "text": "Di border go up by di valley of di pikin of Hinnom to di side of di Jebusites for di south, na Jerusalem be dat. Di border go up to di top of di mountain wey dey before di valley of Hinnom for di west, wey dey di farthest part of di valley of Rephaim for di north."
+        },
+        {
+          "verse": 9,
+          "text": "Di border stretch from di top of di mountain to di spring of di water of Nephtoah, and go out to di cities of Mount Ephron. Di border stretch to Baalah, na Kiriath Jearim be dat."
+        },
+        {
+          "verse": 10,
+          "text": "Di border turn from Baalah for di west go Mount Seir, and pass go di side of Mount Jearim for di north, na Chesalon be dat, and go down to Beth Shemesh, and pass by Timnah,"
+        },
+        {
+          "verse": 11,
+          "text": "and di border go out to di side of Ekron for di north. Di border stretch to Shikkeron, and pass go Mount Baalah, and go out for Jabneel. Di border end for di sea."
+        },
+        {
+          "verse": 12,
+          "text": "Di west border na di great sea, and im border. Dis na di border of di pikin dem of Judah round about according to dem families."
+        },
+        {
+          "verse": 13,
+          "text": "To Caleb di pikin of Jephunneh e give one portion among di pikin dem of Judah, according to di commandment of di Lord to Joshua, even Kiriath Arba, wey Arba na di papa of Anak. Na Hebron be dat."
+        },
+        {
+          "verse": 14,
+          "text": "Caleb drive out from dere di three pikin man dem of Anak: Sheshai, and Ahiman, and Talmai, di pikin dem of Anak."
+        },
+        {
+          "verse": 15,
+          "text": "E go up from dere against di people wey dey live for Debir. Now di name of Debir before na Kiriath Sepher."
+        },
+        {
+          "verse": 16,
+          "text": "Caleb talk say, “Anybody wey strike Kiriath Sepher, and take am, I go give am Achsah my pikin woman as wife.”"
+        },
+        {
+          "verse": 17,
+          "text": "Othniel di pikin of Kenaz, di brother of Caleb, take am, and e give am Achsah im pikin woman as wife."
+        },
+        {
+          "verse": 18,
+          "text": "E happen say, when Achsah come to am, e persuade am make e ask Achsah papa for one field. Achsah come down from im donkey, and Caleb talk to am say, “Wetin you want?”"
+        },
+        {
+          "verse": 19,
+          "text": "Achsah talk say, “Give me blessing. Since you don put me for di land of di South, give me springs of water too.” E give am di upper springs and di lower springs."
+        },
+        {
+          "verse": 20,
+          "text": "Dis na di inheritance of di tribe of di pikin dem of Judah according to dem families."
+        },
+        {
+          "verse": 21,
+          "text": "Di farthest cities of di tribe of di pikin dem of Judah toward di border of Edom for di south na Kabzeel, and Eder, and Jagur,"
+        },
+        {
+          "verse": 22,
+          "text": "and Kinah, and Dimonah, and Adadah,"
+        },
+        {
+          "verse": 23,
+          "text": "and Kedesh, and Hazor, and Ithnan,"
+        },
+        {
+          "verse": 24,
+          "text": "Ziph, and Telem, and Bealoth,"
+        },
+        {
+          "verse": 25,
+          "text": "and Hazor Hadattah, and Kerioth Hezron, na Hazor be dat,"
+        },
+        {
+          "verse": 26,
+          "text": "Amam, and Shema, and Moladah,"
+        },
+        {
+          "verse": 27,
+          "text": "and Hazar Gaddah, and Heshmon, and Beth Pelet,"
+        },
+        {
+          "verse": 28,
+          "text": "and Hazar Shual, and Beersheba, and Biziothiah,"
+        },
+        {
+          "verse": 29,
+          "text": "Baalah, and Iim, and Ezem,"
+        },
+        {
+          "verse": 30,
+          "text": "and Eltolad, and Chesil, and Hormah,"
+        },
+        {
+          "verse": 31,
+          "text": "and Ziklag, and Madmannah, and Sansannah,"
+        },
+        {
+          "verse": 32,
+          "text": "and Lebaoth, and Shilhim, and Ain, and Rimmon. All di cities na 29, with dem villages."
+        },
+        {
+          "verse": 33,
+          "text": "For di lowland, Eshtaol, and Zorah, and Ashnah,"
+        },
+        {
+          "verse": 34,
+          "text": "and Zanoah, and En Gannim, Tappuah, and Enam,"
+        },
+        {
+          "verse": 35,
+          "text": "Jarmuth, and Adullam, Socoh, and Azekah,"
+        },
+        {
+          "verse": 36,
+          "text": "and Shaaraim, and Adithaim, and Gederah, and Gederothaim. 14 cities with dem villages."
+        },
+        {
+          "verse": 37,
+          "text": "Zenan, and Hadashah, and Migdal Gad,"
+        },
+        {
+          "verse": 38,
+          "text": "and Dilean, and Mizpeh, and Joktheel,"
+        },
+        {
+          "verse": 39,
+          "text": "Lachish, and Bozkath, and Eglon,"
+        },
+        {
+          "verse": 40,
+          "text": "and Cabbon, and Lahmam, and Chitlish,"
+        },
+        {
+          "verse": 41,
+          "text": "and Gederoth, Beth Dagon, and Naamah, and Makkedah. 16 cities with dem villages."
+        },
+        {
+          "verse": 42,
+          "text": "Libnah, and Ether, and Ashan,"
+        },
+        {
+          "verse": 43,
+          "text": "and Iphtah, and Ashnah, and Nezib,"
+        },
+        {
+          "verse": 44,
+          "text": "and Keilah, and Achzib, and Mareshah. Nine cities with dem villages."
+        },
+        {
+          "verse": 45,
+          "text": "Ekron, with im towns and im villages."
+        },
+        {
+          "verse": 46,
+          "text": "From Ekron reach di sea, all wey dey by di side of Ashdod, with dem villages."
+        },
+        {
+          "verse": 47,
+          "text": "Ashdod, im towns and im villages. Gaza, im towns and im villages, reach di brook of Egypt, and di great sea, and im border."
+        },
+        {
+          "verse": 48,
+          "text": "For di hill country, Shamir, and Jattir, and Socoh,"
+        },
+        {
+          "verse": 49,
+          "text": "and Dannah, and Kiriath Sannah, na Debir be dat,"
+        },
+        {
+          "verse": 50,
+          "text": "and Anab, and Eshtemoh, and Anim,"
+        },
+        {
+          "verse": 51,
+          "text": "and Goshen, and Holon, and Giloh. 11 cities with dem villages."
+        },
+        {
+          "verse": 52,
+          "text": "Arab, and Dumah, and Eshan,"
+        },
+        {
+          "verse": 53,
+          "text": "and Janim, and Beth Tappuah, and Aphekah,"
+        },
+        {
+          "verse": 54,
+          "text": "and Humtah, and Kiriath Arba, na Hebron be dat, and Zior. Nine cities with dem villages."
+        },
+        {
+          "verse": 55,
+          "text": "Maon, Carmel, and Ziph, and Juttah,"
+        },
+        {
+          "verse": 56,
+          "text": "and Jezreel, and Jokdeam, and Zanoah,"
+        },
+        {
+          "verse": 57,
+          "text": "Kain, Gibeah, and Timnah. Ten cities with dem villages."
+        },
+        {
+          "verse": 58,
+          "text": "Halhul, Beth Zur, and Gedor,"
+        },
+        {
+          "verse": 59,
+          "text": "and Maarath, and Beth Anoth, and Eltekon. Six cities with dem villages."
+        },
+        {
+          "verse": 60,
+          "text": "Kiriath Baal, na Kiriath Jearim be dat, and Rabbah. Two cities with dem villages."
+        },
+        {
+          "verse": 61,
+          "text": "For di wilderness, Beth Arabah, Middin, and Secacah,"
+        },
+        {
+          "verse": 62,
+          "text": "and Nibshan, and di City of Salt, and Engedi. Six cities with dem villages."
+        },
+        {
+          "verse": 63,
+          "text": "As for di Jebusites, di people wey dey live for Jerusalem, di pikin dem of Judah no fit drive dem out. But di Jebusites dey live with di pikin dem of Judah for Jerusalem till today."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di lot come out for di pikin dem of Joseph from Jordan by Jericho, by di waters of Jericho for di east, even di wilderness, wey dey go up from Jericho through di hill country to Bethel,"
+        },
+        {
+          "verse": 2,
+          "text": "and di border go out from Bethel to Luz, and pass go di border of di Archites to Ataroth,"
+        },
+        {
+          "verse": 3,
+          "text": "and go down for di west to di border of di Japhletites, to di border of lower Beth Horon, reach Gezer. Di border end for di sea."
+        },
+        {
+          "verse": 4,
+          "text": "Di pikin dem of Joseph, Manasseh and Ephraim, take dem inheritance."
+        },
+        {
+          "verse": 5,
+          "text": "Di border of di pikin dem of Ephraim according to dem families na like dis: di border of dem inheritance for di east na Ataroth Addar, to upper Beth Horon,"
+        },
+        {
+          "verse": 6,
+          "text": "and di border go out toward di sea. For di north na Michmethath, and di border turn for di east go Taanath Shiloh, and pass am for di east of Janoah,"
+        },
+        {
+          "verse": 7,
+          "text": "and go down from Janoah to Ataroth, and to Naarah, and reach Jericho, and go out for Jordan."
+        },
+        {
+          "verse": 8,
+          "text": "From Tappuah di border go for di west to di brook of Kanah, and e end for di sea. Dis na di inheritance of di tribe of di pikin dem of Ephraim according to dem families,"
+        },
+        {
+          "verse": 9,
+          "text": "together with di cities wey dem set apart for di pikin dem of Ephraim for di middle of di inheritance of di pikin dem of Manasseh, all di cities with dem villages."
+        },
+        {
+          "verse": 10,
+          "text": "Dem no drive out di Canaanites wey dey live for Gezer. But di Canaanites dey live for di middle of Ephraim till today, and dem become servants wey dey do forced labour."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dis na di lot for di tribe of Manasseh, because na im be di firstborn of Joseph. As for Machir di firstborn of Manasseh, di papa of Gilead, because e be man of war, so e get Gilead and Bashan."
+        },
+        {
+          "verse": 2,
+          "text": "So dis one na for di rest of di pikin dem of Manasseh according to dem families: for di pikin dem of Abiezer, and for di pikin dem of Helek, and for di pikin dem of Asriel, and for di pikin dem of Shechem, and for di pikin dem of Hepher, and for di pikin dem of Shemida. Dem na di male pikin dem of Manasseh di pikin of Joseph according to dem families."
+        },
+        {
+          "verse": 3,
+          "text": "But Zelophehad di pikin of Hepher, di pikin of Gilead, di pikin of Machir, di pikin of Manasseh, no get pikin man, but pikin woman dem. Dis na di names of im pikin woman dem: Mahlah, and Noah, Hoglah, Milcah, and Tirzah."
+        },
+        {
+          "verse": 4,
+          "text": "Dem come near before Eleazar di priest, and before Joshua di pikin of Nun, and before di princes, talk say, “Di Lord command Moses make e give us inheritance among our brothers.” So according to di commandment of di Lord, e give dem inheritance among di brothers of dem papa."
+        },
+        {
+          "verse": 5,
+          "text": "Ten portions fall to Manasseh, apart from di land of Gilead and Bashan, wey dey di other side of Jordan,"
+        },
+        {
+          "verse": 6,
+          "text": "because di pikin woman dem of Manasseh get inheritance among im pikin man dem. Di land of Gilead belong to di rest of di pikin man dem of Manasseh."
+        },
+        {
+          "verse": 7,
+          "text": "Di border of Manasseh na from Asher to Michmethath, wey dey before Shechem, and di border go along to di right hand, to di people wey dey live for En Tappuah."
+        },
+        {
+          "verse": 8,
+          "text": "Di land of Tappuah belong to Manasseh, but Tappuah for di border of Manasseh belong to di pikin dem of Ephraim."
+        },
+        {
+          "verse": 9,
+          "text": "Di border go down to di brook of Kanah, for di south of di brook. Dis cities belong to Ephraim among di cities of Manasseh. Di border of Manasseh dey for di north side of di brook, and e end for di sea,"
+        },
+        {
+          "verse": 10,
+          "text": "for di south e belong to Ephraim, and for di north e belong to Manasseh, and di sea na im border. Dem reach Asher for di north, and Issachar for di east."
+        },
+        {
+          "verse": 11,
+          "text": "Manasseh get for Issachar and for Asher Beth Shean and im towns, and Ibleam and im towns, and di people wey dey live for Dor and im towns, and di people wey dey live for Endor and im towns, and di people wey dey live for Taanach and im towns, and di people wey dey live for Megiddo and im towns, even di three heights."
+        },
+        {
+          "verse": 12,
+          "text": "But di pikin dem of Manasseh no fit drive out di people wey dey live for dem cities, but di Canaanites decide to dey stay for dat land."
+        },
+        {
+          "verse": 13,
+          "text": "E happen say, when di pikin dem of Israel grow strong, dem put di Canaanites for forced labour, and dem no drive dem out completely."
+        },
+        {
+          "verse": 14,
+          "text": "Di pikin dem of Joseph speak to Joshua, talk say, “Why you give me only one lot and one portion as inheritance, as I be great people, because di Lord don bless me until now?”"
+        },
+        {
+          "verse": 15,
+          "text": "Joshua talk to dem say, “If una be great people, go up to di forest, and clear land for una self dere for di land of di Perizzites and of di Rephaim, since di hill country of Ephraim too narrow for una.”"
+        },
+        {
+          "verse": 16,
+          "text": "Di pikin dem of Joseph talk say, “Di hill country no reach for us, and all di Canaanites wey dey live for di land of di valley get chariots of iron, both dem wey dey for Beth Shean and im towns, and dem wey dey for di valley of Jezreel.”"
+        },
+        {
+          "verse": 17,
+          "text": "Joshua speak to di house of Joseph, even to Ephraim and to Manasseh, talk say, “Una be great people, and una get great power. Una no go get only one lot,"
+        },
+        {
+          "verse": 18,
+          "text": "but di hill country go be una own. Even though e be forest, una go cut am down, and im ends go be una own, because una go drive out di Canaanites, even though dem get chariots of iron, and even though dem strong.”"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "All di congregation of di pikin dem of Israel gather together for Shiloh, and set up di Tent of Meeting dere, and dem don bring di land under dem control."
+        },
+        {
+          "verse": 2,
+          "text": "Seven tribes remain among di pikin dem of Israel wey never divide dem inheritance."
+        },
+        {
+          "verse": 3,
+          "text": "Joshua talk to di pikin dem of Israel say, “How long una go delay to go possess di land wey di Lord, di God of una papa dem, don give una?"
+        },
+        {
+          "verse": 4,
+          "text": "Choose three men for each tribe, and I go send dem, and dem go rise, and waka through di land, and write down description of am according to dem inheritance, and dem go come back to me."
+        },
+        {
+          "verse": 5,
+          "text": "Dem go divide am into seven portions. Judah go stay for im border for di south, and di house of Joseph go stay for dem border for di north."
+        },
+        {
+          "verse": 6,
+          "text": "Una go write description of di land into seven portions, and bring di description here to me, and I go cast lots for una here before di Lord our God."
+        },
+        {
+          "verse": 7,
+          "text": "Because di Levites no get portion among una, because di priesthood of di Lord na dem inheritance. Gad and Reuben and di half-tribe of Manasseh don receive dem inheritance for di other side of Jordan for di east, wey Moses di servant of di Lord give dem.”"
+        },
+        {
+          "verse": 8,
+          "text": "Di men rise, and go. Joshua command dem wey go write description of di land, talk say, “Go and waka through di land, and write description of am, and come back to me, and I go cast lots for una here before di Lord for Shiloh.”"
+        },
+        {
+          "verse": 9,
+          "text": "Di men go and pass through di land, and write description of am by cities into seven portions for one book, and dem come to Joshua for di camp for Shiloh."
+        },
+        {
+          "verse": 10,
+          "text": "Joshua cast lots for dem for Shiloh before di Lord, and dere Joshua divide di land to di pikin dem of Israel according to dem divisions."
+        },
+        {
+          "verse": 11,
+          "text": "Di lot of di tribe of di pikin dem of Benjamin come up according to dem families, and di border of dem lot go out between di pikin dem of Judah and di pikin dem of Joseph."
+        },
+        {
+          "verse": 12,
+          "text": "Dem border for di north side na from Jordan, and di border go up to di side of Jericho for di north, and go up through di hill country for di west, and e end for di wilderness of Beth Aven."
+        },
+        {
+          "verse": 13,
+          "text": "Di border pass from dere go Luz, to di side of Luz, na Bethel be dat, for di south, and di border go down to Ataroth Addar, by di mountain wey dey for di south of lower Beth Horon."
+        },
+        {
+          "verse": 14,
+          "text": "Di border stretch from dere, and turn for di west side go di south, from di mountain wey dey before Beth Horon for di south, and e end for Kiriath Baal, na Kiriath Jearim be dat, one city of di pikin dem of Judah. Dis na di west side."
+        },
+        {
+          "verse": 15,
+          "text": "Di south side begin from di farthest part of Kiriath Jearim, and di border go out for di west, and go out to di spring of di water of Nephtoah,"
+        },
+        {
+          "verse": 16,
+          "text": "and di border go down to di farthest part of di mountain wey dey before di valley of di pikin of Hinnom, wey dey for di valley of Rephaim for di north. E go down to di valley of Hinnom, to di side of di Jebusites for di south, and go down to En Rogel,"
+        },
+        {
+          "verse": 17,
+          "text": "and e go out for di north, and go out for En Shemesh, and go out toward Geliloth, wey face di ascent of Adummim, and e go down to di stone of Bohan di pikin of Reuben,"
+        },
+        {
+          "verse": 18,
+          "text": "and pass go di side wey face di Arabah for di north, and go down to di Arabah,"
+        },
+        {
+          "verse": 19,
+          "text": "and di border pass go di side of Beth Hoglah for di north, and di border end for di north bay of di Salt Sea, for di south end of Jordan. Dis na di south border."
+        },
+        {
+          "verse": 20,
+          "text": "Jordan na im border for di east side. Dis na di inheritance of di pikin dem of Benjamin, by im borders round about, according to dem families."
+        },
+        {
+          "verse": 21,
+          "text": "Now di cities of di tribe of di pikin dem of Benjamin according to dem families na Jericho, and Beth Hoglah, and Emek Keziz,"
+        },
+        {
+          "verse": 22,
+          "text": "and Beth Arabah, and Zemaraim, and Bethel,"
+        },
+        {
+          "verse": 23,
+          "text": "and Avvim, and Parah, and Ophrah,"
+        },
+        {
+          "verse": 24,
+          "text": "and Chephar Haammonai, and Ophni, and Geba. 12 cities with dem villages."
+        },
+        {
+          "verse": 25,
+          "text": "Gibeon, and Ramah, and Beeroth,"
+        },
+        {
+          "verse": 26,
+          "text": "and Mizpeh, and Chephirah, and Mozah,"
+        },
+        {
+          "verse": 27,
+          "text": "and Rekem, and Irpeel, and Taralah,"
+        },
+        {
+          "verse": 28,
+          "text": "and Zelah, Eleph, and di Jebusites, na Jerusalem be dat, Gibeath, and Kiriath. 14 cities with dem villages. Dis na di inheritance of di pikin dem of Benjamin according to dem families."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di second lot come out for Simeon, even for di tribe of di pikin dem of Simeon according to dem families, and dem inheritance dey for di middle of di inheritance of di pikin dem of Judah."
+        },
+        {
+          "verse": 2,
+          "text": "Dem get for dem inheritance Beersheba, Sheba, Moladah,"
+        },
+        {
+          "verse": 3,
+          "text": "Hazar Shual, Balah, Ezem,"
+        },
+        {
+          "verse": 4,
+          "text": "Eltolad, Bethul, Hormah,"
+        },
+        {
+          "verse": 5,
+          "text": "Ziklag, Beth Marcaboth, Hazar Susah,"
+        },
+        {
+          "verse": 6,
+          "text": "Beth Lebaoth, and Sharuhen. 13 cities with dem villages."
+        },
+        {
+          "verse": 7,
+          "text": "Ain, Rimmon, and Ether, and Ashan. Four cities with dem villages,"
+        },
+        {
+          "verse": 8,
+          "text": "and all di villages wey dey round dis cities reach Baalath Beer, Ramah of di South. Dis na di inheritance of di tribe of di pikin dem of Simeon according to dem families."
+        },
+        {
+          "verse": 9,
+          "text": "Di inheritance of di pikin dem of Simeon come from di part of di pikin dem of Judah, because di portion of di pikin dem of Judah too big for dem. So di pikin dem of Simeon get dem inheritance for di middle of dem inheritance."
+        },
+        {
+          "verse": 10,
+          "text": "Di third lot come up for di pikin dem of Zebulun according to dem families, and di border of dem inheritance na to Sarid,"
+        },
+        {
+          "verse": 11,
+          "text": "and dem border go up for di west, even to Maralah, and reach Dabbesheth, and reach di brook wey dey before Jokneam,"
+        },
+        {
+          "verse": 12,
+          "text": "and e turn from Sarid for di east toward where di sun dey rise to di border of Chisloth Tabor, and go out to Daberath, and go up to Japhia,"
+        },
+        {
+          "verse": 13,
+          "text": "and from dere e pass for di east to Gath Hepher, to Ethkazin, and e go out for Rimmon wey stretch to Neah,"
+        },
+        {
+          "verse": 14,
+          "text": "and di border turn round am for di north to Hannathon, and e end for di valley of Iphtah El,"
+        },
+        {
+          "verse": 15,
+          "text": "and Kattath, and Nahalal, and Shimron, and Idalah, and Bethlehem. 12 cities with dem villages."
+        },
+        {
+          "verse": 16,
+          "text": "Dis na di inheritance of di pikin dem of Zebulun according to dem families, dis cities with dem villages."
+        },
+        {
+          "verse": 17,
+          "text": "Di fourth lot come out for Issachar, even for di pikin dem of Issachar according to dem families."
+        },
+        {
+          "verse": 18,
+          "text": "Dem border na to Jezreel, and Chesulloth, and Shunem,"
+        },
+        {
+          "verse": 19,
+          "text": "and Hapharaim, and Shion, and Anaharath,"
+        },
+        {
+          "verse": 20,
+          "text": "and Rabbith, and Kishion, and Ebez,"
+        },
+        {
+          "verse": 21,
+          "text": "and Remeth, and En Gannim, and En Haddah, and Beth Pazzez,"
+        },
+        {
+          "verse": 22,
+          "text": "and di border reach Tabor, and Shahazumah, and Beth Shemesh, and dem border end for Jordan. 16 cities with dem villages."
+        },
+        {
+          "verse": 23,
+          "text": "Dis na di inheritance of di tribe of di pikin dem of Issachar according to dem families, di cities with dem villages."
+        },
+        {
+          "verse": 24,
+          "text": "Di fifth lot come out for di tribe of di pikin dem of Asher according to dem families."
+        },
+        {
+          "verse": 25,
+          "text": "Dem border na Helkath, and Hali, and Beten, and Achshaph,"
+        },
+        {
+          "verse": 26,
+          "text": "and Allammelech, and Amad, and Mishal, and e reach Carmel for di west, and Shihor Libnath,"
+        },
+        {
+          "verse": 27,
+          "text": "and e turn toward where di sun dey rise go Beth Dagon, and reach Zebulun, and di valley of Iphtah El for di north to Beth Emek and Neiel, and e go out to Cabul for di left hand,"
+        },
+        {
+          "verse": 28,
+          "text": "and Ebron, and Rehob, and Hammon, and Kanah, reach great Sidon,"
+        },
+        {
+          "verse": 29,
+          "text": "and di border turn to Ramah, and to di fortified city of Tyre, and di border turn to Hosah, and e end for di sea by di region of Achzib,"
+        },
+        {
+          "verse": 30,
+          "text": "Ummah too, and Aphek, and Rehob. 22 cities with dem villages."
+        },
+        {
+          "verse": 31,
+          "text": "Dis na di inheritance of di tribe of di pikin dem of Asher according to dem families, dis cities with dem villages."
+        },
+        {
+          "verse": 32,
+          "text": "Di sixth lot come out for di pikin dem of Naphtali, even for di pikin dem of Naphtali according to dem families."
+        },
+        {
+          "verse": 33,
+          "text": "Dem border na from Heleph, from di oak for Zaanannim, and Adami Nekeb, and Jabneel, to Lakkum, and e end for Jordan,"
+        },
+        {
+          "verse": 34,
+          "text": "and di border turn for di west to Aznoth Tabor, and go out from dere to Hukkok, and reach Zebulun for di south, and reach Asher for di west, and Judah for Jordan toward where di sun dey rise."
+        },
+        {
+          "verse": 35,
+          "text": "Di fortified cities na Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,"
+        },
+        {
+          "verse": 36,
+          "text": "and Adamah, and Ramah, and Hazor,"
+        },
+        {
+          "verse": 37,
+          "text": "and Kedesh, and Edrei, and En Hazor,"
+        },
+        {
+          "verse": 38,
+          "text": "and Iron, and Migdal El, Horem, and Beth Anath, and Beth Shemesh. 19 cities with dem villages."
+        },
+        {
+          "verse": 39,
+          "text": "Dis na di inheritance of di tribe of di pikin dem of Naphtali according to dem families, di cities with dem villages."
+        },
+        {
+          "verse": 40,
+          "text": "Di seventh lot come out for di tribe of di pikin dem of Dan according to dem families."
+        },
+        {
+          "verse": 41,
+          "text": "Di border of dem inheritance na Zorah, and Eshtaol, and Ir Shemesh,"
+        },
+        {
+          "verse": 42,
+          "text": "and Shaalabbin, and Aijalon, and Ithlah,"
+        },
+        {
+          "verse": 43,
+          "text": "and Elon, and Timnah, and Ekron,"
+        },
+        {
+          "verse": 44,
+          "text": "and Eltekeh, and Gibbethon, and Baalath,"
+        },
+        {
+          "verse": 45,
+          "text": "and Jehud, and Bene Berak, and Gath Rimmon,"
+        },
+        {
+          "verse": 46,
+          "text": "and Me Jarkon, and Rakkon, with di border wey face Joppa."
+        },
+        {
+          "verse": 47,
+          "text": "Di border of di pikin dem of Dan go out pass dem, because di pikin dem of Dan go up and fight against Leshem, and take am, and strike am with di edge of di sword, and possess am, and live inside am, and call Leshem, Dan, after di name of Dan dem papa."
+        },
+        {
+          "verse": 48,
+          "text": "Dis na di inheritance of di tribe of di pikin dem of Dan according to dem families, dis cities with dem villages."
+        },
+        {
+          "verse": 49,
+          "text": "So dem finish to share di land as inheritance by im borders, and di pikin dem of Israel give inheritance to Joshua di pikin of Nun among dem,"
+        },
+        {
+          "verse": 50,
+          "text": "according to di commandment of di Lord dem give am di city wey e ask, even Timnath Serah for di hill country of Ephraim, and e build di city, and live inside am."
+        },
+        {
+          "verse": 51,
+          "text": "Dis na di inheritances wey Eleazar di priest, and Joshua di pikin of Nun, and di heads of di papa houses of di tribes of di pikin dem of Israel, share as inheritance by lot for Shiloh before di Lord, for di door of di Tent of Meeting. So dem finish to divide di land."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Joshua, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Speak to di pikin dem of Israel, talk say, ‘Appoint di cities of refuge, wey I speak to una about by Moses,"
+        },
+        {
+          "verse": 3,
+          "text": "so that di manslayer wey kill any person by mistake or without intention go fit run go dere. Dem go be refuge for una from di avenger of blood."
+        },
+        {
+          "verse": 4,
+          "text": "E go run go one of dem cities, and e go stand for di entrance of di gate of di city, and declare im case for di ears of di elders of dat city. Dem go take am enter di city to dem, and give am place, so that e go dwell among dem."
+        },
+        {
+          "verse": 5,
+          "text": "If di avenger of blood chase am, dem no go deliver di manslayer give am, because e strike im neighbour without intention, and e no hate am before."
+        },
+        {
+          "verse": 6,
+          "text": "E go dwell for dat city, until e stand before di congregation for judgment, until di death of di high priest wey dey for dem days. Den di manslayer go return, and come to im own city, and to im own house, to di city wey e run from.’”"
+        },
+        {
+          "verse": 7,
+          "text": "Dem set apart Kedesh for Galilee for di hill country of Naphtali, and Shechem for di hill country of Ephraim, and Kiriath Arba, na Hebron be dat, for di hill country of Judah."
+        },
+        {
+          "verse": 8,
+          "text": "For di other side of Jordan by Jericho for di east, dem appoint Bezer for di wilderness for di plain from di tribe of Reuben, and Ramoth for Gilead from di tribe of Gad, and Golan for Bashan from di tribe of Manasseh."
+        },
+        {
+          "verse": 9,
+          "text": "Dis na di cities wey dem appoint for all di pikin dem of Israel, and for di stranger wey dey live among dem, so that anybody wey kill any person by mistake go fit run go dere, and no die by di hand of di avenger of blood, until e stand before di congregation."
+        }
+      ]
+    }
+  ]
+}

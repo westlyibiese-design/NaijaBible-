@@ -18,19 +18,25 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.lifecycleScope
+import com.westly.naijabible.core.data.BibleIndex
 import com.westly.naijabible.core.navigation.NaijaBibleApp
 import com.westly.naijabible.core.prefs.AppPreferences
 import com.westly.naijabible.core.prefs.AppSettings
 import com.westly.naijabible.core.prefs.DarkModeChoice
 import com.westly.naijabible.core.theme.NaijaBibleTheme
 import com.westly.naijabible.feature.splash.AnimatedSplash
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
 
     // Null until the saved settings are read. The system splash stays up until then,
     // so the first thing the person sees is already in the right theme.
     private var settings by mutableStateOf<AppSettings?>(null)
+
+    // Null until the list of Bible text files has been read (on a background thread, during the splash).
+    private var bibleIndex by mutableStateOf<BibleIndex?>(null)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         val splashScreen = installSplashScreen()
@@ -41,6 +47,9 @@ class MainActivity : ComponentActivity() {
         lifecycleScope.launch {
             preferences.settings.collect { settings = it }
         }
+        lifecycleScope.launch {
+            bibleIndex = withContext(Dispatchers.IO) { BibleIndex.build(applicationContext.assets) }
+        }
 
         enableEdgeToEdge(
             statusBarStyle = SystemBarStyle.dark(Color.TRANSPARENT),
@@ -49,6 +58,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             val current = settings
+            val index = bibleIndex
             if (current != null) {
                 val darkTheme = when (current.darkMode) {
                     DarkModeChoice.FOLLOW_SYSTEM -> isSystemInDarkTheme()
@@ -78,12 +88,12 @@ class MainActivity : ComponentActivity() {
                     readingTextScale = current.readingTextScale
                 ) {
                     Box(Modifier.fillMaxSize()) {
-                        if (splashDone || appPreloaded) {
-                            NaijaBibleApp()
+                        if ((splashDone || appPreloaded) && index != null) {
+                            NaijaBibleApp(bibleIndex = index)
                         }
                         if (!splashDone) {
                             AnimatedSplash(
-                                dataReady = true,
+                                dataReady = index != null,
                                 onPreloadApp = { appPreloaded = true },
                                 onFinished = { splashDone = true }
                             )

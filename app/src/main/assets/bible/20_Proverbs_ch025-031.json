@@ -1,0 +1,851 @@
+{
+  "book": "Proverbs",
+  "bookNumber": 20,
+  "testament": "OT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dis also na proverbs of Solomon, wey di men of Hezekiah king of Judah copy out."
+        },
+        {
+          "verse": 2,
+          "text": "E na glory of God to conceal matter, but di glory of kings na to search out matter."
+        },
+        {
+          "verse": 3,
+          "text": "As di heavens for height and di earth for depth, so di hearts of kings no fit search out."
+        },
+        {
+          "verse": 4,
+          "text": "Remove di dross from silver, and di silversmith go get vessel."
+        },
+        {
+          "verse": 5,
+          "text": "Remove di wicked from before di king, and im throne go dey established for righteousness."
+        },
+        {
+          "verse": 6,
+          "text": "No honor yourself for di presence of di king, and no stand for di place of great men,"
+        },
+        {
+          "verse": 7,
+          "text": "because e better dem say to you, “Come up here,” than dem put you lower for di presence of di prince, wey your eyes don see."
+        },
+        {
+          "verse": 8,
+          "text": "No rush go to court. Wetin you go do for di end, when your neighbor put you to shame?"
+        },
+        {
+          "verse": 9,
+          "text": "Argue your case with your neighbor imself, and no reveal secret of another man,"
+        },
+        {
+          "verse": 10,
+          "text": "or di one wey hear am go shame you, and your ill repute no go go away."
+        },
+        {
+          "verse": 11,
+          "text": "Word wey dem speak fitly na like apples of gold for settings of silver."
+        },
+        {
+          "verse": 12,
+          "text": "Like ring of gold and ornament of fine gold, so na wise reprover to listening ear."
+        },
+        {
+          "verse": 13,
+          "text": "Like di cold of snow for di time of harvest, so na faithful messenger to dem wey send am, because e dey refresh di soul of dem wey send am."
+        },
+        {
+          "verse": 14,
+          "text": "Like clouds and wind without rain, so na man wey boast of gift e no give."
+        },
+        {
+          "verse": 15,
+          "text": "By patience dem fit persuade ruler, and soft tongue dey break bone."
+        },
+        {
+          "verse": 16,
+          "text": "If you find honey, eat only wetin sufficient for you, or you go get too much and vomit am."
+        },
+        {
+          "verse": 17,
+          "text": "Make your foot rarely dey your neighbor house, or e go get tired of you and hate you."
+        },
+        {
+          "verse": 18,
+          "text": "Man wey bear false witness against im neighbor na like club, sword and sharp arrow."
+        },
+        {
+          "verse": 19,
+          "text": "Confidence for unfaithful man for time of trouble na like bad tooth and slipping foot."
+        },
+        {
+          "verse": 20,
+          "text": "Whoever sing songs to heavy heart na like person wey remove garment for cold day, and like vinegar on soda."
+        },
+        {
+          "verse": 21,
+          "text": "If your enemy hungry, give am bread to eat. If e thirsty, give am water to drink,"
+        },
+        {
+          "verse": 22,
+          "text": "because you go heap burning coals on im head, and di Lord go reward you."
+        },
+        {
+          "verse": 23,
+          "text": "Di north wind dey bring rain, and backbiting tongue dey bring angry face."
+        },
+        {
+          "verse": 24,
+          "text": "E better to dey for corner of housetop than to share house with quarrelsome wife."
+        },
+        {
+          "verse": 25,
+          "text": "As cold water to thirsty soul, so na good news from far country."
+        },
+        {
+          "verse": 26,
+          "text": "Like muddied spring or polluted well, so na righteous man wey give way before di wicked."
+        },
+        {
+          "verse": 27,
+          "text": "E no good to eat too much honey, and to search out hard things na no glory."
+        },
+        {
+          "verse": 28,
+          "text": "Man wey no get self control na like city wey dem break down and no get walls."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Like snow for summer and like rain for harvest, so honor no fit fool."
+        },
+        {
+          "verse": 2,
+          "text": "Like sparrow wey dey flutter, like swallow wey dey fly, so curse wey no get cause no go land."
+        },
+        {
+          "verse": 3,
+          "text": "Whip na for horse, bridle for donkey, and rod for di back of fools."
+        },
+        {
+          "verse": 4,
+          "text": "No answer fool according to im folly, or you go be like am."
+        },
+        {
+          "verse": 5,
+          "text": "Answer fool according to im folly, or e go dey wise for im own eyes."
+        },
+        {
+          "verse": 6,
+          "text": "Whoever send message by hand of fool dey cut off im own feet and drink violence."
+        },
+        {
+          "verse": 7,
+          "text": "Like legs of lame man wey hang loose, so na proverb for fool mouth."
+        },
+        {
+          "verse": 8,
+          "text": "Like tying stone for sling, so na giving honor to fool."
+        },
+        {
+          "verse": 9,
+          "text": "Like thorn wey enter hand of drunkard, so na proverb for fool mouth."
+        },
+        {
+          "verse": 10,
+          "text": "Like archer wey wound everybody, so na man wey hire fool or hire any wanderer."
+        },
+        {
+          "verse": 11,
+          "text": "As dog dey return to im vomit, so fool dey repeat im folly."
+        },
+        {
+          "verse": 12,
+          "text": "You see man wey dey wise for im own eyes? More hope dey for fool pass am."
+        },
+        {
+          "verse": 13,
+          "text": "Di lazy man talk say, “Lion dey for di road! Lion dey for di streets!”"
+        },
+        {
+          "verse": 14,
+          "text": "As door dey turn on im hinges, so na lazy man for im bed."
+        },
+        {
+          "verse": 15,
+          "text": "Di lazy man bury im hand for di dish. E tire to bring am back to im mouth."
+        },
+        {
+          "verse": 16,
+          "text": "Di lazy man dey wiser for im own eyes pass seven men wey dey answer wisely."
+        },
+        {
+          "verse": 17,
+          "text": "Whoever pass by and meddle for quarrel wey no be im own na like person wey grab dog by di ears."
+        },
+        {
+          "verse": 18,
+          "text": "Like madman wey dey throw firebrands, arrows and death,"
+        },
+        {
+          "verse": 19,
+          "text": "so na man wey deceive im neighbor and talk say, “I dey only joke!”"
+        },
+        {
+          "verse": 20,
+          "text": "For lack of wood, fire go out, and where no gossip dey, quarrel dey stop."
+        },
+        {
+          "verse": 21,
+          "text": "As charcoal to hot embers and wood to fire, so na quarrelsome man to kindle strife."
+        },
+        {
+          "verse": 22,
+          "text": "Di words of gossip na like delicious morsels. Dem go down into di inner parts."
+        },
+        {
+          "verse": 23,
+          "text": "Like glaze wey dem coat on clay pot, so na burning lips and wicked heart."
+        },
+        {
+          "verse": 24,
+          "text": "Whoever hate dey disguise am with im lips, but e dey store up deceit inside im heart."
+        },
+        {
+          "verse": 25,
+          "text": "When e speak graciously, no believe am, because seven abominations dey inside im heart."
+        },
+        {
+          "verse": 26,
+          "text": "Though im hatred cover with deceit, im wickedness go dey exposed for di assembly."
+        },
+        {
+          "verse": 27,
+          "text": "Whoever dig pit go fall inside am, and whoever roll stone go see am return on am."
+        },
+        {
+          "verse": 28,
+          "text": "Lying tongue hate di one wey e don crush, and flattering mouth dey work ruin."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "No boast about tomorrow, because you no know wetin one day fit bring."
+        },
+        {
+          "verse": 2,
+          "text": "Make another praise you, and no be your own mouth. Make stranger, and no be your own lips."
+        },
+        {
+          "verse": 3,
+          "text": "Stone heavy and sand weighty, but di provocation of fool heavier pass dem both."
+        },
+        {
+          "verse": 4,
+          "text": "Wrath dey cruel and anger dey overwhelming, but who fit stand before jealousy?"
+        },
+        {
+          "verse": 5,
+          "text": "Open rebuke better pass hidden love."
+        },
+        {
+          "verse": 6,
+          "text": "Faithful na di wounds of friend, but di kisses of enemy dey excessive."
+        },
+        {
+          "verse": 7,
+          "text": "Person wey don satisfy dey hate honeycomb, but to hungry person every bitter thing dey sweet."
+        },
+        {
+          "verse": 8,
+          "text": "As bird wey wander from im nest, so na man wey wander from im home."
+        },
+        {
+          "verse": 9,
+          "text": "Oil and perfume dey make di heart glad, and di sweetness of friend na from im earnest counsel."
+        },
+        {
+          "verse": 10,
+          "text": "No forsake your friend and your papa friend, and no go to your brother house for di day of your trouble. Neighbor wey near better pass brother wey far."
+        },
+        {
+          "verse": 11,
+          "text": "Be wise, my pikin, and make my heart glad, so dat I go fit answer di one wey reproach me."
+        },
+        {
+          "verse": 12,
+          "text": "Prudent man dey see danger and hide imself, but di simple go on and suffer for am."
+        },
+        {
+          "verse": 13,
+          "text": "Take di garment of am wey guarantee for stranger, and hold am in pledge when e dey guarantee for foreigner."
+        },
+        {
+          "verse": 14,
+          "text": "Whoever bless im neighbor with loud voice early for morning, dem go count am as curse."
+        },
+        {
+          "verse": 15,
+          "text": "Constant dripping for day of heavy rain and quarrelsome wife na di same."
+        },
+        {
+          "verse": 16,
+          "text": "Whoever restrain am dey restrain wind and im right hand dey grasp oil."
+        },
+        {
+          "verse": 17,
+          "text": "Iron dey sharpen iron, so man dey sharpen im friend face."
+        },
+        {
+          "verse": 18,
+          "text": "Whoever tend fig tree go eat im fruit, and whoever care for im oga go dey honored."
+        },
+        {
+          "verse": 19,
+          "text": "As water reflect face, so man heart reflect man."
+        },
+        {
+          "verse": 20,
+          "text": "Sheol and Abaddon never dey satisfied, and man eyes never dey satisfied."
+        },
+        {
+          "verse": 21,
+          "text": "Di crucible na for silver and di furnace for gold, and man dey tested by di praise wey e get."
+        },
+        {
+          "verse": 22,
+          "text": "Though you pound fool for mortar with pestle along with grain, im folly no go leave am."
+        },
+        {
+          "verse": 23,
+          "text": "Know well di condition of your flocks and give attention to your herds,"
+        },
+        {
+          "verse": 24,
+          "text": "because riches no dey forever, and crown no dey last to all generations."
+        },
+        {
+          "verse": 25,
+          "text": "When di hay don go, di new growth dey show, and di vegetation of di hills dey gathered,"
+        },
+        {
+          "verse": 26,
+          "text": "di lambs go provide your clothing, and di goats go be di price of field."
+        },
+        {
+          "verse": 27,
+          "text": "Plenty goats milk go dey for your food, for di food of your household, and for di maintenance of your servant girls."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di wicked dey flee when nobody dey chase dem, but di righteous dey bold like lion."
+        },
+        {
+          "verse": 2,
+          "text": "When land rebel, e get many rulers, but with man wey get understanding and knowledge, order go last."
+        },
+        {
+          "verse": 3,
+          "text": "Poor man wey oppress di poor na like driving rain wey leave no food."
+        },
+        {
+          "verse": 4,
+          "text": "Dem wey forsake di law dey praise di wicked, but dem wey keep di law dey fight dem."
+        },
+        {
+          "verse": 5,
+          "text": "Evil men no understand justice, but dem wey seek di Lord understand all things."
+        },
+        {
+          "verse": 6,
+          "text": "E better to be poor man wey waka for im integrity pass rich man wey perverse for im ways."
+        },
+        {
+          "verse": 7,
+          "text": "Whoever keep di law na wise pikin, but di companion of gluttons dey shame im papa."
+        },
+        {
+          "verse": 8,
+          "text": "Whoever increase im wealth by interest and profit dey gather am for di one wey go dey kind to di poor."
+        },
+        {
+          "verse": 9,
+          "text": "Whoever turn away im ear from hearing di law, even im prayer na abomination."
+        },
+        {
+          "verse": 10,
+          "text": "Whoever lead di upright astray for evil way go fall into im own pit, but di blameless go inherit good."
+        },
+        {
+          "verse": 11,
+          "text": "Rich man dey wise for im own eyes, but poor man wey get understanding dey see through am."
+        },
+        {
+          "verse": 12,
+          "text": "When di righteous triumph, great glory dey, but when di wicked rise, men dey hide."
+        },
+        {
+          "verse": 13,
+          "text": "Whoever conceal im transgressions no go prosper, but whoever confess and forsake dem go find mercy."
+        },
+        {
+          "verse": 14,
+          "text": "Blessed na di man wey always dey fear, but whoever harden im heart go fall into trouble."
+        },
+        {
+          "verse": 15,
+          "text": "Like roaring lion and charging bear na wicked ruler over poor people."
+        },
+        {
+          "verse": 16,
+          "text": "Ruler wey lack understanding na also great oppressor, but di one wey hate unjust gain go prolong im days."
+        },
+        {
+          "verse": 17,
+          "text": "Man wey dey troubled by bloodshed go flee to di pit. Make nobody stop am."
+        },
+        {
+          "verse": 18,
+          "text": "Whoever waka blamelessly go dey safe, but whoever perverse for im ways go fall suddenly."
+        },
+        {
+          "verse": 19,
+          "text": "Whoever till im land go have plenty bread, but whoever chase fantasies go have plenty poverty."
+        },
+        {
+          "verse": 20,
+          "text": "Faithful man go abound with blessings, but whoever hurry to get rich no go go unpunished."
+        },
+        {
+          "verse": 21,
+          "text": "To show partiality no good, but man go transgress for piece of bread."
+        },
+        {
+          "verse": 22,
+          "text": "Stingy man hurry to get riches and no know say poverty go come on am."
+        },
+        {
+          "verse": 23,
+          "text": "Whoever rebuke man go afterward find more favor pass am wey flatter with im tongue."
+        },
+        {
+          "verse": 24,
+          "text": "Whoever rob im papa or im mama and talk say, “E no be transgression,” na companion of destroyer."
+        },
+        {
+          "verse": 25,
+          "text": "Greedy man dey stir up strife, but whoever trust di Lord go prosper."
+        },
+        {
+          "verse": 26,
+          "text": "Whoever trust im own mind na fool, but whoever waka wisely go dey delivered."
+        },
+        {
+          "verse": 27,
+          "text": "Whoever give to di poor no go lack, but whoever hide im eyes go get many curses."
+        },
+        {
+          "verse": 28,
+          "text": "When di wicked rise, men dey hide, but when dem perish, di righteous increase."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Man wey dey stiff necked after many reproofs go dey broken sudden without remedy."
+        },
+        {
+          "verse": 2,
+          "text": "When di righteous dey for authority, di people rejoice, but when di wicked rule, di people groan."
+        },
+        {
+          "verse": 3,
+          "text": "Man wey love wisdom dey make im papa glad, but companion of prostitutes dey waste im wealth."
+        },
+        {
+          "verse": 4,
+          "text": "Di king dey establish di land by justice, but man wey dey take bribes dey tear am down."
+        },
+        {
+          "verse": 5,
+          "text": "Man wey flatter im neighbor dey spread net for im feet."
+        },
+        {
+          "verse": 6,
+          "text": "For di transgression of evil man dey snare, but di righteous dey sing and rejoice."
+        },
+        {
+          "verse": 7,
+          "text": "Di righteous dey care about justice for di poor. Di wicked no get understanding of am."
+        },
+        {
+          "verse": 8,
+          "text": "Scoffers dey stir up city, but wise men dey turn away wrath."
+        },
+        {
+          "verse": 9,
+          "text": "If wise man go to court with foolish man, di fool rage or laugh, and no peace dey."
+        },
+        {
+          "verse": 10,
+          "text": "Bloodthirsty men hate di blameless, but di upright dey seek im life."
+        },
+        {
+          "verse": 11,
+          "text": "Fool dey vent all im anger, but wise man dey hold am back."
+        },
+        {
+          "verse": 12,
+          "text": "If ruler listen to lies, all im officials dey wicked."
+        },
+        {
+          "verse": 13,
+          "text": "Di poor man and di oppressor get dis for common: di Lord dey give light to di eyes of both."
+        },
+        {
+          "verse": 14,
+          "text": "If king judge di poor with truth, im throne go dey established forever."
+        },
+        {
+          "verse": 15,
+          "text": "Rod and reproof dey give wisdom, but pikin wey dem leave to imself dey bring im mama to shame."
+        },
+        {
+          "verse": 16,
+          "text": "When di wicked dey increase, transgression dey increase, but di righteous go see dem fall."
+        },
+        {
+          "verse": 17,
+          "text": "Discipline your pikin, and e go give you rest. Yes, e go give delight to your soul."
+        },
+        {
+          "verse": 18,
+          "text": "Where no vision dey, di people dey cast off restraint, but blessed na di one wey keep di law."
+        },
+        {
+          "verse": 19,
+          "text": "Servant no go dey corrected by words alone, because even if e understand, e no go respond."
+        },
+        {
+          "verse": 20,
+          "text": "You see man wey dey hasty for im words? More hope dey for fool pass am."
+        },
+        {
+          "verse": 21,
+          "text": "If man pamper im servant from youth, e go become stubborn for di end."
+        },
+        {
+          "verse": 22,
+          "text": "Angry man dey stir up strife, and hot tempered man dey commit many transgressions."
+        },
+        {
+          "verse": 23,
+          "text": "Man pride go bring am low, but di humble for spirit go gain honor."
+        },
+        {
+          "verse": 24,
+          "text": "Whoever share with thief hate im own soul. E dey hear curse and no dey tell."
+        },
+        {
+          "verse": 25,
+          "text": "Fear of man dey bring snare, but whoever trust di Lord go dey safe."
+        },
+        {
+          "verse": 26,
+          "text": "Many dey seek di face of ruler, but na from di Lord dey come man justice."
+        },
+        {
+          "verse": 27,
+          "text": "Unjust man na abomination to di righteous, and di one wey dey upright for way na abomination to di wicked."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di words of Agur di son of Jakeh, di oracle. Di man talk to Ithiel, to Ithiel and Ucal:"
+        },
+        {
+          "verse": 2,
+          "text": "“Surely I dey more brutish pass any man, and I no get man understanding."
+        },
+        {
+          "verse": 3,
+          "text": "I no learn wisdom, and I no get knowledge of di Holy One."
+        },
+        {
+          "verse": 4,
+          "text": "Who don go up to heaven and come down? Who don gather di wind for im fists? Who don wrap di waters for garment? Who don establish all di ends of di earth? Wetin be im name, and wetin be im pikin name? Surely you know!"
+        },
+        {
+          "verse": 5,
+          "text": "Every word of God dey tested. E be shield to dem wey take refuge for am."
+        },
+        {
+          "verse": 6,
+          "text": "No add to im words, or e go rebuke you and you go dey found liar."
+        },
+        {
+          "verse": 7,
+          "text": "Two things I don ask from you. No deny me before I die:"
+        },
+        {
+          "verse": 8,
+          "text": "Remove falsehood and lies far from me. Give me neither poverty nor riches. Feed me with di food wey I need,"
+        },
+        {
+          "verse": 9,
+          "text": "or I go dey full and deny you and talk say, ‘Who be di Lord?’ or I go dey poor and steal, and disrespect di name of my God."
+        },
+        {
+          "verse": 10,
+          "text": "No slander servant to im oga, or e go curse you and you go dey found guilty."
+        },
+        {
+          "verse": 11,
+          "text": "Dere dey generation wey curse dem papa and no bless dem mama."
+        },
+        {
+          "verse": 12,
+          "text": "Dere dey generation wey dey pure for dem own eyes, yet dem no wash from dem filthiness."
+        },
+        {
+          "verse": 13,
+          "text": "Dere dey generation, how lofty dem eyes dey! Dem eyelids dey lifted up."
+        },
+        {
+          "verse": 14,
+          "text": "Dere dey generation wey dem teeth na swords and dem jaw teeth na knives, to devour di poor from di earth and di needy from among men."
+        },
+        {
+          "verse": 15,
+          "text": "Di leech get two daughters: ‘Give, give.’ Three things no dey satisfied, four no dey talk say ‘Enough’:"
+        },
+        {
+          "verse": 16,
+          "text": "Sheol, di barren womb, di earth wey no dey satisfied with water, and di fire wey no dey talk say ‘Enough.’"
+        },
+        {
+          "verse": 17,
+          "text": "Di eye wey mock im papa and despise to obey im mama, di ravens of di valley go pick am out, and di young eagles go eat am."
+        },
+        {
+          "verse": 18,
+          "text": "Three things dey too wonderful for me, yes, four wey I no understand:"
+        },
+        {
+          "verse": 19,
+          "text": "di way of eagle for di sky, di way of serpent on rock, di way of ship for di middle of di sea, and di way of man with young woman."
+        },
+        {
+          "verse": 20,
+          "text": "Dis na di way of adulterous woman: e dey eat, wipe im mouth, and talk say, ‘I no do wrong.’"
+        },
+        {
+          "verse": 21,
+          "text": "Under three things di earth dey tremble, and under four e no fit bear:"
+        },
+        {
+          "verse": 22,
+          "text": "under servant wey become king, fool wey get plenty food,"
+        },
+        {
+          "verse": 23,
+          "text": "unloved woman wey dey married, and servant girl wey take place of di woman wey be im oga."
+        },
+        {
+          "verse": 24,
+          "text": "Four things dey small for di earth, but dem dey exceedingly wise:"
+        },
+        {
+          "verse": 25,
+          "text": "di ants na people wey no strong, yet dem dey prepare dem food for di summer."
+        },
+        {
+          "verse": 26,
+          "text": "Di rock badgers na people wey no mighty, yet dem dey make dem homes for di rocks."
+        },
+        {
+          "verse": 27,
+          "text": "Di locusts no get king, yet dem all dey go out in ranks."
+        },
+        {
+          "verse": 28,
+          "text": "Di lizard fit dey grasp with hands, yet e dey for kings palaces."
+        },
+        {
+          "verse": 29,
+          "text": "Three things dey stately for dem march, yes, four dey stately for dem walk:"
+        },
+        {
+          "verse": 30,
+          "text": "di lion, wey dey mighty among beasts and no dey turn back for anything,"
+        },
+        {
+          "verse": 31,
+          "text": "di strutting rooster, di male goat, and di king wey im army dey with am."
+        },
+        {
+          "verse": 32,
+          "text": "If you don act foolishly by lifting yourself up, or if you don plan evil, put your hand on your mouth."
+        },
+        {
+          "verse": 33,
+          "text": "Because di churning of milk dey produce butter, and di wringing of di nose dey produce blood, so di forcing of wrath dey produce strife.”"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di words of King Lemuel, di oracle wey im mama teach am."
+        },
+        {
+          "verse": 2,
+          "text": "“Wetin, my pikin? Wetin, pikin of my womb? Wetin, pikin of my vows?"
+        },
+        {
+          "verse": 3,
+          "text": "No give your strength to women, nor your ways to dem wey destroy kings."
+        },
+        {
+          "verse": 4,
+          "text": "E no be for kings, Lemuel, e no be for kings to drink wine, nor for rulers to desire strong drink,"
+        },
+        {
+          "verse": 5,
+          "text": "or dem go drink and forget wetin di law decree, and pervert di rights of any of di afflicted."
+        },
+        {
+          "verse": 6,
+          "text": "Give strong drink to am wey dey perish, and wine to dem wey get bitter soul,"
+        },
+        {
+          "verse": 7,
+          "text": "make e drink and forget im poverty and no remember im misery again."
+        },
+        {
+          "verse": 8,
+          "text": "Open your mouth for di mute, for di rights of all wey dey destitute."
+        },
+        {
+          "verse": 9,
+          "text": "Open your mouth, judge righteously, and defend di rights of di poor and needy.”"
+        },
+        {
+          "verse": 10,
+          "text": "Who fit find virtuous wife? Im worth far pass rubies."
+        },
+        {
+          "verse": 11,
+          "text": "Di heart of im husband dey safe inside am, and e no go lack gain."
+        },
+        {
+          "verse": 12,
+          "text": "E dey do am good and no evil all di days of im life."
+        },
+        {
+          "verse": 13,
+          "text": "E dey seek wool and flax and dey work with willing hands."
+        },
+        {
+          "verse": 14,
+          "text": "E be like merchant ships. E dey bring im food from far."
+        },
+        {
+          "verse": 15,
+          "text": "E dey rise also while night still dey, give food to im household and portion to im servant girls."
+        },
+        {
+          "verse": 16,
+          "text": "E dey consider field and buy am. With di fruit of im hands e dey plant vineyard."
+        },
+        {
+          "verse": 17,
+          "text": "E dey gird im waist with strength and dey strengthen im arms."
+        },
+        {
+          "verse": 18,
+          "text": "E dey perceive say im merchandise dey profitable. Im lamp no dey go out for night."
+        },
+        {
+          "verse": 19,
+          "text": "E dey put im hands to di distaff, and im hands dey hold di spindle."
+        },
+        {
+          "verse": 20,
+          "text": "E dey open im hand to di poor. Yes, e dey reach out im hands to di needy."
+        },
+        {
+          "verse": 21,
+          "text": "E no dey afraid of snow for im household, because all im household dey clothed with scarlet."
+        },
+        {
+          "verse": 22,
+          "text": "E dey make coverings for imself. Im clothing na fine linen and purple."
+        },
+        {
+          "verse": 23,
+          "text": "Im husband dey known for di gates, when e sit among di elders of di land."
+        },
+        {
+          "verse": 24,
+          "text": "E dey make linen garments and sell dem, and dey supply sashes to di merchant."
+        },
+        {
+          "verse": 25,
+          "text": "Strength and dignity na im clothing. E dey laugh at di time to come."
+        },
+        {
+          "verse": 26,
+          "text": "E dey open im mouth with wisdom. Di law of kindness dey for im tongue."
+        },
+        {
+          "verse": 27,
+          "text": "E dey watch well over di ways of im household and no dey eat di bread of idleness."
+        },
+        {
+          "verse": 28,
+          "text": "Im pikin dem rise up and call am blessed. Im husband too, and e praise am:"
+        },
+        {
+          "verse": 29,
+          "text": "“Many women don do virtuously, but you pass dem all.”"
+        },
+        {
+          "verse": 30,
+          "text": "Charm dey deceive, and beauty dey vain, but woman wey fear di Lord, na im go dey praised."
+        },
+        {
+          "verse": 31,
+          "text": "Give am di fruit of im hands, and make im works praise am for di gates."
+        }
+      ]
+    }
+  ]
+}

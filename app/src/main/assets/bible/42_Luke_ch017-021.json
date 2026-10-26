@@ -1,0 +1,885 @@
+{
+  "book": "Luke",
+  "bookNumber": 42,
+  "testament": "NT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E talk to im disciples say, “E no possible say things wey go make people stumble no go come, but sorrow dey for di person wey dem come through."
+        },
+        {
+          "verse": 2,
+          "text": "E go better for am if dem hang millstone round im neck, and throw am inside sea, pass say e cause one of these small ones to stumble."
+        },
+        {
+          "verse": 3,
+          "text": "Make una careful. If your brother sin against you, rebuke am. If e repent, forgive am."
+        },
+        {
+          "verse": 4,
+          "text": "If e sin against you seven times for one day, and seven times e come back, dey talk say ‘I repent,’ you must forgive am.”"
+        },
+        {
+          "verse": 5,
+          "text": "Di apostles talk to Lord say, “Increase our faith.”"
+        },
+        {
+          "verse": 6,
+          "text": "Lord talk say, “If una get faith like mustard seed, una go talk to this sycamore tree say, ‘Pull yourself up from di root, plant yourself inside sea,’ and e go obey una."
+        },
+        {
+          "verse": 7,
+          "text": "But who dey among una, wey get servant wey dey plow or dey watch sheep, wey go talk to am say, when e come in from di farm, ‘Come at once sit down for table’?"
+        },
+        {
+          "verse": 8,
+          "text": "E no go rather tell am, ‘Prepare my supper, dress yourself well, and serve me, while I dey chop and drink. After that you go chop and drink’?"
+        },
+        {
+          "verse": 9,
+          "text": "E dey thank that servant because e do wetin dem command am? I no think so."
+        },
+        {
+          "verse": 10,
+          "text": "Na so una too, when una don do all wetin dem command una, talk say, ‘We be servants wey no worth. We don do our duty.’”"
+        },
+        {
+          "verse": 11,
+          "text": "E happen as e dey go Jerusalem, say e dey pass through di borders of Samaria and Galilee."
+        },
+        {
+          "verse": 12,
+          "text": "As e enter one village, ten men wey get leprosy meet am, wey stand from far."
+        },
+        {
+          "verse": 13,
+          "text": "Dem raise dem voices, dey talk say, “Jesus, Master, show us mercy!”"
+        },
+        {
+          "verse": 14,
+          "text": "When e see dem, e talk to dem say, “Go show yourselves to di priests.” E happen say as dem dey go, dem clean."
+        },
+        {
+          "verse": 15,
+          "text": "One of dem, when e see say e don heal, turn back, dey praise God with loud voice."
+        },
+        {
+          "verse": 16,
+          "text": "E fall face down for Jesus feet, dey thank am; and e be Samaritan."
+        },
+        {
+          "verse": 17,
+          "text": "Jesus answer, “No be ten clean? But where di nine dey?"
+        },
+        {
+          "verse": 18,
+          "text": "Nobody find wey return to give God glory, except this stranger?”"
+        },
+        {
+          "verse": 19,
+          "text": "Den e talk to am say, “Get up, go your way. Your faith don make you well.”"
+        },
+        {
+          "verse": 20,
+          "text": "As di Pharisees ask am when God Kingdom go come, e answer dem, “God Kingdom no dey come with something wey person fit watch;"
+        },
+        {
+          "verse": 21,
+          "text": "and dem no go talk say, ‘Look, e dey here!’ or, ‘Look, e dey there!’ because look, God Kingdom dey inside una.”"
+        },
+        {
+          "verse": 22,
+          "text": "E talk to di disciples say, “Days go come, wey una go want see one of di days of di Son of Man, and una no go see am."
+        },
+        {
+          "verse": 23,
+          "text": "Dem go tell una, ‘Look, e dey here!’ or ‘Look, e dey there!’ No go, and no follow dem,"
+        },
+        {
+          "verse": 24,
+          "text": "because as lightning, when e flash from one part under di sky, e dey shine reach di other part under di sky; na so di Son of Man go be for im day."
+        },
+        {
+          "verse": 25,
+          "text": "But first, e must suffer plenty things and this generation go reject am."
+        },
+        {
+          "verse": 26,
+          "text": "As e happen for di days of Noah, na so e go be for di days of di Son of Man too."
+        },
+        {
+          "verse": 27,
+          "text": "Dem dey chop, dem dey drink, dem dey marry, dem dey give dem for marriage, until di day wey Noah enter di ship, and flood come, destroy dem all."
+        },
+        {
+          "verse": 28,
+          "text": "Na so too, as e happen for di days of Lot: dem dey chop, dem dey drink, dem dey buy, dem dey sell, dem dey plant, dem dey build;"
+        },
+        {
+          "verse": 29,
+          "text": "but for di day wey Lot go out from Sodom, fire and sulfur fall from di sky, destroy dem all."
+        },
+        {
+          "verse": 30,
+          "text": "E go be di same for di day wey dem reveal di Son of Man."
+        },
+        {
+          "verse": 31,
+          "text": "For that day, di person wey dey for di housetop, and im goods dey inside house, make e no go down to carry dem. Di person wey dey for di farm too make e no turn back."
+        },
+        {
+          "verse": 32,
+          "text": "Remember Lot wife!"
+        },
+        {
+          "verse": 33,
+          "text": "Anybody wey want save im life go lose am, but anybody wey lose im life go keep am."
+        },
+        {
+          "verse": 34,
+          "text": "I dey tell una, for that night two people go dey for one bed. Dem go take one, and leave di other."
+        },
+        {
+          "verse": 35,
+          "text": "Two go dey grind grain together. Dem go take one, and leave di other."
+        },
+        {
+          "verse": 36,
+          "text": "Two go dey for di farm: dem go take one, and leave di other.”"
+        },
+        {
+          "verse": 37,
+          "text": "Dem answer am, ask, “Wia, Lord?” E talk to dem say, “Wia di body dey, na there di vultures go gather too.”"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E tell dem parable say dem must always pray, and no give up,"
+        },
+        {
+          "verse": 2,
+          "text": "dey talk say, “One judge dey for one town wey no fear God, and no respect man."
+        },
+        {
+          "verse": 3,
+          "text": "One widow dey for that town, and e dey come to am plenty times, dey talk say, ‘Defend me from my enemy!’"
+        },
+        {
+          "verse": 4,
+          "text": "E no gree for some time, but after e talk for imself, ‘Even though I no fear God, and I no respect man,"
+        },
+        {
+          "verse": 5,
+          "text": "because this widow dey bother me, I go defend am, if no be so e go tire me with im continual coming.’”"
+        },
+        {
+          "verse": 6,
+          "text": "Lord talk say, “Listen to wetin di unrighteous judge talk."
+        },
+        {
+          "verse": 7,
+          "text": "God no go avenge im chosen ones, wey dey cry to am day and night, and e dey patient with dem?"
+        },
+        {
+          "verse": 8,
+          "text": "I dey tell una say e go avenge dem quick. But when di Son of Man come, e go find faith for earth?”"
+        },
+        {
+          "verse": 9,
+          "text": "E tell this parable too to some people wey believe say dem righteous, and dey despise all others."
+        },
+        {
+          "verse": 10,
+          "text": "“Two men go up to di temple to pray; one na Pharisee, and di other na tax collector."
+        },
+        {
+          "verse": 11,
+          "text": "Di Pharisee stand pray for imself like this: ‘God, I thank you, say I no be like di rest of men, extortioners, unrighteous, adulterers, or even like this tax collector."
+        },
+        {
+          "verse": 12,
+          "text": "I dey fast two times for week. I dey give tithes of all wey I get.’"
+        },
+        {
+          "verse": 13,
+          "text": "But di tax collector, wey stand far, no even lift im eyes to heaven, but beat im chest, dey talk say, ‘God, show mercy to me, sinner.’"
+        },
+        {
+          "verse": 14,
+          "text": "I dey tell una, this man go down to im house justified pass di other one; because everybody wey lift imself up, dem go humble am, but di one wey humble imself, dem go lift am up.”"
+        },
+        {
+          "verse": 15,
+          "text": "Dem dey bring dem babies to am too, so that e go touch dem, but when di disciples see am, dem rebuke dem."
+        },
+        {
+          "verse": 16,
+          "text": "But Jesus call dem come, talk say, “Allow di small pikin dem come to me, and no stop dem, because God Kingdom belong to people like these."
+        },
+        {
+          "verse": 17,
+          "text": "Na true I dey tell una, anybody wey no receive God Kingdom like small pikin no go enter am at all.”"
+        },
+        {
+          "verse": 18,
+          "text": "One ruler ask am, dey talk say, “Good Teacher, wetin I go do to inherit life wey no dey end?”"
+        },
+        {
+          "verse": 19,
+          "text": "Jesus ask am, “Why you dey call me good? Nobody good, except one—God."
+        },
+        {
+          "verse": 20,
+          "text": "You know di commandments: ‘No commit adultery,’ ‘No kill,’ ‘No steal,’ ‘No give false testimony,’ ‘Honor your papa and your mama.’”"
+        },
+        {
+          "verse": 21,
+          "text": "E talk say, “I don keep all these things from my youth.”"
+        },
+        {
+          "verse": 22,
+          "text": "When Jesus hear am, e talk to am say, “You still lack one thing. Sell all wetin you get, share am give di poor. You go get treasure for heaven. Come, follow me.”"
+        },
+        {
+          "verse": 23,
+          "text": "But when e hear these things, e become very sad, because e rich well well."
+        },
+        {
+          "verse": 24,
+          "text": "Jesus see say e become very sad, talk say, “E hard well well for people wey get riches to enter God Kingdom!"
+        },
+        {
+          "verse": 25,
+          "text": "Because e easy pass for camel to pass through needle eye than for rich man to enter God Kingdom.”"
+        },
+        {
+          "verse": 26,
+          "text": "Di people wey hear am talk say, “Den who fit dey saved?”"
+        },
+        {
+          "verse": 27,
+          "text": "But e talk say, “Di things wey no possible with men possible with God.”"
+        },
+        {
+          "verse": 28,
+          "text": "Peter talk say, “Look, we don leave our own things, and follow you.”"
+        },
+        {
+          "verse": 29,
+          "text": "E talk to dem say, “Na true I dey tell una, nobody dey wey don leave house, or wife, or brothers, or parents, or pikin dem, for God Kingdom sake,"
+        },
+        {
+          "verse": 30,
+          "text": "wey no go receive many times more for this time, and for di age wey dey come, life wey no dey end.”"
+        },
+        {
+          "verse": 31,
+          "text": "E take di 12 aside, talk to dem say, “Look, we dey go up to Jerusalem, and all things wey dem write through di prophets about di Son of Man go finish."
+        },
+        {
+          "verse": 32,
+          "text": "Because dem go deliver am to di Gentiles, and dem go mock am, treat am shamefully, and spit on am."
+        },
+        {
+          "verse": 33,
+          "text": "Dem go whip am and kill am. For di third day, e go rise again.”"
+        },
+        {
+          "verse": 34,
+          "text": "Dem no understand any of these things. This word hide from dem, and dem no understand di things wey dem talk."
+        },
+        {
+          "verse": 35,
+          "text": "E happen, as e near Jericho, one blind man dey sit by di road, dey beg."
+        },
+        {
+          "verse": 36,
+          "text": "As e hear crowd dey pass, e ask wetin e mean."
+        },
+        {
+          "verse": 37,
+          "text": "Dem tell am say Jesus of Nazareth dey pass."
+        },
+        {
+          "verse": 38,
+          "text": "E shout, “Jesus, you son of David, show me mercy!”"
+        },
+        {
+          "verse": 39,
+          "text": "Di people wey dey lead di way rebuke am, make e keep quiet; but e shout more, “You son of David, show me mercy!”"
+        },
+        {
+          "verse": 40,
+          "text": "Jesus stand, command say make dem bring am to am. When e near, e ask am,"
+        },
+        {
+          "verse": 41,
+          "text": "“Wetin you want make I do?” E talk say, “Lord, make I see again.”"
+        },
+        {
+          "verse": 42,
+          "text": "Jesus talk to am say, “Receive your sight. Your faith don heal you.”"
+        },
+        {
+          "verse": 43,
+          "text": "At once e receive im sight, and follow am, dey praise God. All di people, when dem see am, praise God."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E enter dey pass through Jericho."
+        },
+        {
+          "verse": 2,
+          "text": "One man dey wey im name na Zacchaeus. E be chief tax collector, and e rich."
+        },
+        {
+          "verse": 3,
+          "text": "E dey try see who Jesus be, and e no fit because of di crowd, because e short."
+        },
+        {
+          "verse": 4,
+          "text": "E run go ahead, climb up one sycamore tree to see am, because e go pass that way."
+        },
+        {
+          "verse": 5,
+          "text": "When Jesus reach di place, e look up see am, talk to am say, “Zacchaeus, hurry come down, because today I must stay for your house.”"
+        },
+        {
+          "verse": 6,
+          "text": "E hurry, come down, receive am with joy."
+        },
+        {
+          "verse": 7,
+          "text": "When dem see am, dem all grumble, dey talk say, “E don go stay with man wey be sinner.”"
+        },
+        {
+          "verse": 8,
+          "text": "Zacchaeus stand talk to Lord say, “Look, Lord, half of my goods I dey give di poor. If I don take anything from anybody wrongly, I go pay back four times.”"
+        },
+        {
+          "verse": 9,
+          "text": "Jesus talk to am say, “Today, salvation don come to this house, because e too na Abraham son."
+        },
+        {
+          "verse": 10,
+          "text": "Because di Son of Man come to look for and to save wetin lost.”"
+        },
+        {
+          "verse": 11,
+          "text": "As dem dey hear these things, e continue tell parable, because e near Jerusalem, and dem think say God Kingdom go show at once."
+        },
+        {
+          "verse": 12,
+          "text": "So e talk say, “One nobleman go far country to receive kingdom for imself, and to return."
+        },
+        {
+          "verse": 13,
+          "text": "E call ten of im servants, give dem ten mina coins, tell dem, ‘Do business until I come.’"
+        },
+        {
+          "verse": 14,
+          "text": "But im citizens hate am, send envoy after am, dey talk say, ‘We no want this man to rule us.’"
+        },
+        {
+          "verse": 15,
+          "text": "E happen when e don come back, as e don receive di kingdom, e command say make dem call these servants, wey e give di money, come to am, so that e go know wetin dem gain by business."
+        },
+        {
+          "verse": 16,
+          "text": "Di first come before am, dey talk say, ‘Lord, your mina don make ten more minas.’"
+        },
+        {
+          "verse": 17,
+          "text": "E talk to am say, ‘Well done, you good servant! Because you faithful for very small thing, you go get authority over ten towns.’"
+        },
+        {
+          "verse": 18,
+          "text": "Di second come, dey talk say, ‘Your mina, Lord, don make five minas.’"
+        },
+        {
+          "verse": 19,
+          "text": "So e talk to am say, ‘And you go dey over five towns.’"
+        },
+        {
+          "verse": 20,
+          "text": "Another come, dey talk say, ‘Lord, look, your mina, wey I keep for handkerchief,"
+        },
+        {
+          "verse": 21,
+          "text": "because I fear you, because you be demanding man. You dey take wetin you no put down, and dey harvest wetin you no plant.’"
+        },
+        {
+          "verse": 22,
+          "text": "E talk to am say, ‘From your own mouth I go judge you, you wicked servant! You know say I be demanding man, dey take wetin I no put down, and dey harvest wetin I no plant."
+        },
+        {
+          "verse": 23,
+          "text": "Den why you no put my money for bank, so that when I come, I go earn interest on am?’"
+        },
+        {
+          "verse": 24,
+          "text": "E talk to di people wey stand there, ‘Take di mina from am, give di one wey get di ten minas.’"
+        },
+        {
+          "verse": 25,
+          "text": "Dem talk to am say, ‘Lord, e get ten minas!’"
+        },
+        {
+          "verse": 26,
+          "text": "‘Because I dey tell una say everybody wey get, dem go give am; but di one wey no get, even wetin e get dem go take from am."
+        },
+        {
+          "verse": 27,
+          "text": "But bring those enemies of mine wey no want make I rule dem come here, kill dem before me.’”"
+        },
+        {
+          "verse": 28,
+          "text": "As e don talk these things, e go ahead, dey go up to Jerusalem."
+        },
+        {
+          "verse": 29,
+          "text": "E happen, when e near Bethphage and Bethany, for di mountain wey dem call Olivet, e send two of im disciples,"
+        },
+        {
+          "verse": 30,
+          "text": "dey talk say, “Go di village for di other side, wia as una enter, una go find young donkey wey dem tie, wey nobody don ever sit on. Loose am, bring am come."
+        },
+        {
+          "verse": 31,
+          "text": "If anybody ask una, ‘Why una dey loose am?’ talk to am say: ‘Lord need am.’”"
+        },
+        {
+          "verse": 32,
+          "text": "Di people wey dem send go, find things just as e tell dem."
+        },
+        {
+          "verse": 33,
+          "text": "As dem dey loose di young donkey, im owners talk to dem say, “Why una dey loose di young donkey?”"
+        },
+        {
+          "verse": 34,
+          "text": "Dem talk say, “Lord need am.”"
+        },
+        {
+          "verse": 35,
+          "text": "Dem bring am to Jesus. Dem throw dem cloaks on di young donkey, put Jesus on am."
+        },
+        {
+          "verse": 36,
+          "text": "As e dey go, dem spread dem cloaks for di road."
+        },
+        {
+          "verse": 37,
+          "text": "As e don near, for di descent of di Mount of Olives, all di crowd of di disciples begin rejoice and praise God with loud voice for all di mighty works wey dem don see,"
+        },
+        {
+          "verse": 38,
+          "text": "dey talk say, “Blessed be di King wey dey come for di name of di Lord! Peace for heaven, and glory for di highest!”"
+        },
+        {
+          "verse": 39,
+          "text": "Some of di Pharisees for di crowd talk to am say, “Teacher, rebuke your disciples!”"
+        },
+        {
+          "verse": 40,
+          "text": "E answer dem, “I dey tell una say if these ones keep quiet, di stones go shout.”"
+        },
+        {
+          "verse": 41,
+          "text": "When e near, e see di city and cry over am,"
+        },
+        {
+          "verse": 42,
+          "text": "dey talk say, “If you, even you, don know today di things wey belong to your peace! But now dem hide am from your eyes."
+        },
+        {
+          "verse": 43,
+          "text": "Because days go come on you, when your enemies go build barricade against you, surround you, and press you from every side,"
+        },
+        {
+          "verse": 44,
+          "text": "and go throw you and your pikin dem inside you down to di ground. Dem no go leave one stone on another inside you, because you no know di time wey God visit you.”"
+        },
+        {
+          "verse": 45,
+          "text": "E enter di temple, begin drive out di people wey dey buy and sell inside am,"
+        },
+        {
+          "verse": 46,
+          "text": "dey talk to dem say, “E dey write, ‘My house na house of prayer,’ but una don make am place wey robbers dey hide!”"
+        },
+        {
+          "verse": 47,
+          "text": "E dey teach every day for di temple, but di chief priests and di scribes and di leading men among di people dey look for way to destroy am."
+        },
+        {
+          "verse": 48,
+          "text": "Dem no find wetin dem fit do, because all di people dey hold every word wey e talk."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E happen for one of di days, as e dey teach di people for di temple and dey preach di Good News, say di chief priests and scribes come to am with di elders."
+        },
+        {
+          "verse": 2,
+          "text": "Dem ask am, “Tell us: By which authority you dey do these things? Or who give you this authority?”"
+        },
+        {
+          "verse": 3,
+          "text": "E answer dem, “I go ask una one question too. Tell me:"
+        },
+        {
+          "verse": 4,
+          "text": "John baptism, e come from heaven, or from men?”"
+        },
+        {
+          "verse": 5,
+          "text": "Dem reason among demself, dey talk say, “If we talk, ‘From heaven,’ e go talk, ‘Why una no believe am?’"
+        },
+        {
+          "verse": 6,
+          "text": "But if we talk, ‘From men,’ all di people go stone us, because dem believe say John na prophet.”"
+        },
+        {
+          "verse": 7,
+          "text": "Dem answer say dem no know where e come from."
+        },
+        {
+          "verse": 8,
+          "text": "Jesus talk to dem say, “I no go tell una by which authority I dey do these things too.”"
+        },
+        {
+          "verse": 9,
+          "text": "E begin tell di people this parable. “One man plant vineyard, rent am to some farmers, and go another country for long time."
+        },
+        {
+          "verse": 10,
+          "text": "For di right season, e send servant to di farmers to collect im share of di fruit of di vineyard, but di farmers beat am, send am go with empty hand."
+        },
+        {
+          "verse": 11,
+          "text": "E send another servant, and dem beat am too, treat am shamefully, send am go with empty hand."
+        },
+        {
+          "verse": 12,
+          "text": "E send third one, and dem wound am too, throw am out."
+        },
+        {
+          "verse": 13,
+          "text": "Di oga of di vineyard talk, ‘Wetin I go do? I go send my beloved son. Perhaps dem go respect am when dem see am.’"
+        },
+        {
+          "verse": 14,
+          "text": "But when di farmers see am, dem reason among demself, dey talk say, ‘This na di heir. Come, make we kill am, so that di inheritance go be our own.’"
+        },
+        {
+          "verse": 15,
+          "text": "Dem throw am out of di vineyard, kill am. So wetin oga of di vineyard go do to dem?"
+        },
+        {
+          "verse": 16,
+          "text": "E go come destroy these farmers, and give di vineyard to others.” When dem hear am, dem talk say, “E no go ever happen!”"
+        },
+        {
+          "verse": 17,
+          "text": "But e look dem, talk say, “Den wetin be this wey dem write, ‘Di stone wey di builders reject, na im become di head of di corner’?"
+        },
+        {
+          "verse": 18,
+          "text": "Everybody wey fall on that stone go break to pieces, but anybody wey e fall on, e go crush am to dust.”"
+        },
+        {
+          "verse": 19,
+          "text": "Di chief priests and di scribes want put hands on am that very hour, but dem fear di people—because dem know say na against dem e talk this parable."
+        },
+        {
+          "verse": 20,
+          "text": "Dem watch am, send spies wey pretend say dem righteous, so that dem go trap am for something wey e talk, to deliver am to di power and authority of di governor."
+        },
+        {
+          "verse": 21,
+          "text": "Dem ask am, “Teacher, we know say wetin you dey talk and teach na wetin right, and you no dey favor anybody, but you dey teach di way of God truthfully."
+        },
+        {
+          "verse": 22,
+          "text": "Di law allow us to pay tax to Caesar, or no?”"
+        },
+        {
+          "verse": 23,
+          "text": "But e know dem craftiness, talk to dem say, “Why una dey test me?"
+        },
+        {
+          "verse": 24,
+          "text": "Show me denarius. Na who image and writing dey on am?” Dem answer, “Caesar own.”"
+        },
+        {
+          "verse": 25,
+          "text": "E talk to dem say, “Den give Caesar wetin be Caesar own, and give God wetin be God own.”"
+        },
+        {
+          "verse": 26,
+          "text": "Dem no fit trap am with im words before di people. Dem marvel for im answer, and dem keep quiet."
+        },
+        {
+          "verse": 27,
+          "text": "Some of di Sadducees come to am, di ones wey deny say resurrection dey. Dem ask am,"
+        },
+        {
+          "verse": 28,
+          "text": "“Teacher, Moses write for us say if man brother die, wey get wife, and e no get pikin, im brother must take di wife, and raise pikin for im brother."
+        },
+        {
+          "verse": 29,
+          "text": "Seven brothers dey. Di first marry wife, and die without pikin."
+        },
+        {
+          "verse": 30,
+          "text": "Di second marry am as wife, and e die without pikin."
+        },
+        {
+          "verse": 31,
+          "text": "Di third marry am; and di seven too no leave pikin, and die."
+        },
+        {
+          "verse": 32,
+          "text": "After, di woman die too."
+        },
+        {
+          "verse": 33,
+          "text": "So for di resurrection, na who wife of dem di woman go be? Because di seven marry am.”"
+        },
+        {
+          "verse": 34,
+          "text": "Jesus talk to dem say, “Di pikin dem of this age dey marry, and dem dey give dem for marriage."
+        },
+        {
+          "verse": 35,
+          "text": "But di people wey dem count worthy to reach that age and di resurrection from di dead no dey marry, and dem no dey give dem for marriage."
+        },
+        {
+          "verse": 36,
+          "text": "Because dem no fit die again, because dem be like di angels, and dem be God pikin dem, as dem be pikin dem of di resurrection."
+        },
+        {
+          "verse": 37,
+          "text": "But say dem dey raise di dead, even Moses show am for di bush, when e call di Lord ‘Di God of Abraham, di God of Isaac, and di God of Jacob.’"
+        },
+        {
+          "verse": 38,
+          "text": "Now e no be God of di dead, but of di living, because all dey alive to am.”"
+        },
+        {
+          "verse": 39,
+          "text": "Some of di scribes answer, “Teacher, you talk well.”"
+        },
+        {
+          "verse": 40,
+          "text": "Dem no dare ask am any more questions."
+        },
+        {
+          "verse": 41,
+          "text": "E talk to dem say, “Why dem dey talk say Christ na David son?"
+        },
+        {
+          "verse": 42,
+          "text": "David imself dey talk for di book of Psalms, ‘Di Lord talk to my Lord say, Sit for my right hand,"
+        },
+        {
+          "verse": 43,
+          "text": "until I make your enemies di footstool for your feet.’"
+        },
+        {
+          "verse": 44,
+          "text": "David dey call am Lord, so how e take be im son?”"
+        },
+        {
+          "verse": 45,
+          "text": "For di hearing of all di people, e talk to im disciples say,"
+        },
+        {
+          "verse": 46,
+          "text": "“Beware of di scribes, wey like to waka with long robes, and love greetings for di marketplaces, and di best seats for di synagogues, and di best places for feasts;"
+        },
+        {
+          "verse": 47,
+          "text": "di ones wey dey take widows house dem, and dey make long prayers for show. These ones go receive greater condemnation.”"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E look up, see di rich people wey dey put dem gifts inside di treasury."
+        },
+        {
+          "verse": 2,
+          "text": "E see one poor widow dey put two small brass coins."
+        },
+        {
+          "verse": 3,
+          "text": "E talk say, “Na true I dey tell una, this poor widow put more pass all of dem,"
+        },
+        {
+          "verse": 4,
+          "text": "because all these ones put gifts for God from dem plenty, but di widow, from im poverty, put all wey e get to live on.”"
+        },
+        {
+          "verse": 5,
+          "text": "As some people dey talk about di temple, how dem decorate am with beautiful stones and gifts, e talk say,"
+        },
+        {
+          "verse": 6,
+          "text": "“These things wey una dey see—days go come, wey no stone go remain on another here wey dem no go throw down.”"
+        },
+        {
+          "verse": 7,
+          "text": "Dem ask am, “Teacher, so when these things go happen? Wetin be di sign say these things dey about to happen?”"
+        },
+        {
+          "verse": 8,
+          "text": "E talk say, “Watch out make dem no lead una astray, because plenty go come for my name, dey talk say, ‘Na me,’ and, ‘Di time don near.’ So no follow dem."
+        },
+        {
+          "verse": 9,
+          "text": "When una hear about wars and disturbances, no terrify, because these things must happen first, but di end no go come at once.”"
+        },
+        {
+          "verse": 10,
+          "text": "Den e talk to dem say, “Nation go rise against nation, and kingdom against kingdom."
+        },
+        {
+          "verse": 11,
+          "text": "Great earthquakes, famines, and plagues go dey for different places. Terrors and great signs from heaven go dey."
+        },
+        {
+          "verse": 12,
+          "text": "But before all these things, dem go put hands on una and persecute una, deliver una to di synagogues and prisons, bring una before kings and governors for my name sake."
+        },
+        {
+          "verse": 13,
+          "text": "E go turn out as testimony for una."
+        },
+        {
+          "verse": 14,
+          "text": "So settle am for una hearts say make una no plan before how una go answer,"
+        },
+        {
+          "verse": 15,
+          "text": "because I go give una mouth and wisdom wey all una enemies no go fit stand against or contradict."
+        },
+        {
+          "verse": 16,
+          "text": "Even una parents, brothers, relatives, and friends go hand una over. Dem go kill some of una."
+        },
+        {
+          "verse": 17,
+          "text": "All men go hate una for my name sake."
+        },
+        {
+          "verse": 18,
+          "text": "But even one hair of your head no go perish."
+        },
+        {
+          "verse": 19,
+          "text": "By your endurance una go win una lives."
+        },
+        {
+          "verse": 20,
+          "text": "But when una see Jerusalem surround by armies, den know say im desolation don near."
+        },
+        {
+          "verse": 21,
+          "text": "Den make di people wey dey Judea run go di mountains. Make di people wey dey inside am leave. Make di people wey dey di country no enter am."
+        },
+        {
+          "verse": 22,
+          "text": "Because these na days of vengeance, so that all things wey dem write go fulfill."
+        },
+        {
+          "verse": 23,
+          "text": "Sorrow dey for di women wey get belle and di ones wey dey breastfeed pikin dem for those days! Because great distress go dey for di land, and wrath for this people."
+        },
+        {
+          "verse": 24,
+          "text": "Dem go fall by di edge of sword, and dem go carry dem captive go all di nations. Di Gentiles go trample Jerusalem until di times of di Gentiles finish."
+        },
+        {
+          "verse": 25,
+          "text": "Signs go dey for sun, moon, and stars; and for earth distress of nations, dem go confuse because of di roaring of di sea and di waves;"
+        },
+        {
+          "verse": 26,
+          "text": "men go faint for fear, and for expectation of di things wey dey come for di world: because di powers of di heavens go shake."
+        },
+        {
+          "verse": 27,
+          "text": "Den dem go see di Son of Man dey come inside cloud with power and great glory."
+        },
+        {
+          "verse": 28,
+          "text": "But when these things begin to happen, look up, and lift up your heads, because your redemption don near.”"
+        },
+        {
+          "verse": 29,
+          "text": "E tell dem parable. “Look di fig tree, and all di trees."
+        },
+        {
+          "verse": 30,
+          "text": "When dem don dey bud, una dey see am and know by yourselves say summer don near."
+        },
+        {
+          "verse": 31,
+          "text": "Na so una too, when una see these things dey happen, know say God Kingdom don near."
+        },
+        {
+          "verse": 32,
+          "text": "Na true I dey tell una, this generation no go pass away until all things finish."
+        },
+        {
+          "verse": 33,
+          "text": "Heaven and earth go pass away, but my words no go pass away."
+        },
+        {
+          "verse": 34,
+          "text": "But make una careful, so that una hearts no go heavy with drinking, drunkenness, and worries of this life, and that day come on una suddenly."
+        },
+        {
+          "verse": 35,
+          "text": "Because e go come like trap on all di people wey dey live for di surface of all di earth."
+        },
+        {
+          "verse": 36,
+          "text": "But keep alert at all times, dey pray say make dem count una worthy to escape all these things wey go happen, and to stand before di Son of Man.”"
+        },
+        {
+          "verse": 37,
+          "text": "Every day Jesus dey teach for di temple, and every night e dey go out stay for di mountain wey dem call Olivet."
+        },
+        {
+          "verse": 38,
+          "text": "All di people dey come early for morning to am for di temple to hear am."
+        }
+      ]
+    }
+  ]
+}

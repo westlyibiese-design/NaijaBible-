@@ -1,0 +1,1022 @@
+{
+  "book": "Numbers",
+  "bookNumber": 4,
+  "testament": "OT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Moses for di wilderness of Sinai, for di Tent of Meeting, on di first day of di second month, for di second year after dem come out of di land of Egypt, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Take di census of all di congregation of di pikin dem of Israel, by dem families, by dem papa houses, according to di number of names, every male, head by head,"
+        },
+        {
+          "verse": 3,
+          "text": "from 20 years old and above, all wey fit go out to war for Israel. You and Aaron go number dem by dem armies."
+        },
+        {
+          "verse": 4,
+          "text": "With una dere go be one man of every tribe, everyone head of im papa house."
+        },
+        {
+          "verse": 5,
+          "text": "Dem na di names of di men wey go stand with una: Of Reuben, Elizur di pikin of Shedeur."
+        },
+        {
+          "verse": 6,
+          "text": "Of Simeon, Shelumiel di pikin of Zurishaddai."
+        },
+        {
+          "verse": 7,
+          "text": "Of Judah, Nahshon di pikin of Amminadab."
+        },
+        {
+          "verse": 8,
+          "text": "Of Issachar, Nethanel di pikin of Zuar."
+        },
+        {
+          "verse": 9,
+          "text": "Of Zebulun, Eliab di pikin of Helon."
+        },
+        {
+          "verse": 10,
+          "text": "Of di pikin dem of Joseph: of Ephraim, Elishama di pikin of Ammihud. Of Manasseh, Gamaliel di pikin of Pedahzur."
+        },
+        {
+          "verse": 11,
+          "text": "Of Benjamin, Abidan di pikin of Gideoni."
+        },
+        {
+          "verse": 12,
+          "text": "Of Dan, Ahiezer di pikin of Ammishaddai."
+        },
+        {
+          "verse": 13,
+          "text": "Of Asher, Pagiel di pikin of Ochran."
+        },
+        {
+          "verse": 14,
+          "text": "Of Gad, Eliasaph di pikin of Deuel."
+        },
+        {
+          "verse": 15,
+          "text": "Of Naphtali, Ahira di pikin of Enan.”"
+        },
+        {
+          "verse": 16,
+          "text": "Dem na dem wey dem call from di congregation, di princes of di tribes of dem papa dem. Dem na di heads of di thousands of Israel."
+        },
+        {
+          "verse": 17,
+          "text": "Moses and Aaron take dem men wey dem don name by name."
+        },
+        {
+          "verse": 18,
+          "text": "Dem assemble all di congregation together on di first day of di second month, and dem declare dem ancestry by dem families, by dem papa houses, according to di number of names, from 20 years old and above, head by head."
+        },
+        {
+          "verse": 19,
+          "text": "As di Lord command Moses, so e number dem for di wilderness of Sinai."
+        },
+        {
+          "verse": 20,
+          "text": "Di pikin dem of Reuben, Israel firstborn, by dem generations, by dem families, by dem papa houses, according to di number of names, head by head, every male from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 21,
+          "text": "dem wey dem number of di tribe of Reuben na 46,500."
+        },
+        {
+          "verse": 22,
+          "text": "Of di pikin dem of Simeon, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 23,
+          "text": "dem wey dem number of di tribe of Simeon na 59,300."
+        },
+        {
+          "verse": 24,
+          "text": "Of di pikin dem of Gad, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 25,
+          "text": "dem wey dem number of di tribe of Gad na 45,650."
+        },
+        {
+          "verse": 26,
+          "text": "Of di pikin dem of Judah, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 27,
+          "text": "dem wey dem number of di tribe of Judah na 74,600."
+        },
+        {
+          "verse": 28,
+          "text": "Of di pikin dem of Issachar, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 29,
+          "text": "dem wey dem number of di tribe of Issachar na 54,400."
+        },
+        {
+          "verse": 30,
+          "text": "Of di pikin dem of Zebulun, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 31,
+          "text": "dem wey dem number of di tribe of Zebulun na 57,400."
+        },
+        {
+          "verse": 32,
+          "text": "Of di pikin dem of Joseph, of di pikin dem of Ephraim, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 33,
+          "text": "dem wey dem number of di tribe of Ephraim na 40,500."
+        },
+        {
+          "verse": 34,
+          "text": "Of di pikin dem of Manasseh, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 35,
+          "text": "dem wey dem number of di tribe of Manasseh na 32,200."
+        },
+        {
+          "verse": 36,
+          "text": "Of di pikin dem of Benjamin, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 37,
+          "text": "dem wey dem number of di tribe of Benjamin na 35,400."
+        },
+        {
+          "verse": 38,
+          "text": "Of di pikin dem of Dan, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 39,
+          "text": "dem wey dem number of di tribe of Dan na 62,700."
+        },
+        {
+          "verse": 40,
+          "text": "Of di pikin dem of Asher, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 41,
+          "text": "dem wey dem number of di tribe of Asher na 41,500."
+        },
+        {
+          "verse": 42,
+          "text": "Of di pikin dem of Naphtali, by dem generations, by dem families, by dem papa houses, according to di number of names, from 20 years old and above, all wey fit go out to war,"
+        },
+        {
+          "verse": 43,
+          "text": "dem wey dem number of di tribe of Naphtali na 53,400."
+        },
+        {
+          "verse": 44,
+          "text": "Dem na dem wey dem number, wey Moses and Aaron number, and di princes of Israel, 12 men. Each one dey for im papa house."
+        },
+        {
+          "verse": 45,
+          "text": "So all dem wey dem number of di pikin dem of Israel, by dem papa houses, from 20 years old and above, all wey fit go out to war for Israel,"
+        },
+        {
+          "verse": 46,
+          "text": "even all dem wey dem number na 603,550."
+        },
+        {
+          "verse": 47,
+          "text": "But di Levites, after di tribe of dem papa dem, dem no number dem among dem."
+        },
+        {
+          "verse": 48,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 49,
+          "text": "“Only di tribe of Levi you no go number, neither go you take di census of dem among di pikin dem of Israel."
+        },
+        {
+          "verse": 50,
+          "text": "But you go appoint di Levites over di tabernacle of di testimony, and over all im furnishings, and over all wey belong to am. Dem go carry di tabernacle, and all im furnishings. Dem go minister for am, and dem go camp round di tabernacle."
+        },
+        {
+          "verse": 51,
+          "text": "When di tabernacle go forward, di Levites go take am down. When di tabernacle dey to pitch, di Levites go set am up. Di stranger wey come near go dey put to death."
+        },
+        {
+          "verse": 52,
+          "text": "Di pikin dem of Israel go pitch dem tents, every man by im own camp, and every man by im own standard, according to dem armies."
+        },
+        {
+          "verse": 53,
+          "text": "But di Levites go pitch round di tabernacle of di testimony, so that no wrath go dey on di congregation of di pikin dem of Israel. Di Levites go keep di charge of di tabernacle of di testimony.”"
+        },
+        {
+          "verse": 54,
+          "text": "Di pikin dem of Israel do according to all wey di Lord command Moses. Na so dem do."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Moses and to Aaron, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Di pikin dem of Israel go pitch by im own standard, with di banners of dem papa houses. Dem go pitch opposite di Tent of Meeting round about."
+        },
+        {
+          "verse": 3,
+          "text": "Dem wey pitch on di east side toward di sunrise na di standard of di camp of Judah, according to dem armies. Di prince of di pikin dem of Judah na Nahshon di pikin of Amminadab."
+        },
+        {
+          "verse": 4,
+          "text": "Im army, even dem wey dem number of dem, na 74,600."
+        },
+        {
+          "verse": 5,
+          "text": "Dem wey pitch next to am na di tribe of Issachar. Di prince of di pikin dem of Issachar na Nethanel di pikin of Zuar."
+        },
+        {
+          "verse": 6,
+          "text": "Im army, even dem wey dem number of dem, na 54,400."
+        },
+        {
+          "verse": 7,
+          "text": "Di tribe of Zebulun. Di prince of di pikin dem of Zebulun na Eliab di pikin of Helon."
+        },
+        {
+          "verse": 8,
+          "text": "Im army, even dem wey dem number of dem, na 57,400."
+        },
+        {
+          "verse": 9,
+          "text": "All wey dem number of di camp of Judah na 186,400, according to dem armies. Dem go set out first."
+        },
+        {
+          "verse": 10,
+          "text": "On di south side go be di standard of di camp of Reuben according to dem armies. Di prince of di pikin dem of Reuben na Elizur di pikin of Shedeur."
+        },
+        {
+          "verse": 11,
+          "text": "Im army, even dem wey dem number of dem, na 46,500."
+        },
+        {
+          "verse": 12,
+          "text": "Dem wey pitch next to am na di tribe of Simeon. Di prince of di pikin dem of Simeon na Shelumiel di pikin of Zurishaddai."
+        },
+        {
+          "verse": 13,
+          "text": "Im army, even dem wey dem number of dem, na 59,300."
+        },
+        {
+          "verse": 14,
+          "text": "Di tribe of Gad. Di prince of di pikin dem of Gad na Eliasaph di pikin of Reuel."
+        },
+        {
+          "verse": 15,
+          "text": "Im army, even dem wey dem number of dem, na 45,650."
+        },
+        {
+          "verse": 16,
+          "text": "All wey dem number of di camp of Reuben na 151,450, according to dem armies. Dem go set out second."
+        },
+        {
+          "verse": 17,
+          "text": "After dat di Tent of Meeting go set out, with di camp of di Levites for di middle of di camps. As dem camp, so dem go set out, everyone for im place, by dem standards."
+        },
+        {
+          "verse": 18,
+          "text": "On di west side go be di standard of di camp of Ephraim according to dem armies. Di prince of di pikin dem of Ephraim na Elishama di pikin of Ammihud."
+        },
+        {
+          "verse": 19,
+          "text": "Im army, even dem wey dem number of dem, na 40,500."
+        },
+        {
+          "verse": 20,
+          "text": "Next to am na di tribe of Manasseh. Di prince of di pikin dem of Manasseh na Gamaliel di pikin of Pedahzur."
+        },
+        {
+          "verse": 21,
+          "text": "Im army, even dem wey dem number of dem, na 32,200."
+        },
+        {
+          "verse": 22,
+          "text": "Di tribe of Benjamin. Di prince of di pikin dem of Benjamin na Abidan di pikin of Gideoni."
+        },
+        {
+          "verse": 23,
+          "text": "Im army, even dem wey dem number of dem, na 35,400."
+        },
+        {
+          "verse": 24,
+          "text": "All wey dem number of di camp of Ephraim na 108,100, according to dem armies. Dem go set out third."
+        },
+        {
+          "verse": 25,
+          "text": "On di north side go be di standard of di camp of Dan according to dem armies. Di prince of di pikin dem of Dan na Ahiezer di pikin of Ammishaddai."
+        },
+        {
+          "verse": 26,
+          "text": "Im army, even dem wey dem number of dem, na 62,700."
+        },
+        {
+          "verse": 27,
+          "text": "Dem wey pitch next to am na di tribe of Asher. Di prince of di pikin dem of Asher na Pagiel di pikin of Ochran."
+        },
+        {
+          "verse": 28,
+          "text": "Im army, even dem wey dem number of dem, na 41,500."
+        },
+        {
+          "verse": 29,
+          "text": "Di tribe of Naphtali. Di prince of di pikin dem of Naphtali na Ahira di pikin of Enan."
+        },
+        {
+          "verse": 30,
+          "text": "Im army, even dem wey dem number of dem, na 53,400."
+        },
+        {
+          "verse": 31,
+          "text": "All wey dem number of di camp of Dan na 157,600. Dem go set out last by dem standards.”"
+        },
+        {
+          "verse": 32,
+          "text": "Dem na dem wey dem number of di pikin dem of Israel by dem papa houses. All wey dem number of di camps according to dem armies na 603,550."
+        },
+        {
+          "verse": 33,
+          "text": "But di Levites no dey numbered among di pikin dem of Israel, as di Lord command Moses."
+        },
+        {
+          "verse": 34,
+          "text": "Di pikin dem of Israel do according to all wey di Lord command Moses. Dem pitch by dem standards, and na so dem set out, everyone by im families, according to im papa house."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now dis na di generations of Aaron and Moses for di day wey di Lord speak with Moses for Mount Sinai."
+        },
+        {
+          "verse": 2,
+          "text": "Dis na di names of di pikin man dem of Aaron: Nadab di firstborn, and Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "verse": 3,
+          "text": "Dem na di names of di pikin man dem of Aaron, di priests wey dem anoint, wey e set apart to minister for di priest office."
+        },
+        {
+          "verse": 4,
+          "text": "Nadab and Abihu die before di Lord, when dem offer strange fire before di Lord, for di wilderness of Sinai, and dem get no pikin. Eleazar and Ithamar minister for di priest office for di sight of Aaron dem papa."
+        },
+        {
+          "verse": 5,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 6,
+          "text": "“Bring di tribe of Levi near, and set dem before Aaron di priest, so that dem go minister to am."
+        },
+        {
+          "verse": 7,
+          "text": "Dem go keep im charge, and di charge of all di congregation before di Tent of Meeting, to do di service of di tabernacle."
+        },
+        {
+          "verse": 8,
+          "text": "Dem go keep all di furnishings of di Tent of Meeting, and di charge of di pikin dem of Israel, to do di service of di tabernacle."
+        },
+        {
+          "verse": 9,
+          "text": "You go give di Levites to Aaron and to im pikin man dem. Dem dey wholly given to am from among di pikin dem of Israel."
+        },
+        {
+          "verse": 10,
+          "text": "You go appoint Aaron and im pikin man dem, and dem go keep dem priest office. But di stranger wey come near go dey put to death.”"
+        },
+        {
+          "verse": 11,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 12,
+          "text": "“Look, I don take di Levites from among di pikin dem of Israel instead of all di firstborn wey open di womb among di pikin dem of Israel. Di Levites go be mine,"
+        },
+        {
+          "verse": 13,
+          "text": "because all di firstborn na mine. For di day wey I strike all di firstborn for di land of Egypt, I make all di firstborn for Israel holy to myself, both man and animal. Dem go be mine. I na di Lord.”"
+        },
+        {
+          "verse": 14,
+          "text": "Di Lord speak to Moses for di wilderness of Sinai, talk,"
+        },
+        {
+          "verse": 15,
+          "text": "“Number di pikin dem of Levi by dem papa houses, by dem families. Every male from one month old and above you go number dem.”"
+        },
+        {
+          "verse": 16,
+          "text": "Moses number dem according to di word of di Lord, as e command am."
+        },
+        {
+          "verse": 17,
+          "text": "Dem na di pikin man dem of Levi by dem names: Gershon, Kohath, and Merari."
+        },
+        {
+          "verse": 18,
+          "text": "Dem na di names of di pikin man dem of Gershon by dem families: Libni and Shimei."
+        },
+        {
+          "verse": 19,
+          "text": "Di pikin man dem of Kohath by dem families: Amram, Izhar, Hebron, and Uzziel."
+        },
+        {
+          "verse": 20,
+          "text": "Di pikin man dem of Merari by dem families: Mahli and Mushi. Dem na di families of di Levites according to dem papa houses."
+        },
+        {
+          "verse": 21,
+          "text": "Of Gershon na di family of di Libnites, and di family of di Shimeites. Dem na di families of di Gershonites."
+        },
+        {
+          "verse": 22,
+          "text": "Dem wey dem number of dem, according to di number of all di males, from one month old and above, even dem wey dem number of dem na 7,500."
+        },
+        {
+          "verse": 23,
+          "text": "Di families of di Gershonites go pitch behind di tabernacle toward di west."
+        },
+        {
+          "verse": 24,
+          "text": "Di prince of di papa house of di Gershonites na Eliasaph di pikin of Lael."
+        },
+        {
+          "verse": 25,
+          "text": "Di charge of di pikin dem of Gershon for di Tent of Meeting na di tabernacle, and di tent, im covering, and di screen for di door of di Tent of Meeting,"
+        },
+        {
+          "verse": 26,
+          "text": "and di hangings of di court, and di screen for di door of di court, wey dey round di tabernacle and di altar, and im cords for all im service."
+        },
+        {
+          "verse": 27,
+          "text": "Of Kohath na di family of di Amramites, and di family of di Izharites, and di family of di Hebronites, and di family of di Uzzielites. Dem na di families of di Kohathites."
+        },
+        {
+          "verse": 28,
+          "text": "According to di number of all di males, from one month old and above, na 8,600, keeping di charge of di sanctuary."
+        },
+        {
+          "verse": 29,
+          "text": "Di families of di pikin dem of Kohath go pitch for di side of di tabernacle toward di south."
+        },
+        {
+          "verse": 30,
+          "text": "Di prince of di papa house of di families of di Kohathites na Elizaphan di pikin of Uzziel."
+        },
+        {
+          "verse": 31,
+          "text": "Dem charge na di ark, and di table, and di lampstand, and di altars, and di vessels of di sanctuary wey dem dey minister with, and di screen, and all im service."
+        },
+        {
+          "verse": 32,
+          "text": "Eleazar di pikin of Aaron di priest go be chief of di chiefs of di Levites, wey get oversight of dem wey keep di charge of di sanctuary."
+        },
+        {
+          "verse": 33,
+          "text": "Of Merari na di family of di Mahlites, and di family of di Mushites. Dem na di families of Merari."
+        },
+        {
+          "verse": 34,
+          "text": "Dem wey dem number of dem, according to di number of all di males, from one month old and above, na 6,200."
+        },
+        {
+          "verse": 35,
+          "text": "Di prince of di papa house of di families of Merari na Zuriel di pikin of Abihail. Dem go pitch for di side of di tabernacle toward di north."
+        },
+        {
+          "verse": 36,
+          "text": "Under di charge and custody of di pikin dem of Merari go be di boards of di tabernacle, and im bars, and im pillars, and im sockets, and all im vessels, and all wey belong to dem service,"
+        },
+        {
+          "verse": 37,
+          "text": "and di pillars of di court round about, and dem sockets, and dem pegs, and dem cords."
+        },
+        {
+          "verse": 38,
+          "text": "Dem wey pitch before di tabernacle toward di east, before di Tent of Meeting toward di sunrise, na Moses, and Aaron and im pikin man dem, keeping di charge of di sanctuary, to meet di charge of di pikin dem of Israel. Di stranger wey come near go dey put to death."
+        },
+        {
+          "verse": 39,
+          "text": "All wey dem number of di Levites, wey Moses and Aaron number at di commandment of di Lord, by dem families, all di males from one month old and above, na 22,000."
+        },
+        {
+          "verse": 40,
+          "text": "Di Lord talk to Moses, “Number all di firstborn males of di pikin dem of Israel from one month old and above, and take di number of dem names."
+        },
+        {
+          "verse": 41,
+          "text": "You go take di Levites for me, I na di Lord, instead of all di firstborn among di pikin dem of Israel, and di livestock of di Levites instead of all di firstborn among di livestock of di pikin dem of Israel.”"
+        },
+        {
+          "verse": 42,
+          "text": "Moses number, as di Lord command am, all di firstborn among di pikin dem of Israel."
+        },
+        {
+          "verse": 43,
+          "text": "All di firstborn males according to di number of names, from one month old and above, of dem wey dem number of dem, na 22,273."
+        },
+        {
+          "verse": 44,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 45,
+          "text": "“Take di Levites instead of all di firstborn among di pikin dem of Israel, and di livestock of di Levites instead of dem livestock. Di Levites go be mine. I na di Lord."
+        },
+        {
+          "verse": 46,
+          "text": "For di redemption of di 273 of di firstborn of di pikin dem of Israel, wey pass di number of di Levites,"
+        },
+        {
+          "verse": 47,
+          "text": "you go take five shekels apiece by di head. You go take am after di shekel of di sanctuary, wey one shekel na 20 gerahs."
+        },
+        {
+          "verse": 48,
+          "text": "You go give di money to Aaron and to im pikin man dem, di redemption of dem wey pass.”"
+        },
+        {
+          "verse": 49,
+          "text": "Moses take di redemption money from dem wey pass di number of dem wey di Levites redeem."
+        },
+        {
+          "verse": 50,
+          "text": "From di firstborn of di pikin dem of Israel e take di money, 1,365 shekels, after di shekel of di sanctuary."
+        },
+        {
+          "verse": 51,
+          "text": "Moses give di redemption money to Aaron and to im pikin man dem, according to di word of di Lord, as di Lord command Moses."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Moses and to Aaron, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Take di census of di pikin dem of Kohath from among di pikin dem of Levi, by dem families, by dem papa houses,"
+        },
+        {
+          "verse": 3,
+          "text": "from 30 years old and above even until 50 years old, all wey enter into di service, to do di work for di Tent of Meeting."
+        },
+        {
+          "verse": 4,
+          "text": "Dis na di service of di pikin dem of Kohath for di Tent of Meeting, about di most holy things."
+        },
+        {
+          "verse": 5,
+          "text": "When di camp set out, Aaron and im pikin man dem go come, and dem go take down di veil of di screen, and cover di ark of di testimony with am,"
+        },
+        {
+          "verse": 6,
+          "text": "and dem go put on am one covering of sea cow hide, and dem go spread over am one cloth all of blue, and dem go put in im poles."
+        },
+        {
+          "verse": 7,
+          "text": "On di table of di bread of presence dem go spread one blue cloth, and put on am di dishes, and di spoons, and di bowls, and di flagons wey dem dey use pour out. Di continual bread go dey on am."
+        },
+        {
+          "verse": 8,
+          "text": "Dem go spread on dem one scarlet cloth, and cover di same with one covering of sea cow hide, and dem go put in im poles."
+        },
+        {
+          "verse": 9,
+          "text": "Dem go take one blue cloth, and cover di lampstand of di light, with im lamps, and im snuffers, and im trays, and all im oil vessels, wey dem dey use minister to am."
+        },
+        {
+          "verse": 10,
+          "text": "Dem go put am and all im vessels within one covering of sea cow hide, and go put am on one frame."
+        },
+        {
+          "verse": 11,
+          "text": "On di golden altar dem go spread one blue cloth, and cover am with one covering of sea cow hide, and dem go put in im poles."
+        },
+        {
+          "verse": 12,
+          "text": "Dem go take all di vessels of ministry, wey dem dey use minister for di sanctuary, and put dem for one blue cloth, and cover dem with one covering of sea cow hide, and put dem on one frame."
+        },
+        {
+          "verse": 13,
+          "text": "Dem go take away di ashes from di altar, and spread one purple cloth on am."
+        },
+        {
+          "verse": 14,
+          "text": "Dem go put on am all im vessels, wey dem dey use minister about am, di fire pans, di forks, and di shovels, and di basins, all di vessels of di altar. Dem go spread on am one covering of sea cow hide, and put in im poles."
+        },
+        {
+          "verse": 15,
+          "text": "When Aaron and im pikin man dem don finish covering di sanctuary and all di furnishings of di sanctuary, as di camp dey set out, after dat di pikin dem of Kohath go come to carry am, but dem no go touch di holy things, so that dem no go die. Dem na di things of di Tent of Meeting wey di pikin dem of Kohath go carry."
+        },
+        {
+          "verse": 16,
+          "text": "Eleazar di pikin of Aaron di priest go get di oversight of di oil for di light, and di sweet incense, and di continual meal offering, and di anointing oil, di oversight of all di tabernacle, and of all wey dey inside am, with di sanctuary and im furnishings.”"
+        },
+        {
+          "verse": 17,
+          "text": "Di Lord speak to Moses and to Aaron, talk,"
+        },
+        {
+          "verse": 18,
+          "text": "“No cut off di tribe of di families of di Kohathites from among di Levites,"
+        },
+        {
+          "verse": 19,
+          "text": "but do dis to dem, so that dem go live, and no die when dem approach di most holy things: Aaron and im pikin man dem go go in, and appoint dem every one to im service and to im burden."
+        },
+        {
+          "verse": 20,
+          "text": "But dem no go go in to see di holy things even for one moment, otherwise dem go die.”"
+        },
+        {
+          "verse": 21,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 22,
+          "text": "“Take di census of di pikin dem of Gershon also, by dem papa houses, by dem families."
+        },
+        {
+          "verse": 23,
+          "text": "You go number dem from 30 years old and above even until 50 years old. All wey enter in to perform di service, to do di work for di Tent of Meeting."
+        },
+        {
+          "verse": 24,
+          "text": "Dis na di service of di families of di Gershonites, in serving and in bearing burdens:"
+        },
+        {
+          "verse": 25,
+          "text": "dem go carry di curtains of di tabernacle, and di Tent of Meeting, im covering, and di covering of sea cow hide wey dey above on top of am, and di screen for di door of di Tent of Meeting,"
+        },
+        {
+          "verse": 26,
+          "text": "and di hangings of di court, and di screen for di door of di gate of di court, wey dey round di tabernacle and di altar, and dem cords, and all di instruments of dem service, and all wey dem go make for dem. Dem go do service."
+        },
+        {
+          "verse": 27,
+          "text": "All di service of di pikin dem of di Gershonites, in all dem burdens, and in all dem service, go dey at di commandment of Aaron and im pikin man dem. You go appoint to dem in charge all dem burdens."
+        },
+        {
+          "verse": 28,
+          "text": "Dis na di service of di families of di pikin dem of Gershon for di Tent of Meeting. Dem charge go dey under di hand of Ithamar di pikin of Aaron di priest."
+        },
+        {
+          "verse": 29,
+          "text": "As for di pikin dem of Merari, you go number dem by dem families, by dem papa houses."
+        },
+        {
+          "verse": 30,
+          "text": "You go number dem from 30 years old and above even until 50 years old, everyone wey enter di service, to do di work of di Tent of Meeting."
+        },
+        {
+          "verse": 31,
+          "text": "Dis na di charge of dem burden, according to all dem service for di Tent of Meeting: di boards of di tabernacle, and im bars, and im pillars, and im sockets,"
+        },
+        {
+          "verse": 32,
+          "text": "and di pillars of di court round about, and dem sockets, and dem pegs, and dem cords, with all dem instruments, and with all dem service. By name una go assign di instruments of di charge of dem burden."
+        },
+        {
+          "verse": 33,
+          "text": "Dis na di service of di families of di pikin dem of Merari, according to all dem service for di Tent of Meeting, under di hand of Ithamar di pikin of Aaron di priest.”"
+        },
+        {
+          "verse": 34,
+          "text": "Moses and Aaron and di princes of di congregation number di pikin dem of di Kohathites by dem families, and by dem papa houses,"
+        },
+        {
+          "verse": 35,
+          "text": "from 30 years old and above even until 50 years old, everyone wey enter di service for di work for di Tent of Meeting."
+        },
+        {
+          "verse": 36,
+          "text": "Dem wey dem number of dem by dem families na 2,750."
+        },
+        {
+          "verse": 37,
+          "text": "Dem na di ones wey dem number of di families of di Kohathites, all wey serve for di Tent of Meeting, wey Moses and Aaron number according to di commandment of di Lord by Moses."
+        },
+        {
+          "verse": 38,
+          "text": "Dem wey dem number of di pikin dem of Gershon, by dem families, and by dem papa houses,"
+        },
+        {
+          "verse": 39,
+          "text": "from 30 years old and above even until 50 years old, everyone wey enter di service for di work for di Tent of Meeting,"
+        },
+        {
+          "verse": 40,
+          "text": "even dem wey dem number of dem, by dem families, by dem papa houses, na 2,630."
+        },
+        {
+          "verse": 41,
+          "text": "Dem na di ones wey dem number of di families of di pikin dem of Gershon, all wey serve for di Tent of Meeting, wey Moses and Aaron number according to di commandment of di Lord."
+        },
+        {
+          "verse": 42,
+          "text": "Dem wey dem number of di families of di pikin dem of Merari, by dem families, by dem papa houses,"
+        },
+        {
+          "verse": 43,
+          "text": "from 30 years old and above even until 50 years old, everyone wey enter di service for di work for di Tent of Meeting,"
+        },
+        {
+          "verse": 44,
+          "text": "even dem wey dem number of dem by dem families na 3,200."
+        },
+        {
+          "verse": 45,
+          "text": "Dem na di ones wey dem number of di families of di pikin dem of Merari, wey Moses and Aaron number according to di commandment of di Lord by Moses."
+        },
+        {
+          "verse": 46,
+          "text": "All dem wey dem number of di Levites, wey Moses and Aaron and di princes of Israel number, by dem families, and by dem papa houses,"
+        },
+        {
+          "verse": 47,
+          "text": "from 30 years old and above even until 50 years old, everyone wey enter in to do di work of service, and di work of bearing burdens for di Tent of Meeting,"
+        },
+        {
+          "verse": 48,
+          "text": "even dem wey dem number of dem, na 8,580."
+        },
+        {
+          "verse": 49,
+          "text": "According to di commandment of di Lord dem number dem by di hand of Moses, everyone according to im service, and according to im burden. Dem number dem as di Lord command Moses."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Command di pikin dem of Israel say dem go put out of di camp every leper, and everyone wey get one discharge, and whoever dey unclean by di dead."
+        },
+        {
+          "verse": 3,
+          "text": "Both male and female una go put out. Una go put dem outside di camp, so that dem no go defile dem camp, wey I dey dwell inside.”"
+        },
+        {
+          "verse": 4,
+          "text": "Di pikin dem of Israel do so, and put dem outside di camp. As di Lord speak to Moses, so di pikin dem of Israel do."
+        },
+        {
+          "verse": 5,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 6,
+          "text": "“Speak to di pikin dem of Israel, ‘When man or woman commit any sin wey men dey commit, to do wrong against di Lord, and dat soul dey guilty,"
+        },
+        {
+          "verse": 7,
+          "text": "dem go confess dem sin wey dem don do. E go make restitution for im guilt in full, and add to am di fifth part of am, and give am to am against whom e don do wrong."
+        },
+        {
+          "verse": 8,
+          "text": "But if di man get no relative to whom restitution fit dey made for di wrong, di restitution for di wrong wey dem make to di Lord go be di priest own, besides di ram of di atonement, wey dem go use make atonement for am."
+        },
+        {
+          "verse": 9,
+          "text": "Every heave offering of all di holy things of di pikin dem of Israel, wey dem bring to di priest, go be im own."
+        },
+        {
+          "verse": 10,
+          "text": "Every man holy things go be im own. Whatever any man give to di priest go be im own.’”"
+        },
+        {
+          "verse": 11,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 12,
+          "text": "“Speak to di pikin dem of Israel, and tell dem, ‘If any man wife go astray, and commit unfaithfulness against am,"
+        },
+        {
+          "verse": 13,
+          "text": "and one man lie with di woman carnally, and e dey hidden from di eyes of di husband, and e dey kept secret, and di woman dey defiled, and no witness dey against am, neither di woman dey caught in di act,"
+        },
+        {
+          "verse": 14,
+          "text": "and di spirit of jealousy come on di husband, and e dey jealous of im wife, and di woman dey defiled. Or if di spirit of jealousy come on am, and e dey jealous of im wife, and di woman no dey defiled,"
+        },
+        {
+          "verse": 15,
+          "text": "di man go bring im wife to di priest, and go bring di offering for am, di tenth part of one ephah of barley meal. E no go pour oil on am, nor put frankincense on am, because e na one meal offering of jealousy, one meal offering of memorial, bringing iniquity to remembrance."
+        },
+        {
+          "verse": 16,
+          "text": "Di priest go bring di woman near, and set am before di Lord."
+        },
+        {
+          "verse": 17,
+          "text": "Di priest go take holy water in one earthen vessel. Di priest go take some of di dust wey dey di floor of di tabernacle, and put am into di water."
+        },
+        {
+          "verse": 18,
+          "text": "Di priest go set di woman before di Lord, and let di hair of im head loose, and put di meal offering of memorial for im hands, wey na di meal offering of jealousy. Di priest go get for im hand di water of bitterness wey bring curse."
+        },
+        {
+          "verse": 19,
+          "text": "Di priest go make di woman swear, and go talk to di woman say if no man don lie with am, and if e no don go astray to uncleanness, being under im husband, make e dey free from dis water of bitterness wey bring curse."
+        },
+        {
+          "verse": 20,
+          "text": "But if e don go astray, being under im husband, and if e dey defiled, and some man don lie with am besides im husband,"
+        },
+        {
+          "verse": 21,
+          "text": "di priest go make di woman swear with di oath of cursing, and di priest go talk to di woman say make di Lord make am one curse and one oath among im people, when di Lord make im thigh fall away, and im body swell."
+        },
+        {
+          "verse": 22,
+          "text": "Dis water wey bring curse go go into im inner parts, and make im body swell, and make im thigh fall away. Di woman go talk say Amen, Amen."
+        },
+        {
+          "verse": 23,
+          "text": "Di priest go write dis curses for one scroll, and e go wash dem off into di water of bitterness."
+        },
+        {
+          "verse": 24,
+          "text": "E go make di woman drink di water of bitterness wey bring curse, and di water wey bring curse go enter am and become bitter."
+        },
+        {
+          "verse": 25,
+          "text": "Di priest go take di meal offering of jealousy out of di woman hand, and wave di meal offering before di Lord, and bring am to di altar."
+        },
+        {
+          "verse": 26,
+          "text": "Di priest go take one handful of di meal offering, as im memorial portion, and burn am on di altar, and after dat e go make di woman drink di water."
+        },
+        {
+          "verse": 27,
+          "text": "When e don make am drink di water, e go come be say, if e dey defiled, and don commit unfaithfulness against im husband, di water wey bring curse go enter am and become bitter, and im body go swell, and im thigh go fall away. Di woman go be one curse among im people."
+        },
+        {
+          "verse": 28,
+          "text": "If di woman no dey defiled, but dey clean, e go dey free, and go conceive seed."
+        },
+        {
+          "verse": 29,
+          "text": "Dis na di law of jealousy, when one wife go astray, being under im husband, and dey defiled,"
+        },
+        {
+          "verse": 30,
+          "text": "or when di spirit of jealousy come on one man, and e dey jealous of im wife. E go set di woman before di Lord, and di priest go execute on am all dis law."
+        },
+        {
+          "verse": 31,
+          "text": "Di man go dey free from iniquity, and dat woman go bear im iniquity.’”"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 2,
+          "text": "“Speak to di pikin dem of Israel, and tell dem, ‘When man or woman make one special vow, di vow of one Nazirite, to separate imself to di Lord,"
+        },
+        {
+          "verse": 3,
+          "text": "e go separate imself from wine and strong drink. E no go drink vinegar made from wine or vinegar made from strong drink, neither go e drink any juice of grapes, nor eat fresh grapes or dried."
+        },
+        {
+          "verse": 4,
+          "text": "All di days of im separation e no go eat anything wey dem make from di grapevine, from seeds even to skins."
+        },
+        {
+          "verse": 5,
+          "text": "All di days of di vow of im separation no razor go pass over im head. Until di days dey fulfilled, for di which e separate imself to di Lord, e go dey holy. E go let di locks of di hair of im head grow long."
+        },
+        {
+          "verse": 6,
+          "text": "All di days wey e separate imself to di Lord e no go go near one dead body."
+        },
+        {
+          "verse": 7,
+          "text": "E no go make imself unclean for im papa, or for im mama, for im brother, or for im sister, when dem die, because di separation to im God dey upon im head."
+        },
+        {
+          "verse": 8,
+          "text": "All di days of im separation e dey holy to di Lord."
+        },
+        {
+          "verse": 9,
+          "text": "If any man die very suddenly beside am, and e defile di head of im separation, e go shave im head for di day of im cleansing. For di seventh day e go shave am."
+        },
+        {
+          "verse": 10,
+          "text": "For di eighth day e go bring two turtledoves, or two young pigeons, to di priest, to di door of di Tent of Meeting."
+        },
+        {
+          "verse": 11,
+          "text": "Di priest go offer one for sin offering, and di other for burnt offering, and make atonement for am, because e sin by reason of di dead. E go make im head holy dat same day."
+        },
+        {
+          "verse": 12,
+          "text": "E go separate to di Lord di days of im separation, and go bring one male lamb of di first year for one trespass offering. But di former days go dey lost, because im separation dey defiled."
+        },
+        {
+          "verse": 13,
+          "text": "Dis na di law of di Nazirite, when di days of im separation dey fulfilled: e go dey brought to di door of di Tent of Meeting,"
+        },
+        {
+          "verse": 14,
+          "text": "and e go offer im offering to di Lord, one male lamb of di first year without blemish for burnt offering, and one ewe lamb of di first year without blemish for sin offering, and one ram without blemish for peace offerings,"
+        },
+        {
+          "verse": 15,
+          "text": "and one basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil, with dem meal offering, and dem drink offerings."
+        },
+        {
+          "verse": 16,
+          "text": "Di priest go present dem before di Lord, and go offer im sin offering, and im burnt offering."
+        },
+        {
+          "verse": 17,
+          "text": "E go offer di ram for one sacrifice of peace offerings to di Lord, with di basket of unleavened bread. Di priest go offer also im meal offering, and im drink offering."
+        },
+        {
+          "verse": 18,
+          "text": "Di Nazirite go shave di head of im separation for di door of di Tent of Meeting, and go take di hair of di head of im separation, and put am on di fire wey dey under di sacrifice of peace offerings."
+        },
+        {
+          "verse": 19,
+          "text": "Di priest go take di boiled shoulder of di ram, and one unleavened cake out of di basket, and one unleavened wafer, and put dem upon di hands of di Nazirite, after e don shave im separation."
+        },
+        {
+          "verse": 20,
+          "text": "Di priest go wave dem for wave offering before di Lord. Dem na holy for di priest, with di wave breast and heave thigh. After dat di Nazirite fit drink wine."
+        },
+        {
+          "verse": 21,
+          "text": "Dis na di law of di Nazirite wey vow, and of im offering to di Lord for im separation, besides dat wey im hand fit get. According to im vow wey e vow, so e must do after di law of im separation.’”"
+        },
+        {
+          "verse": 22,
+          "text": "Di Lord speak to Moses, talk,"
+        },
+        {
+          "verse": 23,
+          "text": "“Speak to Aaron and to im pikin man dem, talk, ‘So una go bless di pikin dem of Israel. Una go talk to dem:"
+        },
+        {
+          "verse": 24,
+          "text": "Di Lord bless you, and keep you."
+        },
+        {
+          "verse": 25,
+          "text": "Di Lord make im face shine on you, and be gracious to you."
+        },
+        {
+          "verse": 26,
+          "text": "Di Lord lift up im face toward you, and give you peace.’"
+        },
+        {
+          "verse": 27,
+          "text": "So dem go put my name on di pikin dem of Israel, and I go bless dem.”"
+        }
+      ]
+    }
+  ]
+}

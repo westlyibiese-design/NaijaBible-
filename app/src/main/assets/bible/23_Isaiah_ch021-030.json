@@ -1,0 +1,918 @@
+{
+  "book": "Isaiah",
+  "bookNumber": 23,
+  "testament": "OT",
+  "language": "Naija Pidgin",
+  "chapters": [
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di burden of di wilderness of di sea. As whirlwinds for di South dey sweep through, e come from di wilderness, from terrible land."
+        },
+        {
+          "verse": 2,
+          "text": "Dem don show me hard vision. Di treacherous man dey deal treacherously, and di destroyer dey destroy. Go up, Elam! Besiege, Media! I don make all di sighing cease."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore my loins dey filled with pain. Pangs don seize me, like di pangs of woman wey dey labour. I dey bowed down so that I no fit hear. I dey dismayed so that I no fit see."
+        },
+        {
+          "verse": 4,
+          "text": "My heart dey faint. Horror don frighten me. Di twilight wey I dey desire don turn to trembling for me."
+        },
+        {
+          "verse": 5,
+          "text": "Dem prepare di table, dem spread di cloth, dem eat, dem drink. Rise up, una princes, anoint di shield!"
+        },
+        {
+          "verse": 6,
+          "text": "Because di Lord talk to me like dis: “Go, set watchman. Make am declare wetin e see."
+        },
+        {
+          "verse": 7,
+          "text": "When e see chariots, pairs of horsemen, chariots of donkeys, chariots of camels, make e listen diligently with great care.”"
+        },
+        {
+          "verse": 8,
+          "text": "E cry like lion: “Lord, I dey stand continually for di watchtower for daytime, and I dey stay for my post every night."
+        },
+        {
+          "verse": 9,
+          "text": "See, here dey come chariot of men, pairs of horsemen.” E answer, “Babylon don fall, don fall! All di engraved images of her gods don break to di ground!”"
+        },
+        {
+          "verse": 10,
+          "text": "Oh my threshing, and di grain of my floor! Wetin I don hear from di Lord of Armies, di God of Israel, I don declare to una."
+        },
+        {
+          "verse": 11,
+          "text": "Di burden of Dumah. One dey call to me out of Seir, “Watchman, wetin of di night? Watchman, wetin of di night?”"
+        },
+        {
+          "verse": 12,
+          "text": "Di watchman talk, “Morning dey come, and also night. If una go ask, ask. Return, come.”"
+        },
+        {
+          "verse": 13,
+          "text": "Di burden for Arabia. Una go lodge for di forest of Arabia, una caravans of Dedanites."
+        },
+        {
+          "verse": 14,
+          "text": "Bring water to meet dem wey dey thirsty. Una wey dey live for di land of Tema, meet di fugitives with dem bread."
+        },
+        {
+          "verse": 15,
+          "text": "Because dem flee from di swords, from di drawn sword, from di bent bow, and from di heat of battle."
+        },
+        {
+          "verse": 16,
+          "text": "Because di Lord talk to me like dis: “Within one year, as di years of hired worker, all di glory of Kedar go fail;"
+        },
+        {
+          "verse": 17,
+          "text": "and di remnant of di number of di archers, di mighty men of di people of Kedar, go dey few, because di Lord, di God of Israel, don speak am.”"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di burden of di valley of vision. Wetin dey wrong with you now, say you don all go up to di housetops?"
+        },
+        {
+          "verse": 2,
+          "text": "You wey full of shouting, tumultuous city, joyous town. Dem wey dey killed among you no dey killed with di sword, neither dem dey dead in battle."
+        },
+        {
+          "verse": 3,
+          "text": "All your rulers don flee together. Dem dey bound by di archers. All wey dem find, dem don bind together. Dem don flee far away."
+        },
+        {
+          "verse": 4,
+          "text": "Therefore I talk, “Look away from me. I go weep bitterly. No labour to comfort me, because of di destruction of di daughter of my people.”"
+        },
+        {
+          "verse": 5,
+          "text": "Because na day of confusion, and of treading down, and of perplexity, from di Lord, di Lord of Armies, for di valley of vision, breaking down of di walls, and crying to di mountains."
+        },
+        {
+          "verse": 6,
+          "text": "Elam bear di quiver, with chariots of men and horsemen, and Kir uncover di shield."
+        },
+        {
+          "verse": 7,
+          "text": "Your choicest valleys full of chariots, and di horsemen set demselves in array for di gate."
+        },
+        {
+          "verse": 8,
+          "text": "E take away di covering of Judah. For dat day you look to di armour for di house of di forest."
+        },
+        {
+          "verse": 9,
+          "text": "You see di breaches of di city of David, say dem plenty. You gather together di waters of di lower pool."
+        },
+        {
+          "verse": 10,
+          "text": "You count di houses of Jerusalem, and you break down di houses to fortify di wall."
+        },
+        {
+          "verse": 11,
+          "text": "You make reservoir between di two walls for di water of di old pool. But you no look to am wey do dis, neither you consider am wey plan am long ago."
+        },
+        {
+          "verse": 12,
+          "text": "For dat day di Lord, di Lord of Armies, call to weeping, to mourning, to baldness, and to wearing sackcloth."
+        },
+        {
+          "verse": 13,
+          "text": "See, joy and gladness, killing oxen and slaughtering sheep, eating flesh and drinking wine: “Make we eat and drink, because tomorrow we go die.”"
+        },
+        {
+          "verse": 14,
+          "text": "Di Lord of Armies reveal imself for my ears: “Surely dis iniquity no go dey forgiven you until you die,” talk di Lord, di Lord of Armies."
+        },
+        {
+          "verse": 15,
+          "text": "Di Lord, di Lord of Armies, talk say, “Go, get to dis treasurer, even to Shebna, wey dey over di house, say,"
+        },
+        {
+          "verse": 16,
+          "text": "‘Wetin you dey do here? Who you get here, say you don cut out for yourself tomb here, as man wey cut out im tomb on high, and wey carve resting place for imself for di rock?"
+        },
+        {
+          "verse": 17,
+          "text": "See, di Lord go throw you down violently, you strong man. E go grasp you tightly."
+        },
+        {
+          "verse": 18,
+          "text": "E go surely wind you up tightly like ball and toss you into wide country. Dere you go die, and dere your glorious chariots go be, you disgrace to your lord house."
+        },
+        {
+          "verse": 19,
+          "text": "I go drive you from your post. From your station e go pull you down."
+        },
+        {
+          "verse": 20,
+          "text": "For dat day, I go call my servant Eliakim, Hilkiah pikin."
+        },
+        {
+          "verse": 21,
+          "text": "I go clothe am with your robe, and strengthen am with your belt. I go commit your government into im hand. E go be papa to di inhabitants of Jerusalem, and to di house of Judah."
+        },
+        {
+          "verse": 22,
+          "text": "I go lay di key of di house of David on im shoulder. E go open, and nobody go shut. E go shut, and nobody go open."
+        },
+        {
+          "verse": 23,
+          "text": "I go fasten am as peg for sure place, and e go be for glorious throne to im papa house."
+        },
+        {
+          "verse": 24,
+          "text": "Dem go hang on am all di glory of im papa house, di offspring and di issue, all vessels of small quantity, from di cups to all di flagons."
+        },
+        {
+          "verse": 25,
+          "text": "For dat day,’ talk di Lord of Armies, ‘di peg wey dem fasten for sure place go give way, and dem go cut am down, and e go fall, and di load wey dey on am go dey cut off, because di Lord don speak am.’”"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di burden of Tyre. Howl, una ships of Tarshish, because e don dey laid waste, so that no house dey, no entering. From di land of Kittim e dey revealed to dem."
+        },
+        {
+          "verse": 2,
+          "text": "Be still, una inhabitants of di coast, wey di merchants of Sidon, wey dey cross di sea, don replenish."
+        },
+        {
+          "verse": 3,
+          "text": "On great waters di seed of Shihor, di harvest of di Nile, na im be her revenue. She don become market of nations."
+        },
+        {
+          "verse": 4,
+          "text": "Dey ashamed, Sidon, because di sea don speak, di stronghold of di sea, say, “I no travail, neither bring forth, neither I nourish young men, nor bring up virgins.”"
+        },
+        {
+          "verse": 5,
+          "text": "When di report come to Egypt, dem go dey in anguish at di report of Tyre."
+        },
+        {
+          "verse": 6,
+          "text": "Cross over to Tarshish. Howl, una inhabitants of di coast."
+        },
+        {
+          "verse": 7,
+          "text": "Na dis be una joyous city, wey im antiquity dey from ancient days, wey im own feet carry am far away to sojourn?"
+        },
+        {
+          "verse": 8,
+          "text": "Who don plan dis against Tyre, di giver of crowns, wey im merchants na princes, wey im traders na di honourable of di earth?"
+        },
+        {
+          "verse": 9,
+          "text": "Di Lord of Armies don plan am, to stain di pride of all glory, to bring into contempt all di honourable of di earth."
+        },
+        {
+          "verse": 10,
+          "text": "Pass through your land like di Nile, daughter of Tarshish. Dere no restraint again."
+        },
+        {
+          "verse": 11,
+          "text": "E don stretch out im hand over di sea. E don shake di kingdoms. Di Lord don give commandment concerning Canaan, to destroy im strongholds."
+        },
+        {
+          "verse": 12,
+          "text": "E talk, “You go no more rejoice, you wey dem oppress, virgin daughter of Sidon. Arise, pass over to Kittim. Even dere you go get no rest.”"
+        },
+        {
+          "verse": 13,
+          "text": "Look di land of di Chaldeans. Dis people no dey again. Assyria don found am for dem wey dwell for di wilderness. Dem set up dem towers. Dem overthrow im palaces. E make am ruin."
+        },
+        {
+          "verse": 14,
+          "text": "Howl, una ships of Tarshish, because una stronghold dey laid waste."
+        },
+        {
+          "verse": 15,
+          "text": "E go happen for dat day say Tyre go dey forgotten 70 years, according to di days of one king. After di end of 70 years, e go be to Tyre like di song of di prostitute."
+        },
+        {
+          "verse": 16,
+          "text": "Take harp, waka go about di city, you prostitute wey dem don forget. Make sweet melody. Sing many songs, so that dem go remember you."
+        },
+        {
+          "verse": 17,
+          "text": "E go happen at di end of 70 years say di Lord go visit Tyre, and she go return to her hire, and go play di prostitute with all di kingdoms of di world wey dey for di surface of di earth."
+        },
+        {
+          "verse": 18,
+          "text": "Her merchandise and her hire go be holy to di Lord. E no go dey treasured nor laid up, because her merchandise go be for dem wey dwell before di Lord, to eat enough and for durable clothing."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "See, di Lord dey make di earth empty, make am waste, turn am upside down, and scatter di inhabitants."
+        },
+        {
+          "verse": 2,
+          "text": "E go be as with di people, so with di priest; as with di servant, so with im master; as with di maid, so with her mistress; as with di buyer, so with di seller; as with di lender, so with di borrower; as with di creditor, so with di debtor."
+        },
+        {
+          "verse": 3,
+          "text": "Di earth go dey utterly emptied and utterly plundered, because di Lord don speak dis word."
+        },
+        {
+          "verse": 4,
+          "text": "Di earth mourn and fade away. Di world languish and fade away. Di lofty people of di earth languish."
+        },
+        {
+          "verse": 5,
+          "text": "Di earth also dey defiled under di inhabitants of am, because dem don transgress di laws, change di statutes, break di everlasting covenant."
+        },
+        {
+          "verse": 6,
+          "text": "Therefore curse don devour di earth, and dem wey dwell inside am dey guilty. Therefore di inhabitants of di earth dey burned, and few men dey left."
+        },
+        {
+          "verse": 7,
+          "text": "Di new wine mourn. Di vine languish. All di merry-hearted sigh."
+        },
+        {
+          "verse": 8,
+          "text": "Di mirth of tambourines cease. Di noise of dem wey rejoice end. Di joy of di harp cease."
+        },
+        {
+          "verse": 9,
+          "text": "Dem no go drink wine with song. Strong drink go be bitter to dem wey drink am."
+        },
+        {
+          "verse": 10,
+          "text": "Di city of confusion dey broken down. Every house dey shut up, so that no man fit enter."
+        },
+        {
+          "verse": 11,
+          "text": "Cry for wine dey for di streets. All joy don turn to darkness. Di mirth of di land don gone."
+        },
+        {
+          "verse": 12,
+          "text": "For di city desolation remain, and di gate dey struck with destruction."
+        },
+        {
+          "verse": 13,
+          "text": "Because e go be so for di middle of di earth among di peoples, like di shaking of di olive tree, like di gleanings when di grape harvest don end."
+        },
+        {
+          "verse": 14,
+          "text": "Dem go lift up dem voice. Dem go shout. For di majesty of di Lord dem cry aloud from di sea."
+        },
+        {
+          "verse": 15,
+          "text": "Therefore glorify di Lord for di east, even di name of di Lord, di God of Israel, for di islands of di sea."
+        },
+        {
+          "verse": 16,
+          "text": "From di uttermost part of di earth we don hear songs: “Glory to di Righteous One!” But I talk, “I dey waste away! I dey waste away! Woe to me! Di treacherous don deal treacherously. Yes, di treacherous don deal very treacherously.”"
+        },
+        {
+          "verse": 17,
+          "text": "Fear, and di pit, and di snare dey upon you, inhabitant of di earth."
+        },
+        {
+          "verse": 18,
+          "text": "E go happen say e wey flee from di noise of di fear go fall into di pit, and e wey come up out of di middle of di pit go dey caught for di snare, because di windows from on high dey open, and di foundations of di earth dey shake."
+        },
+        {
+          "verse": 19,
+          "text": "Di earth dey utterly broken. Di earth dey split apart. Di earth dey shaken violently."
+        },
+        {
+          "verse": 20,
+          "text": "Di earth go stagger like drunken man, and go sway like hut. Im transgression go dey heavy upon am, and e go fall, and no go rise again."
+        },
+        {
+          "verse": 21,
+          "text": "E go happen for dat day say di Lord go punish di army of di high ones for high, and di kings of di earth for di earth."
+        },
+        {
+          "verse": 22,
+          "text": "Dem go dey gathered together, as prisoners dey gathered for di pit, and go dey shut up for di prison. After many days dem go dey visited."
+        },
+        {
+          "verse": 23,
+          "text": "Den di moon go dey confounded, and di sun ashamed, because di Lord of Armies go reign for Mount Zion and for Jerusalem, and before im elders go be glory."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Lord, you na my God. I go exalt you. I go praise your name, because you don do wonderful things, things wey you plan long ago, in faithfulness and truth."
+        },
+        {
+          "verse": 2,
+          "text": "Because you don make city into heap, fortified city into ruin, palace of strangers to be no city. E no go ever dey built again."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore strong people go glorify you. City of awesome nations go fear you."
+        },
+        {
+          "verse": 4,
+          "text": "Because you don be stronghold to di poor, stronghold to di needy for im distress, refuge from di storm, shade from di heat, when di blast of di dreaded ones be like storm against di wall."
+        },
+        {
+          "verse": 5,
+          "text": "As heat for dry place, you go bring down di noise of strangers. As heat wey di shade of cloud cool down, so di song of di dreaded ones go dey brought low."
+        },
+        {
+          "verse": 6,
+          "text": "For dis mountain di Lord of Armies go make for all peoples feast of choice food, feast of choice wines, of choice food full of marrow, of well-refined choice wines."
+        },
+        {
+          "verse": 7,
+          "text": "For dis mountain e go destroy di surface of di covering wey cover all peoples, and di veil wey dey spread over all nations."
+        },
+        {
+          "verse": 8,
+          "text": "E don swallow up death forever. Di Lord God go wipe away tears from all faces. E go take away di reproach of im people from all di earth, because di Lord don speak am."
+        },
+        {
+          "verse": 9,
+          "text": "For dat day dem go talk, “See, dis na our God. We don wait for am, and e go save us. Dis na di Lord. We don wait for am. We go dey glad and rejoice for im salvation.”"
+        },
+        {
+          "verse": 10,
+          "text": "Because di hand of di Lord go rest for dis mountain, and Moab go dey trodden down for im place, even as straw dey trodden down for di dunghill."
+        },
+        {
+          "verse": 11,
+          "text": "E go spread out im hands for di middle of am, as swimmer spread out hands to swim. But di Lord go bring down im pride together with di craft of im hands."
+        },
+        {
+          "verse": 12,
+          "text": "Di high fortress of your walls, e go bring down, lay low, and bring to di ground, to di dust."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For dat day dem go sing dis song for di land of Judah: “We get strong city. Salvation dem go appoint for walls and bulwarks."
+        },
+        {
+          "verse": 2,
+          "text": "Open di gates, make di righteous nation wey keep faith enter."
+        },
+        {
+          "verse": 3,
+          "text": "You go keep am for perfect peace, wey im mind dey stayed on you, because e dey trust you."
+        },
+        {
+          "verse": 4,
+          "text": "Trust for di Lord forever, because di Lord, di Lord, na everlasting rock."
+        },
+        {
+          "verse": 5,
+          "text": "Because e don bring down dem wey dwell on high, di lofty city. E lay am low, e lay am low even to di ground. E bring am even to di dust."
+        },
+        {
+          "verse": 6,
+          "text": "Di foot go trample am, even di feet of di poor and di steps of di needy.”"
+        },
+        {
+          "verse": 7,
+          "text": "Di way of di righteous dey level. You wey dey upright, you make di path of di righteous smooth."
+        },
+        {
+          "verse": 8,
+          "text": "Yes, for di way of your judgments, di Lord, we don wait for you. Di desire of our soul dey for your name, and for your memorial."
+        },
+        {
+          "verse": 9,
+          "text": "With my soul I don desire you for night. Yes, with my spirit inside me I go seek you earnestly, because when your judgments dey for di earth, di inhabitants of di world dey learn righteousness."
+        },
+        {
+          "verse": 10,
+          "text": "Though grace dey shown to di wicked, yet e no go learn righteousness. For di land of uprightness e go deal wickedly, and no go see di majesty of di Lord."
+        },
+        {
+          "verse": 11,
+          "text": "Di Lord, your hand dey lifted up, yet dem no see. But dem go see your zeal for di people, and dem go dey ashamed. Yes, fire go devour your adversaries."
+        },
+        {
+          "verse": 12,
+          "text": "Di Lord, you go establish peace for us, because you don also work all our works for us."
+        },
+        {
+          "verse": 13,
+          "text": "Di Lord our God, other lords beside you don get dominion over us, but by you only we go make mention of your name."
+        },
+        {
+          "verse": 14,
+          "text": "Dem dey dead. Dem no go live. Dem be ghosts. Dem no go rise. Therefore you don visit and destroy dem, and make all memory of dem perish."
+        },
+        {
+          "verse": 15,
+          "text": "You don increase di nation, di Lord. You don increase di nation. You dey glorified. You don enlarge all di borders of di land."
+        },
+        {
+          "verse": 16,
+          "text": "Di Lord, for trouble dem don visit you. Dem pour out prayer when your chastening dey upon dem."
+        },
+        {
+          "verse": 17,
+          "text": "Like woman wey dey with child, wey draw near di time of delivery, dey in pain and cry out for her pangs, so we don dey before you, di Lord."
+        },
+        {
+          "verse": 18,
+          "text": "We don dey with child. We don dey in pain. We bring forth like wind. We no work any salvation for di earth, neither di inhabitants of di world don fall."
+        },
+        {
+          "verse": 19,
+          "text": "Your dead go live. My dead bodies go rise. Wake up and sing, una wey dwell for di dust, because your dew na di dew of herbs, and di earth go cast out di dead."
+        },
+        {
+          "verse": 20,
+          "text": "Come, my people, enter your rooms, and shut your doors behind you. Hide yourselves for small moment, until di indignation pass over."
+        },
+        {
+          "verse": 21,
+          "text": "Because see, di Lord dey come out of im place to punish di inhabitants of di earth for dem iniquity. Di earth go also disclose her blood, and no go cover her slain again."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For dat day di Lord with im hard and great and strong sword go punish Leviathan di fleeing serpent, and Leviathan di twisting serpent, and e go kill di dragon wey dey di sea."
+        },
+        {
+          "verse": 2,
+          "text": "For dat day, “Sing to am about vineyard of wine!"
+        },
+        {
+          "verse": 3,
+          "text": "I, di Lord, na im keeper. I go water am every moment. Make nobody damage am, I go keep am night and day."
+        },
+        {
+          "verse": 4,
+          "text": "I no get wrath. If only thorns and briers dey face me! I go march against dem. I go burn dem together."
+        },
+        {
+          "verse": 5,
+          "text": "Or make dem take hold of my strength, make dem make peace with me. Yes, make dem make peace with me.”"
+        },
+        {
+          "verse": 6,
+          "text": "For di coming days Jacob go take root. Israel go blossom and bud. Dem go fill di surface of di world with fruit."
+        },
+        {
+          "verse": 7,
+          "text": "Di Lord don strike am as e strike dem wey strike am? Or e don dey killed as dem wey kill am dey killed?"
+        },
+        {
+          "verse": 8,
+          "text": "In measure, when you send am away, you contend with am. E don remove am with im rough blast for di day of di east wind."
+        },
+        {
+          "verse": 9,
+          "text": "So by dis di iniquity of Jacob go dey atoned for, and dis na all di fruit of di taking away of im sin: when e make all di stones of di altar like chalk stones wey dem crush, di Asherah poles and di incense altars no go stand again."
+        },
+        {
+          "verse": 10,
+          "text": "Because di fortified city dey solitary, di habitation dey forsaken and abandoned like wilderness. Dere di calf go feed, and dere e go lie down, and consume di branches of am."
+        },
+        {
+          "verse": 11,
+          "text": "When di boughs of am dry, dem go dey broken off. Women go come and set dem on fire, because na people wey no get understanding. Therefore im Maker no go have compassion on dem, and im Creator no go show dem favour."
+        },
+        {
+          "verse": 12,
+          "text": "E go happen for dat day say di Lord go beat out grain from di flowing stream of di River to di brook of Egypt, and una go dey gathered one by one, una children of Israel."
+        },
+        {
+          "verse": 13,
+          "text": "E go happen for dat day say great trumpet go dey blown, and dem wey dey ready to perish for di land of Assyria, and dem wey dey outcasts for di land of Egypt, go come, and dem go worship di Lord for di holy mountain for Jerusalem."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to di crown of pride of di drunkards of Ephraim, and to di fading flower of im glorious beauty, wey dey di head of di fertile valley of dem wey wine overcome!"
+        },
+        {
+          "verse": 2,
+          "text": "See, di Lord get one wey dey mighty and strong, like storm of hail, destroying tempest, like storm of mighty overflowing waters. E go cast am down to di earth with im hand."
+        },
+        {
+          "verse": 3,
+          "text": "Di crown of pride of di drunkards of Ephraim go dey trodden under foot."
+        },
+        {
+          "verse": 4,
+          "text": "Di fading flower of im glorious beauty, wey dey di head of di fertile valley, go be like di first-ripe fig before di summer, wey when person see, e eat am while e still dey im hand."
+        },
+        {
+          "verse": 5,
+          "text": "For dat day di Lord of Armies go be for beautiful crown and for glorious diadem to di remnant of im people,"
+        },
+        {
+          "verse": 6,
+          "text": "and for spirit of justice to am wey sit for judgment, and for strength to dem wey turn back di battle for di gate."
+        },
+        {
+          "verse": 7,
+          "text": "Even dem dey stagger with wine, and dey stray with strong drink. Di priest and di prophet dey stagger with strong drink. Dem dey swallowed up of wine. Dem dey stray through strong drink. Dem dey stagger for vision. Dem dey stumble for judgment."
+        },
+        {
+          "verse": 8,
+          "text": "Because all di tables full of vomit and filth, no place clean."
+        },
+        {
+          "verse": 9,
+          "text": "“Who e go teach knowledge? Who e go make understand di message? Dem wey dey weaned from milk? Dem wey dey drawn from di breasts?"
+        },
+        {
+          "verse": 10,
+          "text": "Because na precept on precept, precept on precept, line on line, line on line, here small, dere small.”"
+        },
+        {
+          "verse": 11,
+          "text": "Yes, truly with stammering lips and with foreign tongue e go speak to dis people;"
+        },
+        {
+          "verse": 12,
+          "text": "to whom e talk, “Dis na di rest. Give rest to di weary,” and, “Dis na di refreshing.” Yet dem no go hear."
+        },
+        {
+          "verse": 13,
+          "text": "So di word of di Lord go be to dem precept on precept, precept on precept, line on line, line on line, here small, dere small, so that dem go go, fall backward, dey broken, dey snared and dey taken."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore hear di word of di Lord, una scoffers, wey rule dis people wey dey for Jerusalem."
+        },
+        {
+          "verse": 15,
+          "text": "Because una don talk, “We don make covenant with death, and with Sheol we don get agreement. When di overflowing scourge pass through, e no go come to us, because we don make lies our refuge, and for falsehood we don hide ourselves.”"
+        },
+        {
+          "verse": 16,
+          "text": "Therefore di Lord God talk, “See, I lay for Zion foundation stone, tested stone, precious cornerstone of sure foundation. Di one wey believe no go dey hasty."
+        },
+        {
+          "verse": 17,
+          "text": "I go make justice di measuring line, and righteousness di plumb line. Hail go sweep away di refuge of lies, and di waters go overflow di hiding place."
+        },
+        {
+          "verse": 18,
+          "text": "Una covenant with death go dey annulled, and una agreement with Sheol no go stand. When di overflowing scourge pass through, una go dey trodden down by am."
+        },
+        {
+          "verse": 19,
+          "text": "As often as e pass through, e go take una, because every morning e go pass through, for day and for night. E go be sheer terror to understand di message.”"
+        },
+        {
+          "verse": 20,
+          "text": "Because di bed too short for person to stretch imself on am, and di blanket too narrow to wrap imself inside."
+        },
+        {
+          "verse": 21,
+          "text": "Because di Lord go rise up as for Mount Perazim. E go dey angry as for di valley of Gibeon, so that e go do im work, im strange work, and bring to pass im act, im strange act."
+        },
+        {
+          "verse": 22,
+          "text": "Now therefore no be scoffers, lest una bands dey made strong, because I don hear from di Lord, di Lord of Armies, of decree of destruction upon di whole earth."
+        },
+        {
+          "verse": 23,
+          "text": "Give ear, and hear my voice. Listen, and hear my speech."
+        },
+        {
+          "verse": 24,
+          "text": "Di plowman dey plow all day to sow? E dey open and harrow im ground?"
+        },
+        {
+          "verse": 25,
+          "text": "When e don make di surface plain, e no dey scatter di dill, and sow di cumin, and plant wheat for rows, barley for im appointed place, and spelt for im border?"
+        },
+        {
+          "verse": 26,
+          "text": "Because im God instruct am di right way. E teach am."
+        },
+        {
+          "verse": 27,
+          "text": "Because dem no dey thresh dill with threshing sledge, neither dem dey roll cartwheel over cumin; but dem dey beat out dill with stick, and cumin with rod."
+        },
+        {
+          "verse": 28,
+          "text": "Grain dey crushed for bread? No, e no dey thresh am forever. Even though e drive im cartwheel and im horses over am, e no dey crush am."
+        },
+        {
+          "verse": 29,
+          "text": "Dis too come from di Lord of Armies, wey dey wonderful for counsel, and excellent for working."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to Ariel, to Ariel, di city wey David camp! Add year to year. Make di feasts go round."
+        },
+        {
+          "verse": 2,
+          "text": "Then I go distress Ariel, and e go be mourning and lamentation, and e go be to me like Ariel."
+        },
+        {
+          "verse": 3,
+          "text": "I go encamp against you all round, and I go lay siege against you with towers, and I go raise siegeworks against you."
+        },
+        {
+          "verse": 4,
+          "text": "You go dey brought down, and go speak from di ground, and your speech go dey low out of di dust. Your voice go be like dat of one wey get familiar spirit, out of di ground, and your speech go whisper out of di dust."
+        },
+        {
+          "verse": 5,
+          "text": "But di multitude of your foes go be like small dust, and di multitude of di ruthless like chaff wey dey pass away. Yes, e go be for instant, suddenly."
+        },
+        {
+          "verse": 6,
+          "text": "Di Lord of Armies go visit am with thunder, with earthquake, great noise, with whirlwind, storm, and flame of devouring fire."
+        },
+        {
+          "verse": 7,
+          "text": "Di multitude of all di nations wey fight against Ariel, even all wey fight against am and her stronghold, and wey distress am, go be like dream of night vision."
+        },
+        {
+          "verse": 8,
+          "text": "E go be like when hungry man dream, and see, e dey eat, but e wake and im soul dey empty; or like when thirsty man dream, and see, e dey drink, but e wake, and see, e faint, and im soul dey thirsty. So di multitude of all di nations go be, wey fight against Mount Zion."
+        },
+        {
+          "verse": 9,
+          "text": "Stop and wonder. Blind una yourselves, and dey blind. Dem dey drunk, but no with wine. Dem dey stagger, but no with strong drink."
+        },
+        {
+          "verse": 10,
+          "text": "Because di Lord don pour out on una di spirit of deep sleep, and don close una eyes, di prophets, and e don cover una heads, di seers."
+        },
+        {
+          "verse": 11,
+          "text": "Di whole vision don become to una like words of sealed book, wey men give to one wey dey learned, say, “Read dis, I beg,” and e talk, “I no fit, because e dey sealed.”"
+        },
+        {
+          "verse": 12,
+          "text": "Den dem give di book to one wey no dey learned, say, “Read dis, I beg,” and e talk, “I no dey learned.”"
+        },
+        {
+          "verse": 13,
+          "text": "Di Lord talk, “Because dis people draw near with dem mouth, and honour me with dem lips, but dem don remove dem heart far from me, and dem fear toward me na commandment of men wey dem don teach dem,"
+        },
+        {
+          "verse": 14,
+          "text": "therefore, see, I go continue to do marvelous work among dis people, marvelous work and wonder. Di wisdom of dem wise men go perish, and di understanding of dem prudent men go dey hidden.”"
+        },
+        {
+          "verse": 15,
+          "text": "Woe to dem wey go deep to hide dem counsel from di Lord, and dem works dey for di dark, and dem talk, “Who dey see us? Who know us?”"
+        },
+        {
+          "verse": 16,
+          "text": "You dey turn things upside down! Potter go dey regarded as clay? Di thing wey e make go talk about am wey make am say, “E no make me”? Or di thing wey e frame go talk about am wey frame am, “E no get understanding”?"
+        },
+        {
+          "verse": 17,
+          "text": "No be say na only small while, and Lebanon go turn to fruitful field, and di fruitful field go dey regarded as forest?"
+        },
+        {
+          "verse": 18,
+          "text": "For dat day di deaf go hear di words of di book, and di eyes of di blind go see out of obscurity and out of darkness."
+        },
+        {
+          "verse": 19,
+          "text": "Di humble also go increase dem joy for di Lord, and di poor among men go rejoice for di Holy One of Israel."
+        },
+        {
+          "verse": 20,
+          "text": "Because di ruthless dey brought to nothing, and di scoffer dey finished, and all wey watch for iniquity dey cut off,"
+        },
+        {
+          "verse": 21,
+          "text": "wey make man offender for word, and lay snare for am wey reprove for di gate, and turn aside di innocent with empty plea."
+        },
+        {
+          "verse": 22,
+          "text": "Therefore di Lord, wey redeem Abraham, talk concerning di house of Jacob: “Jacob no go dey ashamed now, neither im face go grow pale."
+        },
+        {
+          "verse": 23,
+          "text": "But when im children see di work of my hands for im middle, dem go sanctify my name. Yes, dem go sanctify di Holy One of Jacob, and go stand in awe of di God of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "Dem wey go astray for spirit go come to understanding, and dem wey murmur go learn doctrine.”"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "“Woe to di rebellious children,” talk di Lord, “wey take counsel, but no from me, and wey make alliance, but no by my Spirit, so that dem go add sin to sin;"
+        },
+        {
+          "verse": 2,
+          "text": "wey set out to go down to Egypt, and no ask my advice, to strengthen demselves for di strength of Pharaoh, and to take refuge for di shadow of Egypt!"
+        },
+        {
+          "verse": 3,
+          "text": "Therefore di strength of Pharaoh go be your shame, and di refuge for di shadow of Egypt your humiliation."
+        },
+        {
+          "verse": 4,
+          "text": "Because im princes dey for Zoan, and im ambassadors don reach Hanes."
+        },
+        {
+          "verse": 5,
+          "text": "Dem all go dey ashamed because of people wey no profit dem, wey no be help nor profit, but shame and also reproach.”"
+        },
+        {
+          "verse": 6,
+          "text": "Di burden of di animals of di South. Through land of trouble and anguish, from where di lioness and di lion, di viper and fiery flying serpent come, dem carry dem riches upon di backs of young donkeys, and dem treasures upon di humps of camels, to people wey no go profit dem."
+        },
+        {
+          "verse": 7,
+          "text": "Di help of Egypt na vain and to no purpose. Therefore I don call am Rahab wey sit still."
+        },
+        {
+          "verse": 8,
+          "text": "Now go, write am before dem on tablet, and inscribe am for book, so that e go dey for time to come as witness forever."
+        },
+        {
+          "verse": 9,
+          "text": "Because dis na rebellious people, lying children, children wey no go hear di law of di Lord;"
+        },
+        {
+          "verse": 10,
+          "text": "wey talk to di seers, “No see,” and to di prophets, “No prophesy to us right things. Speak to us smooth things. Prophesy deceits."
+        },
+        {
+          "verse": 11,
+          "text": "Get out of di way. Turn aside from di path. Cause di Holy One of Israel to cease from before us.”"
+        },
+        {
+          "verse": 12,
+          "text": "Therefore di Holy One of Israel talk, “Because una despise dis word, and trust for oppression and perversity, and rely on am,"
+        },
+        {
+          "verse": 13,
+          "text": "therefore dis iniquity go be to una like breach ready to fall, bulging out for high wall, wey im breaking come suddenly, for one moment."
+        },
+        {
+          "verse": 14,
+          "text": "E go break am like di breaking of potter vessel, wey dem break in pieces without sparing, so that no shard go dey found among di pieces to take fire from di hearth, or to scoop water from di cistern.”"
+        },
+        {
+          "verse": 15,
+          "text": "Because di Lord God, di Holy One of Israel, talk like dis: “For returning and rest una go dey saved. For quietness and for confidence go be una strength.” But una no go."
+        },
+        {
+          "verse": 16,
+          "text": "Una talk, “No, but we go flee on horses,” therefore una go flee. “We go ride on di swift,” therefore dem wey pursue una go dey swift."
+        },
+        {
+          "verse": 17,
+          "text": "1,000 go flee at di threat of one. At di threat of five una go flee, until una dey left as flagstaff on di top of mountain, and as banner on hill."
+        },
+        {
+          "verse": 18,
+          "text": "Therefore di Lord go wait, so that e go dey gracious to una. Therefore e go dey exalted, so that e go have mercy on una, because di Lord na God of justice. Blessed be all dem wey wait for am."
+        },
+        {
+          "verse": 19,
+          "text": "Because people go dwell for Zion at Jerusalem. You go weep no more. E go surely dey gracious to you at di voice of your cry. When e hear, e go answer you."
+        },
+        {
+          "verse": 20,
+          "text": "Though di Lord give you di bread of adversity and di water of affliction, yet your teachers no go hide demselves any more, but your eyes go see your teachers."
+        },
+        {
+          "verse": 21,
+          "text": "Your ears go hear word behind you, say, “Dis na di way. Waka for am,” when you turn to di right hand, and when you turn to di left."
+        },
+        {
+          "verse": 22,
+          "text": "Una go defile di covering of una engraved images of silver, and di plating of una molten images of gold. Una go cast dem away like menstrual cloth. Una go talk to dem, “Get out of here!”"
+        },
+        {
+          "verse": 23,
+          "text": "E go give di rain for your seed, wey you go sow di ground with, and bread of di increase of di ground, and e go be rich and plentiful. For dat day your livestock go feed for large pastures."
+        },
+        {
+          "verse": 24,
+          "text": "Di oxen and di young donkeys wey till di ground go eat savoury fodder, wey dem winnow with shovel and with fork."
+        },
+        {
+          "verse": 25,
+          "text": "For every lofty mountain and for every high hill go dey streams and watercourses of water, for di day of di great slaughter, when towers fall."
+        },
+        {
+          "verse": 26,
+          "text": "Moreover di light of di moon go be like di light of di sun, and di light of di sun go be seven times brighter, like di light of seven days, for di day wey di Lord bind up di bruise of im people and heal di wound wey im strike."
+        },
+        {
+          "verse": 27,
+          "text": "See, di name of di Lord dey come from far, burning with im anger, and in thick rising smoke. Im lips dey full of indignation, and im tongue dey like devouring fire."
+        },
+        {
+          "verse": 28,
+          "text": "Im breath dey like overflowing stream wey reach up to di neck, to sift di nations with sieve of destruction. Bridle wey dey cause error dey for di jaws of di peoples."
+        },
+        {
+          "verse": 29,
+          "text": "Una go get song as for di night when holy feast dey kept, and gladness of heart, as when person dey go with flute to go up to di mountain of di Lord, to di Rock of Israel."
+        },
+        {
+          "verse": 30,
+          "text": "Di Lord go cause im glorious voice to dey heard, and go show di coming down of im arm, with di indignation of im anger, and di flame of devouring fire, with cloudburst, storm and hailstones."
+        },
+        {
+          "verse": 31,
+          "text": "Because through di voice of di Lord Assyria go dey dismayed. E go strike dem with rod."
+        },
+        {
+          "verse": 32,
+          "text": "Every stroke of di appointed staff, wey di Lord go lay on am, go be with tambourines and harps. Di Lord go fight am with battles of brandishing."
+        },
+        {
+          "verse": 33,
+          "text": "Because Topheth dey ready long ago. Yes, e dey prepared for di king. E don make am deep and wide, wey im pile na fire and plenty wood. Di breath of di Lord, like stream of sulfur, dey kindle am."
+        }
+      ]
+    }
+  ]
+}
