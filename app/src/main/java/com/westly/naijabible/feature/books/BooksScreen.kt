@@ -3,6 +3,7 @@ package com.westly.naijabible.feature.books
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -38,6 +39,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
@@ -71,12 +73,13 @@ private const val TAB_NEW = 1
 
 /**
  * Books tab: header with the search bar, the Old / New Testament tabs and the list of the 66 books.
- * Books with no text file are greyed and say "Coming soon". Cards are not clickable yet (Phase 4).
+ * Books with no text file are greyed and say "Coming soon". A book with text opens its chapter picker.
  */
 @Composable
 fun BooksScreen(
     index: BibleIndex,
     onOpenSettings: () -> Unit,
+    onOpenBook: (Int) -> Unit,
     modifier: Modifier = Modifier
 ) {
     val colors = NaijaTheme.colors
@@ -128,9 +131,9 @@ fun BooksScreen(
 
         when {
             searching && results.isEmpty() -> EmptySearchMessage(typed)
-            searching -> BookList(results, index, searchState)
-            selectedTab == TAB_OLD -> BookList(BookCatalog.oldTestament, index, oldState)
-            else -> BookList(BookCatalog.newTestament, index, newState)
+            searching -> BookList(results, index, searchState, onOpenBook)
+            selectedTab == TAB_OLD -> BookList(BookCatalog.oldTestament, index, oldState, onOpenBook)
+            else -> BookList(BookCatalog.newTestament, index, newState, onOpenBook)
         }
     }
 }
@@ -258,6 +261,7 @@ private fun BookList(
     books: List<BookInfo>,
     index: BibleIndex,
     listState: LazyListState,
+    onOpenBook: (Int) -> Unit,
     modifier: Modifier = Modifier
 ) {
     LazyColumn(
@@ -267,7 +271,11 @@ private fun BookList(
         verticalArrangement = Arrangement.spacedBy(10.dp)
     ) {
         items(books, key = { it.number }) { book ->
-            BookCard(book = book, available = index.isBookAvailable(book.number))
+            BookCard(
+                book = book,
+                available = index.isBookAvailable(book.number),
+                onClick = { onOpenBook(book.number) }
+            )
         }
     }
 }
@@ -276,6 +284,7 @@ private fun BookList(
 private fun BookCard(
     book: BookInfo,
     available: Boolean,
+    onClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val colors = NaijaTheme.colors
@@ -310,6 +319,8 @@ private fun BookCard(
             .then(
                 if (available) {
                     Modifier
+                        .clip(shape)
+                        .clickable(role = Role.Button, onClick = onClick)
                 } else {
                     Modifier.clearAndSetSemantics {
                         contentDescription = comingSoonDescription

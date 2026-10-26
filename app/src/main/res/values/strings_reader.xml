@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="testament_old">Old Testament</string>
+    <string name="testament_new">New Testament</string>
+    <string name="chapters_subtitle">%1$s · %2$s</string>
+    <string name="chapters_choose">Choose a chapter</string>
+    <string name="cd_chapter">Chapter %1$d</string>
+    <string name="cd_chapter_unavailable">Chapter %1$d, not yet available</string>
+
+    <string name="reading_title">%1$s %2$d</string>
+    <string name="reading_chapter_title">Chapter %1$d</string>
+    <string name="reading_previous">Previous</string>
+    <string name="reading_next">Next</string>
+    <string name="reading_unavailable">This chapter is not available yet.</string>
+    <string name="reading_bookmarked">Bookmarked</string>
+    <string name="reading_not_bookmarked">Not bookmarked</string>
+    <string name="cd_toggle_bookmark">Toggle bookmark</string>
+
+    <string name="text_size_title">Text size</string>
+    <string name="text_size_state">Size %1$d of %2$d</string>
+</resources>
