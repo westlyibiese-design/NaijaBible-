@@ -9,10 +9,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.ReadOnlyComposable
 import androidx.compose.runtime.compositionLocalOf
+import androidx.compose.runtime.remember
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.unit.Density
 import androidx.compose.ui.unit.dp
 
-/** Verse text multiplier chosen in Settings. The reading screen (Phase 4) multiplies it on top of the phone's font scale. */
+/** Reading text multiplier chosen with the "Aa" button. It is applied on top of the app text size. */
 val LocalReadingTextScale = compositionLocalOf { 1f }
 
 private val NaijaShapes = Shapes(
@@ -76,4 +79,21 @@ fun NaijaBibleTheme(
             content = content
         )
     }
+}
+
+/**
+ * App text size: every sp text below this point is multiplied by [scale], on top of the phone's own
+ * font scale. The provider is always present (also at 1.0), so changing the size live never rebuilds
+ * the screen, and a slider being dragged keeps working.
+ */
+@Composable
+fun AppTextScaleProvider(
+    scale: Float,
+    content: @Composable () -> Unit
+) {
+    val base = LocalDensity.current
+    val scaled = remember(base.density, base.fontScale, scale) {
+        if (scale == 1f) base else Density(base.density, base.fontScale * scale)
+    }
+    CompositionLocalProvider(LocalDensity provides scaled, content = content)
 }

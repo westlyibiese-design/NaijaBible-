@@ -9,7 +9,8 @@
     <string name="settings_display">Display</string>
     <string name="settings_dark_mode">Dark mode</string>
     <string name="settings_dark_mode_sub">Switch to dark theme</string>
-    <string name="settings_text_size_sub">Adjust the verse text size</string>
+    <string name="settings_app_text_size">App text size</string>
+    <string name="settings_text_size_sub">Adjust the text size of the whole app</string>
     <string name="settings_about_section">About</string>
     <string name="settings_about_app">About Naija Bible</string>
     <string name="settings_about_app_sub">Learn more about the app</string>

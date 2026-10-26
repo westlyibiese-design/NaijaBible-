@@ -13,6 +13,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -49,6 +50,7 @@ import androidx.compose.ui.semantics.stateDescription
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.westly.naijabible.R
@@ -79,12 +81,11 @@ fun ReadingScreen(
     index: BibleIndex,
     repository: BibleRepository,
     bookmarks: Set<BookmarkKey>,
-    textSizeStep: Int,
-    onTextSizeStepChange: (Int) -> Unit,
+    readingTextSizeStep: Int,
+    onReadingTextSizeStepChange: (Int) -> Unit,
     onToggleBookmark: (BookmarkKey) -> Unit,
     onChapterShown: (bookNumber: Int, chapter: Int) -> Unit,
     onBack: (currentBook: Int) -> Unit,
-    onOpenBookmarks: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val colors = NaijaTheme.colors
@@ -146,8 +147,7 @@ fun ReadingScreen(
         NaijaReadingHeader(
             title = stringResource(R.string.reading_title, bookName, chapter),
             onBack = { onBack(book) },
-            onTextSizeClick = { showSizeSheet = true },
-            onBookmarksClick = onOpenBookmarks
+            onTextSizeClick = { showSizeSheet = true }
         )
 
         Box(
@@ -208,8 +208,8 @@ fun ReadingScreen(
 
     if (showSizeSheet) {
         TextSizeSheet(
-            step = textSizeStep,
-            onStepChange = onTextSizeStepChange,
+            step = readingTextSizeStep,
+            onStepChange = onReadingTextSizeStepChange,
             onDismiss = { showSizeSheet = false }
         )
     }
@@ -391,14 +391,14 @@ private fun NavButton(
 
     Row(
         modifier
-            .height(56.dp)
+            .heightIn(min = 56.dp)
             .clip(shape)
             .background(if (solid) colors.buttonNext else Color.Transparent, shape)
             .then(
                 if (solid) Modifier else Modifier.border(1.dp, colors.buttonPreviousBorder, shape)
             )
             .clickable(enabled = enabled, role = Role.Button, onClick = onClick)
-            .padding(horizontal = 16.dp),
+            .padding(horizontal = 12.dp, vertical = 8.dp),
         horizontalArrangement = Arrangement.Center,
         verticalAlignment = Alignment.CenterVertically
     ) {
@@ -409,16 +409,19 @@ private fun NavButton(
                 tint = arrowColor,
                 modifier = Modifier.size(22.dp)
             )
-            Spacer(Modifier.width(12.dp))
+            Spacer(Modifier.width(8.dp))
         }
         Text(
             text = label,
             color = contentColor,
             fontSize = 18.sp,
-            fontWeight = FontWeight.SemiBold
+            fontWeight = FontWeight.SemiBold,
+            maxLines = 1,
+            overflow = TextOverflow.Ellipsis,
+            modifier = Modifier.weight(1f, fill = false)
         )
         if (forward) {
-            Spacer(Modifier.width(12.dp))
+            Spacer(Modifier.width(8.dp))
             Icon(
                 imageVector = Icons.AutoMirrored.Filled.ArrowForward,
                 contentDescription = null,
@@ -429,7 +432,7 @@ private fun NavButton(
     }
 }
 
-/** Compact bottom sheet "Text size" with the slider. No sample verse. */
+/** Compact bottom sheet "Reading text size" with the slider. It changes only the reading text. No sample verse. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun TextSizeSheet(
@@ -451,14 +454,18 @@ private fun TextSizeSheet(
                 .padding(start = 24.dp, end = 24.dp, bottom = 20.dp)
         ) {
             Text(
-                text = stringResource(R.string.text_size_title),
+                text = stringResource(R.string.reading_text_size_title),
                 color = colors.textPrimary,
                 fontSize = 20.sp,
                 lineHeight = 26.sp,
                 fontWeight = FontWeight.ExtraBold
             )
             Spacer(Modifier.height(12.dp))
-            TextSizeControl(step = step, onStepChange = onStepChange)
+            TextSizeControl(
+                step = step,
+                onStepChange = onStepChange,
+                label = stringResource(R.string.reading_text_size_title)
+            )
         }
     }
 }

@@ -26,6 +26,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalConfiguration
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.clearAndSetSemantics
@@ -34,6 +36,7 @@ import androidx.compose.ui.semantics.disabled
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.westly.naijabible.R
@@ -59,6 +62,8 @@ fun ChaptersScreen(
 ) {
     val colors = NaijaTheme.colors
     val gridState = rememberLazyGridState()
+    // Width of one chapter button (portrait only): the screen minus the side padding and the 4 gaps, over 5.
+    val chipWidth = ((LocalConfiguration.current.screenWidthDp - 40 - 4 * 12) / 5f).dp
 
     Column(
         modifier
@@ -83,6 +88,7 @@ fun ChaptersScreen(
                     chapter = chapter,
                     available = index.isChapterAvailable(book.number, chapter),
                     lastRead = chapter == lastReadChapter,
+                    chipWidth = chipWidth,
                     onClick = { onOpenChapter(chapter) }
                 )
             }
@@ -134,10 +140,17 @@ private fun ChapterChip(
     chapter: Int,
     available: Boolean,
     lastRead: Boolean,
+    chipWidth: Dp,
     onClick: () -> Unit
 ) {
     val colors = NaijaTheme.colors
     val shape = RoundedCornerShape(16.dp)
+    // The number follows the app text size, but never grows wider than the button
+    // (Psalms have 3-digit chapters, and the phone's font size can be large too).
+    val density = LocalDensity.current
+    val wanted = with(density) { 22.sp.toDp() }
+    val widest = (chipWidth - 8.dp) / (chapter.toString().length * 0.66f)
+    val numberSize = with(density) { (if (wanted < widest) wanted else widest).toSp() }
     val description = if (available) {
         stringResource(R.string.cd_chapter, chapter)
     } else {
@@ -196,10 +209,11 @@ private fun ChapterChip(
         Text(
             text = chapter.toString(),
             color = textColor,
-            fontSize = 22.sp,
+            fontSize = numberSize,
             fontWeight = FontWeight.ExtraBold,
             textAlign = TextAlign.Center,
             maxLines = 1,
+            softWrap = false,
             modifier = Modifier.clearAndSetSemantics { }
         )
     }

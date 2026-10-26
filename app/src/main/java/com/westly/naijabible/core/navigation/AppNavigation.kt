@@ -24,6 +24,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavGraph.Companion.findStartDestination
@@ -83,7 +84,7 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
     val readerStore = remember { ReaderStore(context) }
     val preferences = remember { AppPreferences(context) }
 
-    // Observed by the whole app: saved bookmarks, the chapter opened last in each book, the text size.
+    // Observed by the whole app: saved bookmarks, the chapter opened last in each book, the text sizes.
     val bookmarks by readerStore.bookmarks.collectAsState(initial = emptySet())
     val lastRead by readerStore.lastRead.collectAsState(initial = emptyMap())
     val settings by preferences.settings.collectAsState(initial = AppSettings())
@@ -192,9 +193,9 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
                     index = bibleIndex,
                     repository = repository,
                     bookmarks = bookmarks,
-                    textSizeStep = settings.textSizeStep,
-                    onTextSizeStepChange = { step ->
-                        scope.launch { preferences.setTextSizeStep(step) }
+                    readingTextSizeStep = settings.readingTextSizeStep,
+                    onReadingTextSizeStepChange = { step ->
+                        scope.launch { preferences.setReadingTextSizeStep(step) }
                     },
                     onToggleBookmark = { bookmark: BookmarkKey ->
                         scope.launch { readerStore.toggleBookmark(bookmark) }
@@ -202,8 +203,7 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
                     onChapterShown = { bookNumber, chapter ->
                         scope.launch { readerStore.setLastRead(bookNumber, chapter) }
                     },
-                    onBack = { currentBook -> leaveReading(currentBook) },
-                    onOpenBookmarks = { navController.navigate(TopDestination.Bookmarks.route) }
+                    onBack = { currentBook -> leaveReading(currentBook) }
                 )
             }
             composable(TopDestination.Bookmarks.route) {
@@ -222,9 +222,9 @@ fun NaijaBibleApp(bibleIndex: BibleIndex) {
             }
             composable(TopDestination.Settings.route) {
                 SettingsScreen(
-                    textSizeStep = settings.textSizeStep,
-                    onTextSizeStepChange = { step ->
-                        scope.launch { preferences.setTextSizeStep(step) }
+                    appTextSizeStep = settings.appTextSizeStep,
+                    onAppTextSizeStepChange = { step ->
+                        scope.launch { preferences.setAppTextSizeStep(step) }
                     },
                     onDarkModeChange = { dark ->
                         scope.launch { preferences.setDarkMode(dark) }
@@ -271,7 +271,9 @@ private fun NaijaBottomBar(
                         Text(
                             text = stringResource(destination.labelRes),
                             fontSize = 12.sp,
-                            fontWeight = FontWeight.SemiBold
+                            fontWeight = FontWeight.SemiBold,
+                            maxLines = 1,
+                            overflow = TextOverflow.Ellipsis
                         )
                     },
                     alwaysShowLabel = true,

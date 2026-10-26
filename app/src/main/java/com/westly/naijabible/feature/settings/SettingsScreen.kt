@@ -50,12 +50,13 @@ import com.westly.naijabible.core.ui.TextSizeIcon
 
 /**
  * Settings tab: Display (Dark mode, Text size) and About (About, Rate, Share, Report a mistake).
- * Dark mode shows the theme that is really in use. Text size is the same setting as the "Aa" sheet.
+ * Dark mode shows the theme that is really in use. Text size here is the App text size (the whole app);
+ * the "Aa" button on the reading screen has its own, separate Reading text size.
  */
 @Composable
 fun SettingsScreen(
-    textSizeStep: Int,
-    onTextSizeStepChange: (Int) -> Unit,
+    appTextSizeStep: Int,
+    onAppTextSizeStepChange: (Int) -> Unit,
     onDarkModeChange: (Boolean) -> Unit,
     onOpenAbout: () -> Unit,
     modifier: Modifier = Modifier
@@ -107,13 +108,14 @@ fun SettingsScreen(
                 )
                 RowDivider()
                 SettingRow(
-                    title = stringResource(R.string.text_size_title),
+                    title = stringResource(R.string.settings_app_text_size),
                     subtitle = stringResource(R.string.settings_text_size_sub),
                     icon = { TextSizeIcon(tint = colors.settingsIcon) }
                 )
                 TextSizeControl(
-                    step = textSizeStep,
-                    onStepChange = onTextSizeStepChange,
+                    step = appTextSizeStep,
+                    onStepChange = onAppTextSizeStepChange,
+                    label = stringResource(R.string.settings_app_text_size),
                     modifier = Modifier.padding(start = 20.dp, end = 20.dp, bottom = 16.dp)
                 )
             }
@@ -135,7 +137,7 @@ fun SettingsScreen(
                     subtitle = stringResource(R.string.settings_rate_sub),
                     icon = { StarIcon(tint = colors.settingsIcon) },
                     modifier = Modifier.clickable(role = Role.Button) {
-                        // Rate this app: will be connected after the app is on Google Play.
+                        // TODO: Rate this app. Will be connected after the app is on Google Play.
                     },
                     trailing = { ChevronIcon(tint = colors.gold) }
                 )
@@ -145,7 +147,7 @@ fun SettingsScreen(
                     subtitle = stringResource(R.string.settings_share_sub),
                     icon = { ShareIcon(tint = colors.settingsIcon) },
                     modifier = Modifier.clickable(role = Role.Button) {
-                        // Share this app: will be connected after the app is on Google Play.
+                        // TODO: Share this app. Will be connected after the app is on Google Play.
                     },
                     trailing = { ChevronIcon(tint = colors.gold) }
                 )

@@ -23,6 +23,7 @@ import com.westly.naijabible.core.navigation.NaijaBibleApp
 import com.westly.naijabible.core.prefs.AppPreferences
 import com.westly.naijabible.core.prefs.AppSettings
 import com.westly.naijabible.core.prefs.DarkModeChoice
+import com.westly.naijabible.core.theme.AppTextScaleProvider
 import com.westly.naijabible.core.theme.NaijaBibleTheme
 import com.westly.naijabible.feature.splash.AnimatedSplash
 import kotlinx.coroutines.Dispatchers
@@ -89,7 +90,10 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Box(Modifier.fillMaxSize()) {
                         if ((splashDone || appPreloaded) && index != null) {
-                            NaijaBibleApp(bibleIndex = index)
+                            // The splash keeps its own fixed sizes; only the app follows the App text size.
+                            AppTextScaleProvider(scale = current.appTextScale) {
+                                NaijaBibleApp(bibleIndex = index)
+                            }
                         }
                         if (!splashDone) {
                             AnimatedSplash(

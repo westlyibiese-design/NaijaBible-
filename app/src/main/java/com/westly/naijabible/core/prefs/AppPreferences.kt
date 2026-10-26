@@ -20,7 +20,7 @@ private val Context.settingsDataStore: DataStore<Preferences> by preferencesData
 /** Dark mode choice. Until the person picks one, the app follows the phone. */
 enum class DarkModeChoice { FOLLOW_SYSTEM, DARK, LIGHT }
 
-/** Reading text sizes. The step is saved; the scale is multiplied on top of the phone's font size. */
+/** Reading text sizes (the "Aa" button). The step is saved; the scale is multiplied on top of the app text size. */
 object ReadingTextScale {
     val steps: List<Float> = listOf(0.85f, 0.92f, 1.00f, 1.15f, 1.30f)
     const val DEFAULT_STEP: Int = 2
@@ -28,12 +28,24 @@ object ReadingTextScale {
     fun forStep(step: Int): Float = steps[step.coerceIn(0, steps.lastIndex)]
 }
 
+/** App text sizes (the slider in Settings). The step is saved; the scale is multiplied on top of the phone's font size. */
+object AppTextScale {
+    val steps: List<Float> = listOf(0.85f, 0.92f, 1.00f, 1.12f, 1.25f)
+    const val DEFAULT_STEP: Int = 2
+
+    fun forStep(step: Int): Float = steps[step.coerceIn(0, steps.lastIndex)]
+}
+
 data class AppSettings(
     val darkMode: DarkModeChoice = DarkModeChoice.FOLLOW_SYSTEM,
-    val textSizeStep: Int = ReadingTextScale.DEFAULT_STEP
+    val appTextSizeStep: Int = AppTextScale.DEFAULT_STEP,
+    val readingTextSizeStep: Int = ReadingTextScale.DEFAULT_STEP
 ) {
-    /** Multiplier for verse text. The reading screen (Phase 4) multiplies this on top of the phone's font scale. */
-    val readingTextScale: Float get() = ReadingTextScale.forStep(textSizeStep)
+    /** Multiplier for the text of the whole app. */
+    val appTextScale: Float get() = AppTextScale.forStep(appTextSizeStep)
+
+    /** Multiplier for the reading text only (verses, verse numbers, chapter and psalm titles). */
+    val readingTextScale: Float get() = ReadingTextScale.forStep(readingTextSizeStep)
 }
 
 class AppPreferences(context: Context) {
@@ -51,7 +63,9 @@ class AppPreferences(context: Context) {
                     VALUE_LIGHT -> DarkModeChoice.LIGHT
                     else -> DarkModeChoice.FOLLOW_SYSTEM
                 },
-                textSizeStep = (prefs[TEXT_SIZE_STEP_KEY] ?: ReadingTextScale.DEFAULT_STEP)
+                appTextSizeStep = (prefs[APP_TEXT_SIZE_STEP_KEY] ?: AppTextScale.DEFAULT_STEP)
+                    .coerceIn(0, AppTextScale.steps.lastIndex),
+                readingTextSizeStep = (prefs[READING_TEXT_SIZE_STEP_KEY] ?: ReadingTextScale.DEFAULT_STEP)
                     .coerceIn(0, ReadingTextScale.steps.lastIndex)
             )
         }
@@ -60,13 +74,19 @@ class AppPreferences(context: Context) {
         store.edit { it[DARK_MODE_KEY] = if (dark) VALUE_DARK else VALUE_LIGHT }
     }
 
-    suspend fun setTextSizeStep(step: Int) {
-        store.edit { it[TEXT_SIZE_STEP_KEY] = step.coerceIn(0, ReadingTextScale.steps.lastIndex) }
+    suspend fun setAppTextSizeStep(step: Int) {
+        store.edit { it[APP_TEXT_SIZE_STEP_KEY] = step.coerceIn(0, AppTextScale.steps.lastIndex) }
+    }
+
+    suspend fun setReadingTextSizeStep(step: Int) {
+        store.edit { it[READING_TEXT_SIZE_STEP_KEY] = step.coerceIn(0, ReadingTextScale.steps.lastIndex) }
     }
 
     private companion object {
         val DARK_MODE_KEY = stringPreferencesKey("dark_mode")
-        val TEXT_SIZE_STEP_KEY = intPreferencesKey("text_size_step")
+        // The old key is kept for the reading text size, so a size saved before this update is not lost.
+        val READING_TEXT_SIZE_STEP_KEY = intPreferencesKey("text_size_step")
+        val APP_TEXT_SIZE_STEP_KEY = intPreferencesKey("app_text_size_step")
         const val VALUE_DARK = "dark"
         const val VALUE_LIGHT = "light"
     }

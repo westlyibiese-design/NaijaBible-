@@ -23,6 +23,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.ProgressBarRangeInfo
 import androidx.compose.ui.semantics.contentDescription
@@ -32,7 +33,6 @@ import androidx.compose.ui.semantics.setProgress
 import androidx.compose.ui.semantics.stateDescription
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import com.westly.naijabible.R
 import com.westly.naijabible.core.prefs.ReadingTextScale
 import com.westly.naijabible.core.theme.NaijaTheme
@@ -41,15 +41,20 @@ import kotlin.math.roundToInt
 /**
  * The text size slider: a small "A", a gold track with a gold knob and 5 steps, a large "A".
  * [step] is 0 (smallest) to 4 (largest). [onStepChange] is called only when the step really changes.
- * Used on the reading screen (Aa sheet) and, from Phase 5, in Settings.
+ * Used twice, each with its own saved value: the reading screen (Aa sheet, reading text size)
+ * and Settings (app text size). [label] is what a screen reader says for this slider.
+ * The two "A" letters have a fixed size, so the slider does not move under the finger while
+ * the whole app changes size.
  */
 @Composable
 fun TextSizeControl(
     step: Int,
     onStepChange: (Int) -> Unit,
+    label: String,
     modifier: Modifier = Modifier
 ) {
     val colors = NaijaTheme.colors
+    val density = LocalDensity.current
     val lastIndex = ReadingTextScale.steps.lastIndex
     val currentOnStepChange by rememberUpdatedState(onStepChange)
 
@@ -72,7 +77,6 @@ fun TextSizeControl(
         return (fraction * lastIndex).roundToInt()
     }
 
-    val label = stringResource(R.string.text_size_title)
     val stateText = stringResource(R.string.text_size_state, shown + 1, lastIndex + 1)
 
     Row(
@@ -82,7 +86,7 @@ fun TextSizeControl(
         Text(
             text = "A",
             color = colors.textSecondary,
-            fontSize = 18.sp,
+            fontSize = with(density) { 18.dp.toSp() },
             fontWeight = FontWeight.SemiBold
         )
         Spacer(Modifier.width(10.dp))
@@ -152,7 +156,7 @@ fun TextSizeControl(
         Text(
             text = "A",
             color = colors.textPrimary,
-            fontSize = 30.sp,
+            fontSize = with(density) { 30.dp.toSp() },
             fontWeight = FontWeight.Bold
         )
     }

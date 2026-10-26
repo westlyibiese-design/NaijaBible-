@@ -8,6 +8,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
@@ -24,6 +25,8 @@ import androidx.compose.ui.draw.clipToBounds
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
@@ -154,13 +157,12 @@ fun NaijaBackHeader(
     }
 }
 
-/** Slim header for reading: back arrow, centred title (for example "Genesis 1"), "Aa" and a bookmark (Phase 4). */
+/** Slim header for reading: back arrow, centred title (for example "Genesis 1") and the "Aa" button. */
 @Composable
 fun NaijaReadingHeader(
     title: String,
     onBack: () -> Unit,
     onTextSizeClick: () -> Unit,
-    onBookmarksClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     val colors = NaijaTheme.colors
@@ -168,7 +170,7 @@ fun NaijaReadingHeader(
         Box(
             Modifier
                 .statusBarsPadding()
-                .height(56.dp)
+                .heightIn(min = 56.dp)
                 .fillMaxWidth()
         ) {
             IconButton(
@@ -193,25 +195,22 @@ fun NaijaReadingHeader(
                 textAlign = TextAlign.Center,
                 modifier = Modifier
                     .align(Alignment.Center)
-                    .padding(horizontal = 112.dp)
+                    .padding(horizontal = 60.dp)
             )
-            Row(
-                Modifier
+            val textSizeLabel = stringResource(R.string.reading_text_size_title)
+            IconButton(
+                onClick = onTextSizeClick,
+                modifier = Modifier
                     .align(Alignment.CenterEnd)
-                    .padding(end = 4.dp),
-                verticalAlignment = Alignment.CenterVertically
+                    .padding(end = 4.dp)
+                    .semantics { contentDescription = textSizeLabel }
             ) {
-                IconButton(onClick = onTextSizeClick) {
-                    Text(
-                        text = "Aa",
-                        color = colors.onHeader,
-                        fontSize = 20.sp,
-                        fontWeight = FontWeight.SemiBold
-                    )
-                }
-                IconButton(onClick = onBookmarksClick) {
-                    BookmarkIcon(filled = false, tint = colors.onHeader, size = 26.dp)
-                }
+                Text(
+                    text = "Aa",
+                    color = colors.onHeader,
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.SemiBold
+                )
             }
         }
     }

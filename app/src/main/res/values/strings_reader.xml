@@ -16,6 +16,6 @@
     <string name="reading_not_bookmarked">Not bookmarked</string>
     <string name="cd_toggle_bookmark">Toggle bookmark</string>
 
-    <string name="text_size_title">Text size</string>
+    <string name="reading_text_size_title">Reading text size</string>
     <string name="text_size_state">Size %1$d of %2$d</string>
 </resources>
